@@ -20,6 +20,8 @@ input[type=search]{min-width:240px;flex:1;max-width:420px}
 .chip{border:1px solid var(--line);background:var(--chip);color:var(--fg);border-radius:999px;padding:5px 12px;cursor:pointer;font:inherit}
 .chip[aria-pressed=true]{background:var(--on);color:var(--onfg);border-color:var(--on)}
 .btn{border:1px solid var(--line);background:var(--chip);color:var(--fg);border-radius:8px;padding:6px 10px;cursor:pointer;font:inherit}
+.tgl{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);background:var(--chip);border-radius:8px;padding:6px 10px;cursor:pointer;user-select:none}
+.hide-oi .oi{display:none}.hide-oi table{min-width:1420px}
 .legend{color:var(--mut);font-size:12.5px;margin-top:6px}
 #count{color:var(--mut);margin-left:auto}
 .wrap{overflow:auto;max-height:calc(100vh - 190px);border-top:1px solid var(--line);min-height:300px}
@@ -48,6 +50,7 @@ footer{padding:12px 16px;color:var(--mut);font-size:12.5px}
 <div class="ctl">
 <input id="q" type="search" placeholder="Search muscle, function, exercise, remark..." aria-label="Search">
 <select id="art" aria-label="Articulation"><option value="">All articulations</option><option>Uniarticular</option><option>Biarticular</option><option>Triarticular</option><option>Multiarticular</option></select>
+<label class="tgl"><input type="checkbox" id="oi" checked> Show origin / insertion</label>
 <button class="btn" id="exp" type="button">Expand all remarks</button>
 <button class="btn" id="th" type="button">Dark / light</button>
 <span id="count"></span>
@@ -56,7 +59,7 @@ footer{padding:12px 16px;color:var(--mut);font-size:12.5px}
 <div class="legend">* after an exercise = not listed for that function in the course slides (added from standard training knowledge). [General] in remarks = standard anatomy / biomechanics knowledge, not from the slides. Articulation = number of joints the muscle crosses (the classification used here; confirm against the course material).</div>
 </header>
 <div class="wrap"><table>
-<colgroup><col style="width:90px"><col style="width:130px"><col style="width:150px"><col style="width:170px"><col style="width:170px"><col style="width:105px"><col style="width:140px"><col style="width:200px"><col style="width:190px"><col style="width:430px"></colgroup><thead><tr><th rowspan="2">Body Part</th><th colspan="2">Muscle</th><th rowspan="2">Origin</th><th rowspan="2">Insertion</th><th rowspan="2">Articulation</th><th rowspan="2">Function</th><th colspan="2">Exercises</th><th rowspan="2">Remarks</th></tr>
+<colgroup><col style="width:90px"><col style="width:130px"><col style="width:150px"><col class="oi" style="width:170px"><col class="oi" style="width:170px"><col style="width:105px"><col style="width:140px"><col style="width:200px"><col style="width:190px"><col style="width:430px"></colgroup><thead><tr><th rowspan="2">Body Part</th><th colspan="2">Muscle</th><th rowspan="2" class="oi">Origin</th><th rowspan="2" class="oi">Insertion</th><th rowspan="2">Articulation</th><th rowspan="2">Function</th><th colspan="2">Exercises</th><th rowspan="2">Remarks</th></tr>
 <tr><th>Muscle Group</th><th>Muscle</th><th>Compound Exercises</th><th>Isolation Exercises</th></tr></thead>
 <tbody id="tb"></tbody></table></div>
 <footer>Built from the Body Part course slide decks 1 to 5. For study use.</footer>
@@ -76,11 +79,15 @@ if(r.m!==prev){alt=!alt;prev=r.m}n++;
 const dash=v=>v==='—'?'<span class="dash">—</span>':hl(v,t);
 const short=full.length>170?esc(full.slice(0,170))+'…':esc(full);
 const bc='b-'+r.b.split(' ')[0];
-h+=`<tr class="${bc}${alt?' alt':''}"><td class="bp">${hl(r.b,t)}</td><td>${hl(r.g,t)}</td><td class="mu">${hl(r.m,t)}</td><td>${hl(r.o,t)}</td><td>${hl(r.i,t)}</td><td>${hl(r.a,t)}</td><td>${hl(r.f,t)}</td><td>${dash(r.c)}</td><td>${dash(r.s)}</td><td class="rem${open?' open':''}"><span class="short">${short}</span><span class="full">${hl(full,t)}</span> <button type="button" class="tg">${open?'Less':'More'}</button></td></tr>`}
+h+=`<tr class="${bc}${alt?' alt':''}"><td class="bp">${hl(r.b,t)}</td><td>${hl(r.g,t)}</td><td class="mu">${hl(r.m,t)}</td><td class="oi">${hl(r.o,t)}</td><td class="oi">${hl(r.i,t)}</td><td>${hl(r.a,t)}</td><td>${hl(r.f,t)}</td><td>${dash(r.c)}</td><td>${dash(r.s)}</td><td class="rem${open?' open':''}"><span class="short">${short}</span><span class="full">${hl(full,t)}</span> <button type="button" class="tg">${open?'Less':'More'}</button></td></tr>`}
 tb.innerHTML=h||'<tr><td colspan="10">No rows match.</td></tr>';cnt.textContent=n+' rows'}
 tb.addEventListener('click',e=>{if(e.target.classList.contains('tg')){const c=e.target.closest('.rem');c.classList.toggle('open');e.target.textContent=c.classList.contains('open')?'Less':'More'}});
 q.oninput=render;art.onchange=render;
 document.getElementById('exp').onclick=function(){open=!open;this.textContent=open?'Collapse all remarks':'Expand all remarks';render()};
 document.getElementById('th').onclick=()=>{const r=document.documentElement;const dark=getComputedStyle(r).getPropertyValue('--bg').trim()==='#15171a';r.dataset.theme=dark?'light':'dark'};
+const oi=document.getElementById('oi');
+function setOI(v){oi.checked=v;document.body.classList.toggle('hide-oi',!v);try{localStorage.setItem('showOI',v?'1':'0')}catch(e){}}
+oi.onchange=()=>setOI(oi.checked);
+try{if(localStorage.getItem('showOI')==='0')setOI(false)}catch(e){}
 mk();render();
 </script></body></html>
