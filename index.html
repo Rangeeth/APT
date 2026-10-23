@@ -56,17 +56,82 @@ footer{padding:12px 16px;color:var(--mut);font-size:12.5px}
 #lb .stage{flex:1;overflow:auto;width:100%;display:flex;justify-content:center;align-items:flex-start}
 #lb img{max-width:100%;max-height:calc(100vh - 90px);background:#fff;border-radius:6px;cursor:zoom-in}
 #lb img.full{max-width:none;max-height:none;cursor:zoom-out}
+
+.sbar{padding:0 16px 8px;background:var(--bg)}
+.sbar input{width:100%}
+header{padding-bottom:6px}
+.dm{display:inline}.dmb{display:none}
+td.dt{display:none}
+body.cards .wrap{max-height:none;overflow:visible;border-top:0;padding:4px 16px 16px;min-height:0}
+body.cards table,body.cards tbody,body.cards tr,body.cards td{display:block;width:100%}
+body.cards table{min-width:0!important;font-size:14px}
+body.cards thead,body.cards colgroup{display:none}
+body.cards tbody{display:grid;grid-template-columns:repeat(auto-fill,minmax(360px,1fr));gap:12px}
+body.cards tbody tr{border:1px solid var(--line);border-radius:12px;overflow:hidden;background:var(--bg);display:flex;flex-direction:column;margin:0}
+body.cards tr.alt td{filter:none}
+body.cards tbody td{border:0;border-bottom:1px solid var(--line);padding:7px 12px;display:flex;gap:10px;align-items:baseline}
+body.cards tbody td::before{content:attr(data-l);flex:0 0 92px;color:var(--mut);font-size:12px;text-transform:uppercase;letter-spacing:.03em}
+body.cards tbody td:last-child{border-bottom:0}
+body.cards td.mu{order:1;font-size:17px;font-weight:700;padding-top:12px;border-bottom:0}
+body.cards td.mu::before,body.cards td.bp::before,body.cards td.dt::before{display:none}
+body.cards td.gr{order:2;padding-top:0;font-size:13px;color:var(--mut)}
+body.cards td.gr::before{content:'Group:';flex:0 0 auto;text-transform:none;letter-spacing:0}
+body.cards td.bp{order:0;padding:8px 12px;font-size:12px;text-transform:uppercase;letter-spacing:.06em;background:rgba(0,0,0,.06);border-bottom:0}
+body.cards td.fn{order:3;font-weight:700;background:rgba(0,0,0,.05)}
+body.cards td.ex{order:4}
+body.cards td.dt{order:5;display:flex;padding:6px 12px}
+body.cards .dtb{border:1px solid var(--line);background:var(--chip);color:var(--link);border-radius:8px;padding:8px 14px;font:inherit;font-weight:600;cursor:pointer;width:100%}
+body.cards td.ar{order:6}body.cards td.o1{order:7}body.cards td.o2{order:8}
+body.cards td.rem{order:9;flex-wrap:wrap}
+body.cards td.rem::before{flex:1 1 100%}
+body.cards td.rem .short,body.cards td.rem .full{flex:1 1 100%}
+body.cards td.rem button{padding:6px 0}
+body.cards tr:not(.dopen) td.ar,body.cards tr:not(.dopen) td.o1,body.cards tr:not(.dopen) td.o2,body.cards tr:not(.dopen) td.rem{display:none}
+body.cards.hide-oi td.o1,body.cards.hide-oi td.o2{display:none!important}
+body.cards .hv::after{content:' \1F5BC';font-size:.8em}
+@media (max-width:760px){
+body{font-size:15px}
+header{padding:12px 12px 4px}
+h1{font-size:19px}
+.sub{font-size:13px;margin-bottom:10px}
+.disc{font-size:12.5px}
+.dm{display:none}.disc.open .dm{display:inline}
+.dmb{display:inline;border:0;background:none;color:inherit;text-decoration:underline;font:inherit;padding:2px 4px;cursor:pointer}
+.sbar{position:sticky;top:0;z-index:20;padding:8px 12px;border-bottom:1px solid var(--line)}
+.ctl{gap:6px}
+input[type=search]{min-width:0;max-width:none;font-size:16px;padding:10px 12px}
+select{flex:1 1 48%;font-size:16px;padding:9px 10px}
+.tgl{flex:1 1 100%}
+.btn{flex:1 1 30%;padding:9px 8px}
+#count{margin-left:0;flex:1 1 100%}
+#bp{flex-wrap:nowrap;overflow-x:auto;padding-bottom:6px;margin:0 -12px;padding-left:12px;padding-right:12px;-webkit-overflow-scrolling:touch}
+#bp .chip{flex:0 0 auto;padding:8px 14px}
+.legend{display:none}
+body.cards .wrap{padding:0 10px 14px}
+body.cards tbody{grid-template-columns:1fr}
+.wrap{max-height:calc(100vh - 70px)}
+#lb{padding:8px;background:#0a0c0e}
+#lb .bar{gap:6px}
+#lb .bar .c{flex:1 1 100%;order:3;min-width:0}
+#lb button{padding:9px 12px}
+#lb img{max-height:calc(100vh - 150px)}
+footer{padding:10px 12px}
+}
+@media (hover:none){#pv{display:none!important}}
 @media print{#pv,#lb{display:none!important}.hv{border:0}header .ctl,.btn{display:none}.wrap{max-height:none;overflow:visible}table{min-width:0;font-size:9px}thead th{position:static}.rem .full{display:block}.rem .short,.rem button{display:none}}
 </style></head><body>
 <header>
-<div class="disc" role="note"><strong>Disclaimer:</strong> This table may contain mistakes. It is study material prepared from course slides plus additional notes, and some entries (marked * or [General], and the Articulation column) are not from the slides. Please verify against the official course material before relying on it.</div>
+<div class="disc" role="note"><strong>Disclaimer:</strong> This table may contain mistakes.<span class="dm"> It is study material prepared from course slides plus additional notes, and some entries (marked * or [General], and the Articulation column) are not from the slides. Please verify against the official course material before relying on it.</span> <button type="button" class="dmb" id="dmb" aria-expanded="false">More</button></div>
 <h1>Body Parts: Muscle Table</h1>
 <p class="sub">Origin, insertion, articulation, function, exercises and remarks for the Legs, Back, Chest, Shoulders, Abdominals and Arms. One row per muscle function.</p>
+</header>
+<div class="sbar"><input id="q" type="search" placeholder="Search muscle, function, exercise, remark..." aria-label="Search"></div>
+<header style="padding-top:8px">
 <div class="ctl">
-<input id="q" type="search" placeholder="Search muscle, function, exercise, remark..." aria-label="Search">
 <select id="art" aria-label="Articulation"><option value="">All articulations</option><option>Uniarticular</option><option>Biarticular</option><option>Triarticular</option><option>Multiarticular</option></select>
 <label class="tgl"><input type="checkbox" id="oi" checked> Show origin / insertion</label>
 <button class="btn" id="exp" type="button">Expand all remarks</button>
+<button class="btn" id="vw" type="button" aria-label="Switch between cards and table view">View: Table</button>
 <button class="btn" id="th" type="button">Dark / light</button>
 <span id="count"></span>
 </div>
@@ -96,9 +161,9 @@ if(t&&!(r.b+' '+r.g+' '+r.m+' '+r.o+' '+r.i+' '+r.a+' '+r.f+' '+r.c+' '+r.s+' '+
 if(r.m!==prev){alt=!alt;prev=r.m}n++;
 const dash=v=>v==='—'?'<span class="dash">—</span>':hl(v,t);
 const short=full.length>170?esc(full.slice(0,170))+'…':esc(full);
-const bc='b-'+r.b.split(' ')[0];
-h+=`<tr class="${bc}${alt?' alt':''}"><td class="bp">${hl(r.b,t)}</td><td>${hv(r.g,"group",t)}</td><td class="mu">${hv(r.m,"muscle",t)}</td><td class="oi">${hl(r.o,t)}</td><td class="oi">${hl(r.i,t)}</td><td>${hl(r.a,t)}</td><td>${hl(r.f,t)}</td><td>${dash(r.c)}</td><td>${dash(r.s)}</td><td class="rem${open?' open':''}"><span class="short">${short}</span><span class="full">${hl(full,t)}</span> <button type="button" class="tg">${open?'Less':'More'}</button></td></tr>`}
-tb.innerHTML=h||'<tr><td colspan="10">No rows match.</td></tr>';cnt.textContent=n+' rows'}
+const bc='b-'+r.b.split(' ')[0];const dopen=open||!!t;
+h+=`<tr class="${bc}${alt?' alt':''}${dopen?' dopen':''}"><td class="bp" data-l="Body part">${hl(r.b,t)}</td><td class="gr" data-l="Group">${hv(r.g,"group",t)}</td><td class="mu" data-l="Muscle">${hv(r.m,"muscle",t)}</td><td class="oi o1" data-l="Origin">${hl(r.o,t)}</td><td class="oi o2" data-l="Insertion">${hl(r.i,t)}</td><td class="ar" data-l="Articulation">${hl(r.a,t)}</td><td class="fn" data-l="Function">${hl(r.f,t)}</td><td class="ex" data-l="Compound">${dash(r.c)}</td><td class="ex" data-l="Isolation">${dash(r.s)}</td><td data-l="Remarks" class="rem${open?' open':''}"><span class="short">${short}</span><span class="full">${hl(full,t)}</span> <button type="button" class="tg">${open?'Less':'More'}</button></td><td class="dt"><button type="button" class="dtb">${dopen?'Hide details':'Details'}</button></td></tr>`}
+tb.innerHTML=h||'<tr><td colspan="11">No rows match.</td></tr>';cnt.textContent=n+' rows'}
 tb.addEventListener('click',e=>{if(e.target.classList.contains('tg')){const c=e.target.closest('.rem');c.classList.toggle('open');e.target.textContent=c.classList.contains('open')?'Less':'More'}});
 q.oninput=render;art.onchange=render;
 document.getElementById('exp').onclick=function(){open=!open;this.textContent=open?'Collapse all remarks':'Expand all remarks';render()};
@@ -111,7 +176,7 @@ function hv(name,kind,t){const ids=(IMG[kind][name]||[]);if(!ids.length)return h
 const pv=document.getElementById('pv'),lb=document.getElementById('lb'),lbi=document.getElementById('lbi');
 const src=i=>'images/'+i+'.jpg';
 function pvShow(el,x,y){const ids=IMG[el.dataset.k][el.dataset.n];if(!ids)return;
- pv.innerHTML=`<div class="ttl">${esc(el.dataset.n)}</div><img src="${src(ids[0])}" alt="" onerror="this.outerHTML='<div class=cp>Image not found. The images folder must be uploaded next to this page.</div>'"><div class="cp">${esc(IMG.cap[ids[0]])}</div><div class="hint">${ids.length>1?ids.length+' images. ':''}Click to open full size.</div>`;
+ pv.innerHTML=`<div class="ttl">${esc(el.dataset.n)}</div><img src="${src(ids[0])}" alt="" onerror="this.onerror=null;if(!this.parentNode)return;this.outerHTML='<div class=cp>Image not found. The images folder must be uploaded next to this page.</div>'"><div class="cp">${esc(IMG.cap[ids[0]])}</div><div class="hint">${ids.length>1?ids.length+' images. ':''}Click to open full size.</div>`;
  pv.style.display='block';pvPos(x,y)}
 function pvPos(x,y){const w=pv.offsetWidth,h=pv.offsetHeight;let l=x+18,tp=y+14;if(l+w>innerWidth-8)l=Math.max(8,x-w-18);if(tp+h>innerHeight-8)tp=Math.max(8,innerHeight-h-8);pv.style.left=l+'px';pv.style.top=tp+'px'}
 let cur=null,ci=0;
@@ -133,5 +198,14 @@ document.getElementById('lbz').onclick=function(){lbi.classList.toggle('full');t
 lbi.onclick=()=>document.getElementById('lbz').click();
 lb.addEventListener('click',e=>{if(e.target===lb||e.target.classList.contains('stage'))lbClose()});
 document.addEventListener('keydown',e=>{if(!lb.classList.contains('on'))return;if(e.key==='Escape')lbClose();else if(e.key==='ArrowRight')lbStep(1);else if(e.key==='ArrowLeft')lbStep(-1)});
+
+const vw=document.getElementById('vw');
+function setView(v,save){document.body.classList.toggle('cards',v==='cards');vw.textContent=v==='cards'?'View: Cards':'View: Table';if(save){try{localStorage.setItem('view',v)}catch(e){}}}
+let sv=null;try{sv=localStorage.getItem('view')}catch(e){}
+setView(sv||(matchMedia('(max-width:760px)').matches?'cards':'table'),false);
+vw.onclick=()=>setView(document.body.classList.contains('cards')?'table':'cards',true);
+const dmb=document.getElementById('dmb');
+dmb.onclick=()=>{const d=dmb.closest('.disc');const o=d.classList.toggle('open');dmb.textContent=o?'Less':'More';dmb.setAttribute('aria-expanded',o)};
+tb.addEventListener('click',e=>{const b=e.target.closest('.dtb');if(b){const r=b.closest('tr');const o=r.classList.toggle('dopen');b.textContent=o?'Hide details':'Details'}});
 mk();render();
 </script></body></html>
