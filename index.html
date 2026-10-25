@@ -186,6 +186,12 @@ body.full.cards tbody{grid-template-columns:repeat(auto-fill,minmax(min(380px,10
 .ot{margin:8px 0 4px;font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--mut)}
 .rem .tg{display:inline-block;margin-top:2px}
 .ver{display:inline-block;margin-left:10px;padding:2px 9px;border:1px solid var(--line);border-radius:999px;font:12px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;color:var(--mut);background:var(--bg);white-space:nowrap}
+.links3d{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:0 0 16px}
+.l3t{font-size:13px;color:var(--mut);margin-right:2px}
+.l3{display:inline-flex;align-items:center;gap:6px;height:34px;padding:0 14px;border-radius:999px;border:1px solid var(--line);background:var(--bg);color:var(--acc);font-weight:600;font-size:13.5px;text-decoration:none;box-shadow:var(--sh1)}
+.l3:hover{border-color:var(--acc)}
+@media print{.links3d{display:none}}
+@media (max-width:760px){.l3t{flex:1 1 100%}.l3{height:40px;flex:1 1 auto;justify-content:center}}
 /* cards */
 body.cards .wrap{border:0;background:transparent;box-shadow:none;border-radius:0;padding:4px 24px 24px;max-width:1500px}
 body.cards tbody{gap:16px;grid-template-columns:repeat(auto-fill,minmax(min(340px,100%),1fr))}
@@ -232,6 +238,7 @@ body.cards .wrap{padding:0 12px 18px}
 <h1>Body Parts: Muscle Table</h1>
 <p class="sub">Origin, insertion, articulation, function, exercises and remarks for the Legs, Back, Chest, Shoulders, Abdominals and Arms. One row per muscle function.</p>
 <div class="stats"><span><b>132</b> muscle functions</span><span><b>67</b> muscles</span><span><b>6</b> body parts</span></div>
+<div class="links3d"><span class="l3t">3D models (opens BioDigital in a new tab):</span><a class="l3" href="https://human.biodigital.com/widget/?be=2Scq&amp;s=female&amp;background.colors=0,0,0,1,0,0,0,1&amp;initial.hand-hint=true&amp;ui-fullscreen=true&amp;ui-center=false&amp;ui-object-tree=false&amp;ui-dissect=true&amp;ui-zoom=true&amp;ui-help=true&amp;ui-tools-display=primary&amp;ui-info=true" target="_blank" rel="noopener noreferrer">3D skeleton <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17L17 7M8 7h9v9"/></svg></a><a class="l3" href="https://human.biodigital.com/widget/?be=2PcB&amp;background.colors=0,0,0,1,0,0,0,1&amp;initial.hand-hint=true&amp;ui-fullscreen=true&amp;ui-center=false&amp;ui-dissect=true&amp;ui-zoom=true&amp;ui-help=true&amp;ui-tools-display=primary&amp;ui-info=true" target="_blank" rel="noopener noreferrer">3D muscular system <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17L17 7M8 7h9v9"/></svg></a></div>
 </header>
 <div class="sbar"><input id="q" type="search" placeholder="Search muscles, exercises, remarks" aria-label="Search"></div>
 <header style="padding-top:8px">
