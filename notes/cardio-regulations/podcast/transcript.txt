@@ -1,0 +1,783 @@
+CARDIO REGULATIONS - PODCAST TRANSCRIPT
+Hosts: Maya and Dev
+
+============================================================
+Part 1 - Cardio, Endurance and Cross Training
+============================================================
+
+
+--- Welcome and the roadmap ---
+
+Maya: Hi everyone, and welcome to this study series on Cardio Regulations. I'm Maya.
+
+Dev: And I'm Dev. This is the series where we turn two lectures of cardio into something you can simply listen to.
+
+Maya: That's the idea. You should be able to close the slides, put your headphones on, and by the end understand every concept, not just memorise it. I explain, Dev asks the questions you're probably thinking, and every few minutes we stop and recap.
+
+Dev: So what's the plan?
+
+Maya: Six parts. The first three cover the first cardio lecture. Part one, today, is what cardio actually is, the two kinds of endurance, and aerobic cross training. Part two is the classification of aerobic activities by joint stress, plus a quick revision of blood circulation. Part three is the key terms and formulas, like heart rate, stroke volume, cardiac output and V O 2 max, then workload, the long term benefits of cardio, and the class questions.
+
+Dev: And the second lecture?
+
+Maya: Parts four to six. Part four is intensity, the heart rate scale, the levels from beginner to super advanced, and the six factors a trainer uses to prescribe cardio. Part five is calculating the target heart rate with two methods, why a lower resting heart rate is better, and the devices that monitor heart rate. Part six is how to estimate intensity without devices, the rating of perceived exertion and the talk test, then the training methods, continuous, interval and Fartlek, and how to progress. Part six ends with a twelve question quiz on everything.
+
+Dev: That's a lot of numbers.
+
+Maya: It's very logical, and we'll build it step by step. Let's start at the beginning.
+
+
+--- Cardio and the two kinds of endurance ---
+
+Maya: Dev, if I say cardio, what comes to your mind?
+
+Dev: Jogging, treadmill, walking, cycling. And honestly, losing weight.
+
+Maya: Those activities are right. And the weight loss answer is what most of the public thinks. But from the course point of view, fat loss is not the result of any one type of training by itself. Without a well balanced nutrition plan designed for fat loss, no training type produces it. Cardio and weight training can facilitate fat loss, but they're not the tools that remove fat.
+
+Dev: So what is cardio actually for?
+
+Maya: Stamina. And stamina is the same thing as endurance. The word cardio comes from the Greek word cardium, which means heart. Think of cardiology and cardiologist. So cardio training means training the heart for a purpose, and the purpose is building endurance.
+
+Dev: So if someone asks for the main benefit of cardio, the answer is building endurance.
+
+Maya: Exactly. And two of the five components of fitness are about endurance. Cardiorespiratory endurance, and muscular endurance. Let's take them apart.
+
+Maya: Forget the textbook definition for a moment. Just take the word apart. Endurance, also called stamina, is the ability of someone to do something for a long duration without getting fatigued. Someone, something. So for each type of endurance we ask three questions. Who is the someone? What is the something? And how can it be improved?
+
+Dev: Who, what, how. Okay, start with cardiorespiratory endurance.
+
+Maya: Who? The answer is hidden in the name. Cardio is heart, respiratory is lungs. So the heart and lungs. What? To deliver oxygenated blood to the working skeletal muscles. Supply, deliver and transport all mean the same thing here. And how? By doing any type of aerobic activity. Cycle, jog, walk, run, swim, anything aerobic.
+
+Dev: What does working skeletal muscles mean?
+
+Maya: Skeletal muscles are the ones attached to the bones. Working ones are the ones actually doing the activity. In jogging, that's mainly the leg muscles. The heart and lungs deliver oxygenated blood to them, and the heart and lungs themselves should not get tired. If they start tiring during the task, that person needs to work on cardiorespiratory endurance.
+
+Dev: And why is aerobic activity the right tool?
+
+Maya: Aerobic means in the presence of oxygen. In the aerobic energy system, the mitochondria, the powerhouse of the cell, use oxygen to make A T P, which is usable energy. Aerobic activities are the ones you can do for more than three minutes non stop. Doing them creates a continuous demand for more and more oxygen, and the heart and lungs get better at supplying it.
+
+Dev: Like supply and demand. If there's no demand, the supply has no reason to improve.
+
+Maya: Perfect. Now muscular endurance. Who? The working skeletal muscles. What? To contract sub maximally. Maximally means one hundred percent effort. The prefix sub means under, so sub maximally means contracting with less than one hundred percent effort. And how? By doing task specific aerobic activity.
+
+Dev: Why task specific? It's the same leg muscles in jogging and cycling.
+
+Maya: Same muscles, different movement pattern. If your muscles are trained all year to contract sub maximally in the jogging pattern, you can't expect them to perform equally well in a cycling tournament at the end of the year. To improve muscular endurance for jogging, jog. For cycling, cycle. For swimming, swim.
+
+Dev: Example?
+
+Maya: Usain Bolt and Michael Phelps. Bolt can't swim like Phelps, and Phelps can't run like Bolt. Both have very well trained hearts and lungs, so both have top notch cardiorespiratory endurance. But their muscular endurance is excellent only in their own field.
+
+Maya: Here's the analogy that makes the difference stick. Think of a car. The engine has one job, give the power to move the car from point A to point B, whatever the terrain. Desert, snow, hills, a normal road. The heart and lungs are the engine. They do the same job for any activity.
+
+Dev: And the tyres?
+
+Maya: The tyres can't be the same for all terrain. For snow you wrap chains around them, or you use an all terrain vehicle. The tyres are the muscles. The heart and lungs supply blood for anything, but the muscles must be trained differently for each activity.
+
+Dev: So engine is cardiorespiratory endurance, tyres are muscular endurance. And cardio training builds both.
+
+Maya: Yes. Quick recap. Cardio comes from the word for heart, and its purpose is endurance. Cardiorespiratory endurance, heart and lungs, deliver oxygenated blood, any aerobic activity, not task specific. Muscular endurance, working muscles, contract sub maximally, task specific aerobic activity.
+
+Maya: Let's pause and think. Question one. A client trains only on a treadmill all year and then joins a swimming race. Which endurance is likely to transfer well, and which is not?
+
+Dev: Cardiorespiratory endurance should transfer, because the heart and lungs do the same job for any activity. The muscular endurance won't transfer fully, because swimming uses a different movement pattern.
+
+
+--- Comprehensive endurance and cross training ---
+
+Maya: Now, who needs task specific muscular endurance? People whose daily life uses the muscles in the same movement pattern again and again. A cricket batsman perfecting one shot, who practises that shot for hours in the nets. A tennis player practising a forehand. A carpenter cutting wood. A junior chef rolling out chapatis day after day.
+
+Dev: But most of our clients aren't like that.
+
+Maya: Right. Most future clients are general lifestyle people. A homemaker, a business owner, a student, a corporate employee. Their day is wake up, work or college, meetings, lunch, maybe a workout two or three times a week, then home. Their muscles don't move in one pattern for long durations.
+
+Dev: So what do they need?
+
+Maya: Muscular endurance that is complete and overall, not specific to one task. It's called comprehensive muscular endurance, a three hundred and sixty degree endurance. And the technique to build it is aerobic cross training.
+
+Dev: What does cross training mean?
+
+Maya: Doing multiple activities and not sticking to one. Athletes do it a lot to get better in their main sport. Add the word aerobic, and it means doing multiple aerobic activities, not just one. Cricketers who post videos of sprinting and weightlifting are cross training. Sprinting helps a veteran batsman run fast between the wickets, and lifting builds the power to hit the ball over the boundary.
+
+Dev: A student might ask whether cross training is the same as functional training.
+
+Maya: The lecture says no, not for this topic. Functional training and things like HYROX mix anaerobic and aerobic work, for example a sled push, and many parts can't be done for more than three minutes non stop. Here we stay in the purely aerobic zone, with no weights.
+
+Maya: There are two ways to apply aerobic cross training. Way one, do multiple aerobic activities, either within a week or within a session. Within a week, for example, cycling on Monday, a run on Wednesday, a swim on Friday. Within a session, split the time, for example a thirty minute session of ten minutes jogging, ten minutes on the cross trainer and ten minutes rowing.
+
+Dev: And way two?
+
+Maya: Do one activity that uses the upper and lower body together. That's why the elliptical machine is called the cross trainer. Two pedals connected to two handles, so hands and legs move together. And these numbers are only hypothetical examples to explain the idea, not a prescription. The slides use sixty minute sessions and twenty minute blocks, the E-book uses twenty minute blocks, so check your course material.
+
+Dev: Why does cross training actually help? What are the benefits?
+
+Maya: The lecture gives three. Benefit one, capillarization over a larger surface area. Capillaries are the tiniest blood vessels, where oxygen and carbon dioxide are exchanged with the cells. Cardio builds new capillaries, which is called neocapillarization. If you only do a lower body activity, capillaries improve only there. With upper, lower and combined activities, they spread across the body.
+
+Dev: Is there an analogy?
+
+Maya: Mobile network towers. A company doesn't get good coverage by putting more and more towers in one place. Coverage is best when towers are evenly distributed. Same with capillaries.
+
+Dev: Benefit two?
+
+Maya: Avoiding overuse injuries. Someone who only cycles puts all the work on the same joints, knee, ankle and hip, the same bones and the same tendons. Like a machine, it gets wear and tear. When the whole body is recruited, the responsibility is shared.
+
+Dev: And three?
+
+Maya: Boosting interest, which is about the client, not the trainer. Gym memberships peak on the first of January, and new members trust every word. But after about a month, if cardio means only the treadmill for thirty or forty minutes, monotony arrives. Excuses start showing up only on cardio days. With variety, there is a surprise element in the week, and within a session the client keeps looking forward to the next activity, so thirty minutes pass without noticing.
+
+Dev: The E-book gives four benefits, including recruiting more muscles, and no capillarization.
+
+Maya: Good catch, so check your course material.
+
+
+--- Closing recap ---
+
+Maya: Time for the closing recap. Cardio means heart training, and its purpose is endurance. Cardiorespiratory endurance is heart and lungs, any aerobic activity. Muscular endurance is task specific. Most clients need comprehensive muscular endurance, built with aerobic cross training, in two ways, multiple activities, or an activity using upper and lower body together.
+
+Dev: And the three benefits are larger capillary coverage, fewer overuse injuries, and better interest.
+
+Maya: Here are the five things to remember. One, cardio builds endurance, and fat loss needs nutrition. Two, cardiorespiratory endurance is the engine, any aerobic activity. Three, muscular endurance is the tyres, task specific. Four, comprehensive endurance comes from aerobic cross training. Five, the three benefits, towers, wear and tear, and interest.
+
+Dev: Next time, we classify aerobic activities by how they stress your joints.
+
+Maya: See you in part two.
+
+============================================================
+Part 2 - Classifying Aerobic Activities and Blood Circulation
+============================================================
+
+
+--- Where we are ---
+
+Maya: Welcome back to part two of Cardio Regulations. Last time we learned that cardio builds endurance, that cardiorespiratory endurance is the engine and muscular endurance is the tyres, and that aerobic cross training builds comprehensive endurance.
+
+Dev: And today?
+
+Maya: Two big topics. First, how to classify aerobic activities by the stress they put on joints, so you can always give a client the right activity. Second, a revision of blood circulation, because the next terms and formulas all depend on it.
+
+
+--- Classifying aerobic activities by joint stress ---
+
+Maya: The goal of this topic is right client, right activity. Whatever stress an activity involves, or whatever stress a client already has, there should never be a day when you can't assign a suitable aerobic activity. A client should not leave empty handed.
+
+Dev: And aerobic here still means more than three minutes non stop?
+
+Maya: Yes. Only aerobic activities are considered. There are three categories, each with rules. Category one is weight bearing, impact based, short form W B I B. It has three rules, and the activity must meet all three. Rule A, the body is upright. Rule B, body weight comes on the key load bearing joints, the hip, knee and ankle. Rule C, there is a foot strike. The foot touches the surface, leaves it, touches again. On, off, on, off.
+
+Dev: So A and B make it weight bearing, and C makes it impact based.
+
+Maya: Exactly, but you check all three together. Examples. Walking, jogging and running, the same family at different pace. Skipping. Stair climbing, or the stair master machine, because each step is a foot strike. Zumba and step aerobics. Combat fitness. And the treadmill.
+
+Dev: Hold on. The treadmill has a moving belt. Is that really a foot strike?
+
+Maya: This confuses many people. The platform doesn't matter. Road, beach, park or treadmill, foot strike is foot strike. The foot leaves the surface and lands again, the body is upright, and the weight is on hip, knee and ankle. So the treadmill is W B I B.
+
+Dev: What about jumping jacks, burpees and high knees? They're upright with a foot strike.
+
+Maya: They came up in class, but they're not purely aerobic. They contain an anaerobic element, and jumping jacks are counted in repetitions, not time. They fail the three minute rule. Skipping with a rope, though, is aerobic and qualifies. HYROX is not here either, because of the sled push and squats.
+
+Dev: And combat fitness?
+
+Maya: It was written with a question mark in the lecture and not formally settled, but it's in the W B I B list on the board and the slides, so keep it there.
+
+Dev: Does this classification help beyond joints?
+
+Maya: Yes, with personality. An introvert who dislikes group training can be given solo activities. An extrovert gets bored alone and would enjoy group activities like zumba, dance aerobics, step aerobics or combat fitness.
+
+Maya: Category two is weight bearing, non impact based, W B N I B. Rules A and B are copied from category one, upright and weight on hip, knee and ankle. Rule C changes. There is no foot strike. The feet stay fixed on a pedal or platform, and the pedal moves.
+
+Dev: What are the examples?
+
+Maya: All machines. The elliptical cross trainer. The arc trainer, whose pedals move in an arc, hence the name. The adaptive motion trainer, which adapts to different motion styles, so it can feel like elliptical, jogging, mountain climbing or running. And the stepper machine, where two pedals move up and down.
+
+Dev: Isn't the stepper the same as step aerobics?
+
+Maya: No, and this is a classic trap. In step aerobics you hop on and off a step board, so there are foot strikes, and it's W B I B. On the stepper machine the foot stays on the pedal, so no foot strike, so W B N I B. The skier machine, which mimics skiing on snow, is also W B N I B.
+
+Dev: Why is the cross trainer called elliptical?
+
+Maya: A revision link to joint types. A condyloid joint, like the wrist, is also called ellipsoid, meaning oval shaped. In a ball and socket joint the socket is round. In a condyloid joint it's oval. The pedals move in an oval path, so elliptical.
+
+Maya: Category three is non weight bearing, non impact based, N W B N I B. This is the low stress category, and all activities that didn't fit the first two end up here. The only rule is that the body is in water, or seated, or lying down.
+
+Dev: So swimming, rowing and cycling.
+
+Maya: Yes. Swimming, body in water. Rowing machine, seated. Cycling, which falls here by default because the body is seated. Ankle movement happens, but there's no foot strike and no body weight on the load bearing joints.
+
+Dev: There are different bikes, right?
+
+Maya: Five to know. The upright bike is the regular gym bike with a V shaped seat. The recumbent bike is lower, pedalling is towards the front, with a back rest, arm supports and a wide cushioned seat. The hand or arm bike is pedalled with the arms. The air bike has a big fan instead of a front wheel and works on wind resistance. And group indoor cycling, often called spinning classes.
+
+Dev: Who is the recumbent bike for?
+
+Maya: People with balance problems such as vertigo, and the slide adds epilepsy, feel more stable on the low seat. The back rest supports people with lower back stress. And the wide seat removes the groin discomfort some people feel on the V shaped seat.
+
+Dev: And the arm bike?
+
+Maya: Ideal for people with leg disabilities such as polio, or severe arthritis in the knees. The upper limbs contribute less to cardiorespiratory endurance than the legs, because legs have bigger muscles, bones and joints. But something is better than nothing.
+
+Dev: And the air bike?
+
+Maya: Resistance adjusts automatically. More effort, harder it feels, less effort, easier, because of the wind through the fan. And since the handles move too, it's cross training in a way. Rowing also uses upper and lower body, so it counts too.
+
+Maya: Recap. W B I B has three rules, upright, weight on hip, knee and ankle, and a foot strike. W B N I B keeps the first two and drops the foot strike. N W B N I B has one rule, in water, seated or lying down.
+
+Dev: A quick way to remember. Foot strike means category one. Upright but no foot strike means category two. Water, seated or lying means category three.
+
+Maya: Perfect. And the rules never change. If a brand new machine is launched ten years from now, you can still place it using the same three rules.
+
+Maya: Pause and think. Which category is the stepper machine, and why?
+
+Dev: W B N I B. Upright, weight on hip, knee and ankle, but the foot stays on the pedal, so no foot strike.
+
+Maya: Correct. And the recumbent bike?
+
+Dev: N W B N I B, because the body is seated.
+
+Maya: Exactly.
+
+
+--- Blood circulation revision ---
+
+Maya: Now the walk along revision of blood circulation. Draw three boxes in your mind. Lungs, with alveoli. The heart with four chambers, two upper atria and two lower ventricles. And the cells of the body. In the drawing, the heart is shown in the anatomical position, so the right chambers appear on the left of the page.
+
+Dev: Any rules to remember?
+
+Maya: Four. Atrium, left or right, is inflow. Ventricle, left or right, is outflow. Arteries go away from the heart. Veins come towards the heart. Red means oxygenated blood, blue means deoxygenated.
+
+Dev: Start walking.
+
+Maya: Oxygenated blood leaves the lungs through the pulmonary veins into the left atrium, which is inflow. It crosses the bicuspid valve, two flaps, into the left ventricle. From the left ventricle it goes out through the aortic valve into the aorta, the biggest artery, then to the arteries, medium sized, then the arterioles, the smallest. The sizes reduce along the way.
+
+Dev: And then?
+
+Maya: Capillaries. The end point of contact. They wrap around the cells, and this is where exchange happens. Capillaries deliver oxygen, and the cells give back carbon dioxide. The lecture called it the return gift. Then the same capillaries carry deoxygenated blood.
+
+Dev: And the way back?
+
+Maya: The sizes are the same, but the flow is reversed. Small to medium to big. Capillaries to venules, the smallest veins, then veins, then the vena cava, the biggest. The vena cava splits into the superior vena cava, carrying blood from above the heart, and the inferior vena cava, from below the heart. The inferior one is a little thicker because more of the body lies below the heart.
+
+Dev: Then into the right atrium.
+
+Maya: Yes, inflow again. Then across the tricuspid valve, three flaps, into the right ventricle. From there across the pulmonary valve, into the pulmonary arteries, to the lungs. In the lungs the alveoli, tiny air sacs, do gaseous exchange. Carbon dioxide leaves, oxygen is added, and the cycle continues.
+
+Dev: Tricuspid has three, bicuspid has two.
+
+Maya: Yes. The valves' job is to make sure there is no backflow. One way traffic.
+
+Dev: Is there a trick for the word pulmonary?
+
+Maya: Whenever the lungs are directly involved, the word pulmonary appears. Pulmonary valve, pulmonary arteries, pulmonary veins. And there are two exceptions to remember. The pulmonary arteries go away from the heart, so they are arteries, yet they carry blue blood. The only arteries with blue blood. The pulmonary veins come towards the heart, yet carry red blood. The only veins with red blood.
+
+Dev: So the rule about arteries and veins is about direction, not colour.
+
+Maya: Exactly.
+
+Maya: The slides split this into two circulations. Pulmonary circulation is between the heart and the lungs, for oxygenating the blood. P because the lungs are directly involved. Systemic circulation is between the heart and the cells, the bigger cycle. S from system, because cells make tissues, tissues make organs, organs make systems.
+
+Dev: Two names for the two loops of one big cycle.
+
+Maya: Quick recap of circulation. Atrium inflow, ventricle outflow, arteries away, veins towards, and two loops, pulmonary and systemic.
+
+
+--- Closing recap ---
+
+Maya: Here are the five things to remember. One, W B I B needs upright, weight on hip, knee and ankle, and a foot strike. Two, W B N I B has no foot strike, like the elliptical, arc trainer, adaptive motion trainer and stepper. Three, N W B N I B is water, seated or lying, like swimming, rowing and cycling. Four, atrium is inflow, ventricle is outflow, arteries away, veins towards. Five, pulmonary arteries carry blue blood and pulmonary veins carry red.
+
+Dev: Next, the key terms and formulas, and workload.
+
+Maya: See you in part three.
+
+============================================================
+Part 3 - Key Terms, V O 2, Workload and Long Term Benefits
+============================================================
+
+
+--- Where we are ---
+
+Maya: Welcome to part three, the last part on the first cardio lecture. So far we have endurance, cross training, the three categories of aerobic activity, and blood circulation.
+
+Dev: And now the numbers.
+
+Maya: Yes. The key terms, the formulas, V O 2, workload with a worked case study, the long term benefits of cardio, and the questions from class. Take your time with the calculations, because we'll use them again in the second lecture.
+
+
+--- Heart terms and formulas ---
+
+Maya: Start simple. Heart rate, H R, is the number of times the heart beats in a minute. Resting heart rate, R H R, is the same thing measured in a resting state.
+
+Dev: What counts as resting?
+
+Maya: Imagine waking up in the morning. You've made no physical effort. Only involuntary functions are going on. The heart beats, the brain works, the liver and kidneys work, body temperature and glucose are maintained, digestion carries on. The normal range of resting heart rate is sixty to eighty beats per minute, and the average is seventy two.
+
+Dev: So if someone says the average is sixty, they're wrong?
+
+Maya: That was a class answer, and the correction was that sixty to eighty is the range, and the average is a different number, seventy two. One thing to check, the E-book gives different values, sixty as good, forty as exceptionally good, and forty to a hundred as the general range, so check your course material. The lecture and slide use sixty to eighty and seventy two.
+
+Dev: Next, maximum heart rate.
+
+Maya: Maximum heart rate, M H R, is the maximum number of times the heart can beat in a minute. It's estimated as two hundred and twenty minus age. And heart rate reserve, H R R, is M H R minus R H R. We'll explain the logic behind that in lecture two.
+
+Dev: Okay, so reserve is the gap between resting and maximum.
+
+Maya: Exactly. Now stroke volume, S V. It's the amount of blood pumped by the left ventricle in one beat. Picture a spray bottle. One push of the pump, one stroke, sends out some liquid. That amount is the stroke volume. The bottle is the left ventricle. The average resting stroke volume is seventy millilitres per beat.
+
+Dev: And watch the unit, right?
+
+Maya: Yes. Exam options may say per beat, per second or per minute. Stroke volume is per beat. A small note, the lecture and slides say left ventricle, and the E-book says each ventricle, so check your course material.
+
+Dev: Then cardiac output.
+
+Maya: Cardiac output, Q, is the amount of blood pumped by the left ventricle in one minute. The formula is Q equals stroke volume times heart rate. It isn't a special formula, it's logic. Blood per beat, times beats per minute, gives blood per minute.
+
+Dev: Do the rest value.
+
+Maya: At rest, stroke volume is seventy, resting heart rate is seventy two. Seventy times seventy two is five thousand and forty millilitres, close to five thousand, so about five litres per minute.
+
+Dev: And during cardio?
+
+Maya: That's the acute response, the immediate effect of doing cardio. Heart rate increases, and cardiac output increases. One student said Q stays the same, but it can't, because there's physical effort now. The lecture says the resting five litres is speeded up five times, so five times five is twenty five litres per minute. The slide says a sportsman reaches thirty to thirty two litres during maximal exercise. Those are different cases, an average person versus a sportsman at maximal effort, so check which one your course wants.
+
+Dev: Quick recap?
+
+Maya: Heart rate, beats per minute. Resting rate, sixty to eighty, average seventy two. Maximum, two twenty minus age. Reserve, maximum minus resting. Stroke volume, about seventy millilitres per beat. Cardiac output, stroke volume times heart rate, about five litres at rest, about twenty five in the acute response.
+
+
+--- V O 2 and workload ---
+
+Maya: Now V O 2. The V stands for volume, the actual volume of oxygen, not the ventricle. O 2 is oxygen. So V O 2 is the volume of oxygen the body consumes to produce energy, A T P.
+
+Dev: And V O 2 rest?
+
+Maya: The same thing at rest. Even sitting still, your involuntary functions need energy, so they need some oxygen. It depends on body weight. V O 2 rest is three point five millilitres of oxygen per kilogram of body weight per minute. This value is also called one M E T.
+
+Dev: Do an example.
+
+Maya: A person weighing eighty kilograms. Three point five times eighty is two hundred and eighty millilitres of oxygen per minute, just to stay alive. Quick note, the board photo can look like thirty eight, but the slide and E-book say three point five.
+
+Dev: What does M E T mean?
+
+Maya: Metabolic equivalent of task. Think of it as an energy currency, the amount you spend to buy oxygen. At rest it's one M E T. As activity rises, the number rises. The lecture gave illustrations, three or four for jogging and running, and nine or ten for a sprint. These were only illustrations, not slide values.
+
+Dev: And V O 2 max?
+
+Maya: Imagine a graph, heart rate on the vertical axis, oxygen volume on the horizontal. A brisk walk sits low on both. A jog is higher. A run is higher still. A sprint takes someone close to their maximum heart rate, and the oxygen consumed at that maximum is V O 2 max. It's the person's aerobic capacity, their maximum aerobic capacity. How it's tested comes in the fitness testing lectures.
+
+Dev: Workload next.
+
+Maya: Workload is the amount of work done. In weight training four factors tell it, range of motion, poundage, speed and number of reps. In cardio, three factors, distance covered, speed and time taken. Changing just one is enough to raise the workload.
+
+Dev: Examples.
+
+Maya: Distance, a person who jogs two kilometres is told to do two and a half. Speed, treadmill from seven to seven and a half kilometres per hour. Time, a person used to ten minutes of cycling adds ten minutes of running and ten minutes of swimming. That raises time and also uses cross training.
+
+Dev: And the case study?
+
+Maya: Goal, don't change the distance. The client covers two kilometres. Old time was fifteen minutes. New time must be twelve minutes. The workload has gone up, because the same distance in less time is harder. So speed has to increase.
+
+Dev: Speed equals distance divided by time.
+
+Maya: Yes, and the unit is kilometres per hour, so minutes must become hours, by dividing by sixty. Old, fifteen minutes is a quarter of an hour, zero point two five. Two divided by zero point two five is eight kilometres per hour. New, twelve minutes divided by sixty is zero point two hours. Two divided by zero point two is ten kilometres per hour. So speed rose from eight to ten.
+
+Dev: All three factors together.
+
+Maya: Exactly.
+
+
+--- Long term benefits and class questions ---
+
+Maya: Chronic means long term and adaptations means benefits. Cardiovascular adaptations first. Better contractility of the myocardium, the heart muscle, meaning better pumping. That leads to increased stroke volume and increased exercise cardiac output. Decreased resting heart rate. Increased red blood cell count, the transport agents carrying oxygen and nutrients. Neocapillarization, more new capillaries. Increased elasticity of blood vessels, so they regain their shape and blood flows smoothly. Increased mitochondrial density, more energy production per cell. Then increased resistance to fatigue, you tire later, and increased endurance.
+
+Dev: Is there a way to group them?
+
+Maya: Yes. More capillaries, more red blood cells and more mitochondria are about quantity. Tiring later and higher endurance are about quality.
+
+Dev: And respiratory?
+
+Maya: Respiratory muscles get stronger, the diaphragm and intercostal muscles. Lung volume and capacity increase. Blood flow to the lobes of the lungs improves. The alveoli are used more efficiently. Gaseous exchange increases. And recovery from exercise improves, so you get back to normal faster.
+
+Dev: Now the class questions.
+
+Maya: First, some people say cardio isn't necessary, only strength training. The answer is that all components of fitness are interdependent. You don't leave your heart and lungs at home on a strength day. Oxygenated blood is needed, and that's partly why rest intervals between sets matter, for cardiorespiratory recovery. How much cardio depends on the goal, for a marathon more, for bodybuilding less. But in general cardio is important for everyone.
+
+Dev: And cardio first or weights first?
+
+Maya: That's a scheduling question, answered in the scheduling lectures.
+
+
+--- Closing recap ---
+
+Maya: Pause and think. A person weighs sixty kilograms. How much oxygen per minute do they need at rest?
+
+Dev: Three point five times sixty. That's two hundred and ten millilitres per minute.
+
+Maya: Correct. And two kilometres in ten minutes, what's the speed?
+
+Dev: Ten minutes is one sixth of an hour, so two divided by one sixth is twelve kilometres per hour.
+
+Maya: Right. Here are the five things to remember. One, resting heart rate sixty to eighty, average seventy two, maximum is two twenty minus age. Two, stroke volume is about seventy millilitres per beat, and cardiac output is stroke volume times heart rate, about five litres at rest. Three, V O 2 rest is three point five millilitres per kilogram per minute, one M E T. Four, cardio workload is distance, speed and time, and speed is distance over time. Five, chronic adaptations improve both quantity and quality, in the heart, vessels and lungs.
+
+Dev: Next lecture, intensity.
+
+Maya: See you in part four.
+
+============================================================
+Part 4 - Intensity, Training Levels and the Six Factors
+============================================================
+
+
+--- Where we are ---
+
+Maya: Welcome to part four. We've finished the first cardio lecture, and now we move to the second one. Part four covers intensity, the levels from beginner to super advanced, and the six factors a trainer considers before prescribing cardio.
+
+Dev: Last lecture ended with workload, right?
+
+Maya: Yes. Workload is the amount of work done, set by speed, distance and time. Today starts with intensity.
+
+
+--- Intensity and the heart rate scale ---
+
+Maya: Dev, if workload is the amount of work done, what is intensity?
+
+Dev: The amount of work done with respect to time, distance and speed?
+
+Maya: That's actually the definition of workload. Intensity is the level of effort applied while doing that work, the difficulty level. Here's the exam analogy. Thirty students sit an exam with thirty multiple choice questions. Solving thirty questions is the workload, and it's the same for everyone. But a student who prepared well puts in low effort, so the intensity is low. A student who didn't prepare puts in high effort, so the intensity is high. Same workload, different intensity.
+
+Dev: So how did we measure intensity in weight training?
+
+Maya: With the R M method. R M is the most repetitions you can do before failure. The lower the R M, the higher the intensity. Cardio needs its own deciding number, and it's heart rate during the cardio activity. The higher the heart rate during cardio, the greater the intensity.
+
+Dev: Any heart rate? Or something specific?
+
+Maya: Specific. Intensity is the heart rate during cardio, expressed as a percentage of the person's own maximum heart rate. Now meet our case study client, Sumit. He's a new client, twenty years old. His intensity scale runs vertically. At the bottom is his resting heart rate, the heart rate from which his day starts, no effort. At the top is the maximum heart rate, one hundred percent effort.
+
+Dev: What's his maximum?
+
+Maya: Two hundred and twenty minus twenty. Two hundred beats per minute. And there's a bottle analogy. A one litre bottle filled to the brim overflows if you add more water. In the same way, heart rate can't go beyond maximum. And if you drink five hundred millilitres from the full bottle, the bottle is at fifty percent, which helps with percentages.
+
+Dev: Show me the calculation.
+
+Maya: Intensity percent is heart rate during cardio, divided by maximum heart rate, times one hundred. Sumit is on a treadmill. His heart rate is one hundred. One hundred out of two hundred is fifty percent. After five minutes it's one eighty, which is ninety percent. Later he slows down to one sixty, which is eighty percent.
+
+Dev: So a heart rate of one hundred is always fifty percent?
+
+Maya: No, and this is the key warning. Don't copy these numbers. The fifty percent came from Sumit's maximum of two hundred. For any client, first find that client's own maximum, then take the percentage of that. Two hundred was used only because a twenty year old gives easy maths.
+
+Dev: Quick note on the scale. The lecture writes resting heart rate as zero percent effort, but the percentages are of maximum, so eighty is really forty percent of two hundred. It's a schematic.
+
+Maya: Good point. The scale is a schematic, with resting as the no effort end.
+
+Dev: Recap?
+
+Maya: Intensity is the level of effort. In cardio it's heart rate during the activity as a percentage of maximum heart rate, and higher heart rate means higher intensity.
+
+
+--- Classification and promotion ---
+
+Maya: In weight training there was a chart linking R M ranges to training levels. Cardio uses the same idea with percentages of maximum heart rate. Low intensity is fifty to sixty percent, for beginners. Moderate is sixty to seventy percent, intermediate. High is seventy to eighty five percent, advanced. And very high is above eighty five percent, super advanced.
+
+Dev: So the high band is seventy to eighty five, not eighty to eighty five.
+
+Maya: Exactly, a common slip. One small difference. The lecture says above eighty five for very high, but the slide writes greater than or equal to eighty five, so eighty five appears in both rows. Check your course material.
+
+Dev: Who counts as a beginner?
+
+Maya: Clients with less than about two to three months of cardio experience. And restarting clients are also beginners. Someone who did cardio before but took a gap, for personal reasons, a health condition or rehab, can't be started at moderate or high because of old experience. They go step by step again.
+
+Dev: And when does a beginner become an intermediate? After three months?
+
+Maya: Not because the calendar says so. Imagine a client who came about three times in three months, checked social media during sessions, ignored instructions on nutrition, rest and recovery. That client hasn't earned the next level. A fitness test is done on the first day and again after the beginner phase, for all five components of fitness. If the numbers show significant improvement, that's progress tracking, and that's how a client is promoted. Then intensity moves to sixty to seventy percent and the client is an intermediate.
+
+Dev: Are there rough time guides?
+
+Maya: Only as a rough guide. Beginner, under three months. Intermediate, more than three months and under a year. Advanced, after a year of consistent performance, seventy to eighty five percent. Super advanced, can go above eighty five percent easily, smoothly and safely, and come back without fatigue and without risk, like athletes and sports people. The slides give no durations, and the E-book has its own phases, so check your course material.
+
+Dev: Is there anything above super advanced?
+
+Maya: Not officially. If there were, it would be elite, people like Usain Bolt and Michael Phelps, who go very close to maximum and return safely, because their circulatory system works extraordinarily well. It's not everybody's cup of tea.
+
+Dev: What if a client says, I can go to two hundred and come back?
+
+Maya: Never take that risk, at least under your guidance. Some clients say it out of ego, even beginners. They might reach it and not come back from the treadmill. The cardiorespiratory system has to be made ready step by step.
+
+Dev: Does intensity change daily, if Sumit isn't feeling well?
+
+Maya: No. It's set from his current training level, and then a fitness test shows how he performs at that intensity. Consistent performance, not one day, tells whether the level works.
+
+
+--- Six factors for prescribing intensity ---
+
+Maya: Why do we say prescribing? Because like a doctor prescribes a medicine, a trainer prescribes an intensity. And name and age aren't enough, which is why there's an initial client interview. There are six factors. Think of them as a checklist.
+
+Dev: Go through them.
+
+Maya: Factor one, training experience. Has the person ever done cardio? If yes, which type, weight bearing impact based or the other categories, how many sessions a week, how long, and preferences like morning or evening, indoor or outdoor.
+
+Dev: Two?
+
+Maya: Lifestyle, a big umbrella. Food habits and nutrition. Daily routine and the nature of the job, a corporate employee on a laptop versus an architect climbing stairs on sites. Habits, like smoking and drinking. Sleep, both quality and quantity, seven to eight good hours versus three to four random hours. And stress.
+
+Dev: Three?
+
+Maya: Medical background. Heart, joint or neurological conditions. If the trainer is unaware and gives high intensity, the client could suffer a severe condition. Awareness is crucial.
+
+Dev: Four is age. Isn't that because kids and older people get different intensities?
+
+Maya: That's stereotyping, the assumption that something popular must be true, such as a sixty year old must be a beginner and a twenty year old can do more. Imagine a twenty year old with no experience, junk food, poor sleep, versus a sixty year old who hasn't missed a session in thirty or forty years, with clean nutrition and a clear medical history. Going by age alone would be unfair. The real reason age is needed is that without age you can't calculate maximum heart rate, and without it you can't determine intensity.
+
+Dev: Five?
+
+Maya: Resting heart rate. A quantifiable number and an indicator of cardiorespiratory fitness, so it shows current fitness level on the day you meet the client. Sixty to eighty is normal, lower is better. And six, goal. A specific goal, like HYROX, a marathon or climbing Everest, or a basic goal, general physical preparedness, G P P, meaning basic fitness for day to day tasks and emergencies.
+
+Dev: Is the list a ranking?
+
+Maya: No. All six are equally important and seen together. The slides use slightly different names, age, medical background, past training history, current fitness level, lifestyle and goal. Same six.
+
+
+--- Sumit and closing recap ---
+
+Maya: Now Sumit. Training experience, nil. Lifestyle, average for a twenty year old student, junk food, no physical activity. Medical background, clear. Age, twenty, so maximum two hundred. Resting heart rate, eighty. Goal, G P P. The decision, he starts as a beginner, fifty to sixty percent.
+
+Dev: And what does he do with a percentage? He can't carry a calculator on the treadmill.
+
+Maya: Exactly. The percentages are background science for the trainer. The client needs a number that's easy to notice during cardio, a heart rate. So the percentage is converted into a target heart rate, T H R, which the client follows on a device. That's part five.
+
+Maya: Pause and think. Why do we need the client's age at all?
+
+Dev: Because without age there's no maximum heart rate, and without that there's no intensity.
+
+Maya: Exactly. Here are the five things to remember. One, workload is the amount of work, intensity is the level of effort. Two, cardio intensity is heart rate during activity as a percentage of own maximum. Three, low fifty to sixty, moderate sixty to seventy, high seventy to eighty five, very high above eighty five. Four, promotion depends on fitness test results, not the calendar. Five, six equal factors, training experience, lifestyle, medical background, age, resting heart rate and goal.
+
+Dev: Next, calculating the target heart rate.
+
+Maya: See you in part five.
+
+============================================================
+Part 5 - Target Heart Rate, the Karvonen Method and Heart Rate Monitors
+============================================================
+
+
+--- Where we are ---
+
+Maya: Welcome to part five. Last time we met Sumit, twenty years old, maximum heart rate two hundred, resting heart rate eighty, a beginner at fifty to sixty percent. Today we turn that percentage into a target heart rate, we see why a lower resting heart rate is better, and we look at the devices that monitor heart rate.
+
+
+--- Target heart rate with the age predicted method ---
+
+Maya: A target heart rate, T H R, can be a single number, like one fifty five, or a range, like one fifty to one sixty. Which makes more sense, Dev?
+
+Dev: A range, I'd guess. Heart rate isn't fixed.
+
+Maya: Right. It fluctuates by a few beats, like room temperature. Over twenty minutes you can reach one fifty five, but maintaining exactly that is impossible. A range says, don't go below this, don't exceed that. Think of buying a shirt. Walk into a high end store and ask for a shirt of exactly four thousand eight hundred and thirty two rupees, and you'll be shown the door. You say, between four and five thousand.
+
+Dev: So we calculate twice.
+
+Maya: Yes, in both methods, once for the lower limit and once for the upper limit. Method one is the age predicted method, also called the M H R method, because it uses maximum heart rate. The formula is T H R equals maximum heart rate times intensity, so two hundred and twenty minus age, times intensity. Same method, two names, so don't be confused if an exam uses either.
+
+Dev: Sumit's numbers?
+
+Maya: Lower limit, two twenty minus twenty is two hundred, times fifty over a hundred, which is one hundred beats per minute. Upper limit, two hundred times sixty over a hundred, which is one hundred and twenty. So the range is one hundred to one hundred and twenty. His resting heart rate of eighty isn't used at all.
+
+Dev: Does that make sense for a guy at eighty resting?
+
+Maya: That's the loophole. Follow Sumit's day. He wakes at eighty. After his morning routine, a ten minute walk to the gym and three floors by stairs, he's about ninety. After the gym tour, mobility drills and waiting at the treadmill, about ninety five. So cardio starts at ninety five. If he just walks casually and chats with a friend, within two minutes he's in the one hundred to one hundred and twenty zone. Does that look like fifty percent intensity?
+
+Dev: No, that's barely effort.
+
+Maya: Exactly. The method only considers age. It never considers current fitness level, which the resting heart rate shows. All twenty year old beginners would get the same range, but one may be near sixty, one at seventy, one at eighty. Like three friends, all thirty years old, and a salesman who gives all three a thirty six waist jeans. Body composition isn't the same for all thirty year olds. We need a customised target.
+
+
+--- The Karvonen method and the reserve ---
+
+Maya: That's why Karvonen, an exercise physiologist, came up with the heart rate reserve method, also called Karvonen's formula. T H R equals heart rate reserve times intensity, plus resting heart rate.
+
+Dev: So before we multiplied the maximum, now we multiply the reserve and add resting rate back.
+
+Maya: Yes. To make it ready to use, open it up in steps. Heart rate reserve is maximum minus resting. And maximum is two twenty minus age. So T H R equals, two twenty minus age minus resting rate, times intensity, plus resting rate.
+
+Dev: Sumit again.
+
+Maya: Lower limit. Two twenty minus twenty minus eighty. Brackets first. Two twenty minus twenty is two hundred, minus eighty is one hundred and twenty. Then multiplication before addition. One twenty times fifty percent is half of one twenty, which is sixty. Then add eighty. One hundred and forty. Upper limit, one twenty times sixty percent is seventy two, plus eighty is one hundred and fifty two. So the range is one forty to one fifty two.
+
+Dev: Why does the order matter?
+
+Maya: Think of the letters B O D M A S. Brackets, order, division, multiplication, addition, subtraction. If you jumped to one twenty plus eighty first, your answer changes entirely.
+
+Dev: So the same client went from one hundred to one twenty, to one forty to one fifty two.
+
+Maya: Yes, and the new lower limit is above the old upper limit. The age predicted method uses age only, and gives a generalised range. The Karvonen method uses age and resting heart rate, and gives a customised one. This is the method accepted worldwide.
+
+Dev: One thing, if you convert one forty to one fifty two back into percent of maximum, that's about seventy to seventy six percent, which looks like the high band.
+
+Maya: The notes flag that, and the lecture doesn't discuss it. In this method the fifty to sixty percent is applied to the reserve, not to the maximum. The E-book also uses forty to sixty percent of reserve for initial conditioning, so check your course material.
+
+Maya: Now why is a lower resting heart rate better. Heart rate reserve is a range for the heart to go up, from resting, eighty for Sumit, to maximum, two hundred. Like a reserve fuel tank in a vehicle. The bigger the reserve, the better. If three litres can't reach a petrol pump, five litres helps. Or extra cash for a metro traveller. With a hundred rupees you can take a cab home. With five hundred you can also have a meal and a coffee.
+
+Dev: And in the heart?
+
+Maya: If the heart rate gets very close to maximum during work, you feel exhausted. If Sumit's resting rate were seventy instead of eighty, the same work leaves him further from exhaustion, because he has a bigger tank. Mathematically, reserve is maximum minus resting, so a lower resting rate widens the reserve. Maximum can't be changed, it depends on age. But resting heart rate can be worked on, because cardio reduces it.
+
+Dev: Is there a story?
+
+Maya: The guitar class. Sumit finishes college at four, and his guitar class is at four fifteen, up some stairs. With resting rate eighty, he reaches the building at four twenty five, exhausted, sits on the stairs gasping, arrives in class at four thirty five, recovers by four forty, and a track has already been taught. After three months of cardio, resting rate seventy, he reaches the building around four twenty, climbs without a break, waits briefly on the third floor at four twenty five, and arrives at four twenty eight. After three more months, resting rate sixty, he arrives at four ten, needs no break, and is seated at four fifteen sharp.
+
+Dev: So cardio shows up in daily life.
+
+Maya: Exactly. Now for three clients with resting rates eighty, seventy and sixty, call them A, B and C, all with maximum two hundred. If all got one forty to one fifty two, that would be unfair. The notes computed them with the same formula, not in the lecture. Client B, reserve one thirty, range one thirty five to one forty eight. Client C, reserve one forty, range one thirty to one forty four. Customised, valid and accurate.
+
+Dev: Recap?
+
+Maya: Range, not a single number. Age predicted, two twenty minus age times intensity, Sumit one hundred to one hundred and twenty. Karvonen, brackets first, one forty to one fifty two. Lower resting rate means bigger reserve.
+
+
+--- Monitoring heart rate with electronic devices ---
+
+Maya: Once Sumit has his range, how does he check it? There are three types of electronic devices.
+
+Dev: First?
+
+Maya: The chest strap, known for high accuracy. The main unit sits just above the sternum, closest to the heart, with electrodes behind it. The electrodes receive the heart's electric signals, and the heart rate shows on a phone or watch connected by Bluetooth. Athletes need this almost real time accuracy. Brands, Wahoo, Garmin, Polar.
+
+Dev: And the smartwatch?
+
+Maya: Known for convenience. Rings use the same technology. Accuracy varies with price. Basic models give calories, steps and heart rate. Expensive ones add V O 2 max, sleep quality, G P S and more. Mostly used by gym goers. Brands, Apple, Samsung, Fitbit, Garmin, and cheaper ones like Xiaomi.
+
+Dev: How does it measure heart rate?
+
+Maya: Photoplethysmography, P P G. On the back of the watch, some circles are L E D lights and some are light sensors. The L E D lights send light into the body. When the heart beats, blood flow is higher, so more light is absorbed. Between two beats, flow drops, so less is absorbed and more is reflected back. The sensors capture the reflected light, and the watch analyses it and shows the heart rate.
+
+Dev: And the third?
+
+Maya: Grip sensors, the built in monitors on gym machines. You put your fingers in holes on the handles. They're not recommended, for three reasons. Weak signals, because each beat creates only weak electric signals on the skin. Motion interference, because contact can't be maintained when jogging or running. And salt accumulation, because sweat salt and sanitiser leave an invisible barrier on the sensor.
+
+Dev: What do I say to a client who refuses to buy a watch?
+
+Maya: That even a basic smartwatch is not an overhead expense, it's an investment in themselves.
+
+
+--- Closing recap ---
+
+Maya: Pause and think. Sumit's resting rate is eighty and age twenty. What is the Karvonen upper limit at sixty percent?
+
+Dev: Reserve is one twenty, times point six is seventy two, plus eighty is one fifty two.
+
+Maya: Correct. Here are the five things to remember. One, give a target range, calculated twice, lower and upper. Two, age predicted, two twenty minus age times intensity, ignores resting heart rate. Three, Karvonen, two twenty minus age minus resting, times intensity, plus resting, brackets first. Four, lower resting heart rate means bigger reserve, and cardio lowers it. Five, chest strap most accurate, smartwatch convenient, grip sensors not recommended.
+
+Dev: Next, estimating intensity without devices, and training methods.
+
+Maya: See you in part six.
+
+============================================================
+Part 6 - Estimating Intensity, Training Methods and the Final Quiz
+============================================================
+
+
+--- Where we are ---
+
+Maya: Welcome to the final part. We have intensity as a percentage of maximum, the six factors, two ways to calculate a target heart rate, and the devices. Now three things remain. How to estimate intensity without devices, the types of cardio training, and how to progress. We end with a twelve question quiz.
+
+
+--- Estimating intensity without devices ---
+
+Maya: Some clients should not be given a target heart rate number. Patients with heart, joint or neurological conditions. Pregnant women. People on special medication such as beta blockers. The slides add cardiac and diabetic patients, and clients without access to monitors. Give a heart patient a target of one sixty, and they may end up somewhere else. So these clients self regulate, because only they can say, this is still fine, beyond this is risky.
+
+Dev: What's a beta blocker?
+
+Maya: A medicine from cardiologists that artificially holds the heart rate down and never lets it pass a certain level. If it caps at one hundred and the target is one forty, the heart rate will never get there. So an experience based method is needed.
+
+Dev: First method?
+
+Maya: R P E, rating of perceived exertion, from the exercise physiologist Gunnar Borg. Rating, a score. Perceived, the client's experience. Exertion, the difficulty. Think of a restaurant feedback form, zero to five. The Borg scale runs zero to ten. Zero is rest. One and two, easy. Three, moderate. Four, sort of hard. Five and six, hard. Seven and eight, really hard. Nine and ten, maximal effort. The slide names nine really really hard and ten maximal, so check your course material.
+
+Dev: How is it used?
+
+Maya: The trainer says, do this at three, moderate. The client rates it. Ideally the client says three. If at a higher speed it feels more than three, that speed isn't right.
+
+Dev: What if the client says five when the trainer expects three?
+
+Maya: A mismatch, from two factors. State of mind, like a birthday dinner that started badly and ended with a good rating. In cardio, a client who just got a telling off message from the boss will find everything harder. And environment, a broken air conditioner or poor ventilation makes a moderate activity feel like a five.
+
+Dev: So it's subjective. Isn't that a weakness?
+
+Maya: It's the point. Like rating a movie, one person finds six kilometres per hour moderate, another finds it really easy, a person with a medical condition may say eight. That's why it's an estimation. The client has the authority to self regulate.
+
+Dev: Second method?
+
+Maya: The talk test, an observation method. The trainer watches breathing and talking. Low intensity, breathing normally, talking yes. Moderate, breathing deep and often, still able to talk. High, breathing deep and quick, talking only briefly, half air, half word.
+
+Dev: Where does it help?
+
+Maya: When the trainer is busy with another client. A heart patient is on treadmill three at low intensity, and the trainer asks the general trainer on duty to chat about yesterday's cricket match and watch. If replies are clear and breathing normal, fine. If not, tell the personal trainer. The E-book says it is meant for beginners and used with R P E and a monitor, so check your course material.
+
+Dev: Recap?
+
+Maya: Without devices, for patients, pregnant women and beta blocker users. R P E is experience based, zero to ten. The talk test is observation based, breathing and talking.
+
+
+--- The phases and the first training methods ---
+
+Maya: How should cardio be done, non stop, or in phases? Continuous, also called steady state, is non stop. Interval is in phases. Like driving, a highway is non stop, city traffic is in phases. Interval has subtypes, low or moderate intensity interval training, high intensity interval training, and Fartlek.
+
+Dev: Is there a common structure?
+
+Maya: Every graph has three phases, with intensity on the vertical axis and time on the horizontal. The re warm up, rising. The main or work phase, different for each method. The cool down, falling. Example, five minutes re warm up, twenty minutes main phase, five minutes cool down, thirty in total. Twenty is only an example.
+
+Dev: Why re warm up, if we've done mobility drills?
+
+Maya: Mobility drills are the general warm up. The re warm up is cardio specific, to reach the heart rate zone. Sumit starts at ninety five, so he goes speed two, four, six, eight, and at eight his watch shows he's in his zone, after about five minutes.
+
+Dev: And the cool down?
+
+Maya: At the end of the main phase his heart rate is still in the zone, so he can't hit the emergency stop. It's to avoid syncope, dizziness or blackout when activity stops abruptly. There's a saying, calves are the second heart of the body. They pump blood back up from the lower body. Stop abruptly, and for a fraction of a second that return halts, and the heart and brain miss that blood.
+
+Dev: Now the methods.
+
+Maya: Continuous. Main phase is a flat line. The target range, one forty to one fifty two for Sumit, is held throughout. Speed and intensity stay fixed. Aerobic pathway, slow twitch fibres, R P E about three to four.
+
+Dev: And the second?
+
+Maya: L I I T and M I I T, low and moderate intensity interval training. The graph looks like buildings. The top is moderate, the gap between is low. For a beginner, jogging is moderate and walking is low. Jog two to three minutes, then walk, jog, walk, jog, walk, jog. Four jog bouts and three walk bouts. For an intermediate, running is moderate and jogging is low. Same pattern, different activities. Speed varies, aerobic, slow twitch, R P E five to seven. The notes say the seven bouts add up to fourteen to twenty one minutes, so treat twenty as schematic.
+
+
+--- HIIT, Fartlek, progression and class questions ---
+
+Maya: H I I T, high intensity interval training, looks like mountains. Peaks are sprints. Gaps are active rest. Four sprints, three active rests in the example. In the sprint, intensity goes above eighty five percent. It's anaerobic, because it can't last more than three minutes. A sprint is usually ten to thirty seconds. It uses fast twitch fibres, brings an adrenaline rush, and R P E nine to ten.
+
+Dev: What's active rest?
+
+Maya: Don't rest completely. Do something at moderate intensity. You can't drop to walking, because the heart rate falls too low to get back above eighty five percent. You can't keep running, because intensity only drops to seventy to eighty percent, which limits your sprints. So jog. The sprint to rest ratio is one to two or one to three. For a thirty second sprint, one minute of rest is one to two, one and a half minutes is one to three. In active rest the body goes aerobic, slow twitch. So aerobic, anaerobic, aerobic, anaerobic.
+
+Dev: Who can do H I I T?
+
+Maya: Not beginners, because they're limited to fifty to sixty percent. And even intermediate or advanced clients, not more than twice a week, to protect against fatigue. The notes flag that sprints above eighty five percent belong to super advanced in the classification, which the lecture doesn't reconcile. Gym group classes called H I I T are often branding, and many are really M I I T.
+
+Dev: And Fartlek?
+
+Maya: Swedish for speed play. It's interval, but randomly up and down like a mountain range, with speed and direction varying as per need. Think of fielding in cricket, where you don't know the direction or speed of the ball. On the slide's track, green is jogging pace, blue running, red sprints. The athlete wears a chest strap, heart rate goes to the trainer's phone, and the trainer calls, jog, run, sprint. The E-book lists it separately from interval training.
+
+Dev: And progression?
+
+Maya: Six ways. The first three are workload factors, speed, distance and duration. Then angle, flat to incline on a treadmill. Resistance level, the knob on a bike or cross trainer. And gradient, running uphill outdoors.
+
+Dev: How long should cardio be?
+
+Maya: It depends on the goal. Marathon training needs longer sessions. For strength or size, cardio is fitted in on non weight training days. And a lower resting rate with cardio isn't only about stroke volume. Cardio lowers resting heart rate and raises stroke volume, and that improves overall cardiac output, mainly at high effort.
+
+
+--- Closing recap and quiz ---
+
+Maya: Here are the five things to remember. One, without devices, use R P E, zero to ten, or the talk test, for patients, pregnant women and beta blocker users. Two, every session has a re warm up, main phase and cool down, and the cool down prevents syncope. Three, continuous is flat, M I I T is buildings, H I I T is mountains. Four, H I I T is anaerobic sprints above eighty five percent, not for beginners, not more than twice a week. Five, progress by speed, distance, duration, angle, resistance and gradient.
+
+Dev: Now the quiz. Twelve questions, answers straight after.
+
+Maya: One. What does cardio mean? Heart, from the Greek cardium. Two. Maximum heart rate formula? Two twenty minus age. Three. Which category is the elliptical trainer? Weight bearing, non impact based. Four. Which arteries carry blue blood? The pulmonary arteries. Five. V O 2 rest? Three point five millilitres per kilogram per minute, one M E T.
+
+Dev: Six. Cardiac output formula and rest value? Stroke volume times heart rate, about five litres per minute. Seven. Speed for two kilometres in twelve minutes? Ten kilometres per hour. Eight. Moderate intensity as percent of maximum? Sixty to seventy.
+
+Maya: Nine. Karvonen formula? Two twenty minus age minus resting, times intensity, plus resting. Ten. Sumit's Karvonen range? One forty to one fifty two. Eleven. Which device is most accurate, and which is not recommended? Chest strap, and grip sensors. Twelve. Why cool down? To avoid syncope.
+
+Dev: That's the whole topic.
+
+Maya: Well done for sticking with it. Go and apply it with real clients.
+

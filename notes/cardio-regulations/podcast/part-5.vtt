@@ -1,0 +1,606 @@
+WEBVTT
+
+1
+00:00:00.500 --> 00:00:02.180
+<v Maya>Welcome to part five.
+
+2
+00:00:02.230 --> 00:00:11.070
+<v Maya>Last time we met Sumit, twenty years old, maximum heart rate two hundred, resting heart rate eighty, a beginner at fifty to sixty percent.
+
+3
+00:00:11.120 --> 00:00:19.300
+<v Maya>Today we turn that percentage into a target heart rate, we see why a lower resting heart rate is better, and we look at the devices that monitor heart rate.
+
+4
+00:00:19.350 --> 00:00:26.620
+<v Maya>A target heart rate, THR, can be a single number, like one fifty five, or a range, like one fifty to one sixty.
+
+5
+00:00:26.670 --> 00:00:28.560
+<v Maya>Which makes more sense, Dev?
+
+6
+00:00:28.610 --> 00:00:30.150
+<v Dev>A range, I'd guess.
+
+7
+00:00:30.200 --> 00:00:32.170
+<v Dev>Heart rate isn't fixed.
+
+8
+00:00:32.220 --> 00:00:33.070
+<v Maya>Right.
+
+9
+00:00:33.120 --> 00:00:36.270
+<v Maya>It fluctuates by a few beats, like room temperature.
+
+10
+00:00:36.320 --> 00:00:41.730
+<v Maya>Over twenty minutes you can reach one fifty five, but maintaining exactly that is impossible.
+
+11
+00:00:41.780 --> 00:00:44.830
+<v Maya>A range says, don't go below this, don't exceed that.
+
+12
+00:00:44.880 --> 00:00:46.360
+<v Maya>Think of buying a shirt.
+
+13
+00:00:46.410 --> 00:00:53.850
+<v Maya>Walk into a high end store and ask for a shirt of exactly four thousand eight hundred and thirty two rupees, and you'll be shown the door.
+
+14
+00:00:53.900 --> 00:00:56.760
+<v Maya>You say, between four and five thousand.
+
+15
+00:00:56.810 --> 00:00:58.830
+<v Dev>So we calculate twice.
+
+16
+00:00:58.880 --> 00:01:03.220
+<v Maya>Yes, in both methods, once for the lower limit and once for the upper limit.
+
+17
+00:01:03.270 --> 00:01:10.050
+<v Maya>Method one is the age predicted method, also called the MHR method, because it uses maximum heart rate.
+
+18
+00:01:10.100 --> 00:01:17.840
+<v Maya>The formula is THR equals maximum heart rate times intensity, so two hundred and twenty minus age, times intensity.
+
+19
+00:01:17.890 --> 00:01:22.390
+<v Maya>Same method, two names, so don't be confused if an exam uses either.
+
+20
+00:01:22.440 --> 00:01:24.060
+<v Dev>Sumit's numbers?
+
+21
+00:01:24.110 --> 00:01:30.600
+<v Maya>Lower limit, two twenty minus twenty is two hundred, times fifty over a hundred, which is one hundred beats per minute.
+
+22
+00:01:30.650 --> 00:01:35.280
+<v Maya>Upper limit, two hundred times sixty over a hundred, which is one hundred and twenty.
+
+23
+00:01:35.330 --> 00:01:38.530
+<v Maya>So the range is one hundred to one hundred and twenty.
+
+24
+00:01:38.580 --> 00:01:41.570
+<v Maya>His resting heart rate of eighty isn't used at all.
+
+25
+00:01:41.620 --> 00:01:44.460
+<v Dev>Does that make sense for a guy at eighty resting?
+
+26
+00:01:44.510 --> 00:01:45.810
+<v Maya>That's the loophole.
+
+27
+00:01:45.860 --> 00:01:47.420
+<v Maya>Follow Sumit's day.
+
+28
+00:01:47.470 --> 00:01:48.860
+<v Maya>He wakes at eighty.
+
+29
+00:01:48.910 --> 00:01:54.670
+<v Maya>After his morning routine, a ten minute walk to the gym and three floors by stairs, he's about ninety.
+
+30
+00:01:54.720 --> 00:01:59.430
+<v Maya>After the gym tour, mobility drills and waiting at the treadmill, about ninety five.
+
+31
+00:01:59.480 --> 00:02:01.590
+<v Maya>So cardio starts at ninety five.
+
+32
+00:02:01.640 --> 00:02:08.080
+<v Maya>If he just walks casually and chats with a friend, within two minutes he's in the one hundred to one hundred and twenty zone.
+
+33
+00:02:08.130 --> 00:02:10.850
+<v Maya>Does that look like fifty percent intensity?
+
+34
+00:02:10.900 --> 00:02:12.780
+<v Dev>No, that's barely effort.
+
+35
+00:02:12.830 --> 00:02:13.910
+<v Maya>Exactly.
+
+36
+00:02:13.960 --> 00:02:16.190
+<v Maya>The method only considers age.
+
+37
+00:02:16.240 --> 00:02:20.410
+<v Maya>It never considers current fitness level, which the resting heart rate shows.
+
+38
+00:02:20.460 --> 00:02:26.830
+<v Maya>All twenty year old beginners would get the same range, but one may be near sixty, one at seventy, one at eighty.
+
+39
+00:02:26.880 --> 00:02:32.920
+<v Maya>Like three friends, all thirty years old, and a salesman who gives all three a thirty six waist jeans.
+
+40
+00:02:32.970 --> 00:02:36.560
+<v Maya>Body composition isn't the same for all thirty year olds.
+
+41
+00:02:36.610 --> 00:02:38.170
+<v Maya>We need a customised target.
+
+42
+00:02:38.220 --> 00:02:45.960
+<v Maya>That's why Karvonen, an exercise physiologist, came up with the heart rate reserve method, also called Karvonen's formula.
+
+43
+00:02:46.010 --> 00:02:50.940
+<v Maya>THR equals heart rate reserve times intensity, plus resting heart rate.
+
+44
+00:02:50.990 --> 00:02:57.260
+<v Dev>So before we multiplied the maximum, now we multiply the reserve and add resting rate back.
+
+45
+00:02:57.310 --> 00:02:58.150
+<v Maya>Yes.
+
+46
+00:02:58.200 --> 00:03:00.800
+<v Maya>To make it ready to use, open it up in steps.
+
+47
+00:03:00.850 --> 00:03:03.850
+<v Maya>Heart rate reserve is maximum minus resting.
+
+48
+00:03:03.900 --> 00:03:06.420
+<v Maya>And maximum is two twenty minus age.
+
+49
+00:03:06.470 --> 00:03:13.010
+<v Maya>So THR equals, two twenty minus age minus resting rate, times intensity, plus resting rate.
+
+50
+00:03:13.060 --> 00:03:14.450
+<v Dev>Sumit again.
+
+51
+00:03:14.500 --> 00:03:15.640
+<v Maya>Lower limit.
+
+52
+00:03:15.690 --> 00:03:17.980
+<v Maya>Two twenty minus twenty minus eighty.
+
+53
+00:03:18.030 --> 00:03:19.340
+<v Maya>Brackets first.
+
+54
+00:03:19.390 --> 00:03:24.010
+<v Maya>Two twenty minus twenty is two hundred, minus eighty is one hundred and twenty.
+
+55
+00:03:24.060 --> 00:03:26.490
+<v Maya>Then multiplication before addition.
+
+56
+00:03:26.540 --> 00:03:30.780
+<v Maya>One twenty times fifty percent is half of one twenty, which is sixty.
+
+57
+00:03:30.830 --> 00:03:32.100
+<v Maya>Then add eighty.
+
+58
+00:03:32.150 --> 00:03:33.790
+<v Maya>One hundred and forty.
+
+59
+00:03:33.840 --> 00:03:39.650
+<v Maya>Upper limit, one twenty times sixty percent is seventy two, plus eighty is one hundred and fifty two.
+
+60
+00:03:39.700 --> 00:03:42.600
+<v Maya>So the range is one forty to one fifty two.
+
+61
+00:03:42.650 --> 00:03:44.420
+<v Dev>Why does the order matter?
+
+62
+00:03:44.470 --> 00:03:46.800
+<v Maya>Think of the letters BODMAS.
+
+63
+00:03:46.850 --> 00:03:51.150
+<v Maya>Brackets, order, division, multiplication, addition, subtraction.
+
+64
+00:03:51.200 --> 00:03:55.790
+<v Maya>If you jumped to one twenty plus eighty first, your answer changes entirely.
+
+65
+00:03:55.840 --> 00:04:01.640
+<v Dev>So the same client went from one hundred to one twenty, to one forty to one fifty two.
+
+66
+00:04:01.690 --> 00:04:04.910
+<v Maya>Yes, and the new lower limit is above the old upper limit.
+
+67
+00:04:04.960 --> 00:04:09.580
+<v Maya>The age predicted method uses age only, and gives a generalised range.
+
+68
+00:04:09.630 --> 00:04:14.650
+<v Maya>The Karvonen method uses age and resting heart rate, and gives a customised one.
+
+69
+00:04:14.700 --> 00:04:17.420
+<v Maya>This is the method accepted worldwide.
+
+70
+00:04:17.470 --> 00:04:27.280
+<v Dev>One thing, if you convert one forty to one fifty two back into percent of maximum, that's about seventy to seventy six percent, which looks like the high band.
+
+71
+00:04:27.330 --> 00:04:30.230
+<v Maya>The notes flag that, and the lecture doesn't discuss it.
+
+72
+00:04:30.280 --> 00:04:35.620
+<v Maya>In this method the fifty to sixty percent is applied to the reserve, not to the maximum.
+
+73
+00:04:35.670 --> 00:04:42.110
+<v Maya>The E-book also uses forty to sixty percent of reserve for initial conditioning, so check your course material.
+
+74
+00:04:42.160 --> 00:04:44.930
+<v Maya>Now why is a lower resting heart rate better.
+
+75
+00:04:44.980 --> 00:04:51.220
+<v Maya>Heart rate reserve is a range for the heart to go up, from resting, eighty for Sumit, to maximum, two hundred.
+
+76
+00:04:51.270 --> 00:04:53.540
+<v Maya>Like a reserve fuel tank in a vehicle.
+
+77
+00:04:53.590 --> 00:04:55.430
+<v Maya>The bigger the reserve, the better.
+
+78
+00:04:55.480 --> 00:04:59.130
+<v Maya>If three litres can't reach a petrol pump, five litres helps.
+
+79
+00:04:59.180 --> 00:05:01.520
+<v Maya>Or extra cash for a metro traveller.
+
+80
+00:05:01.570 --> 00:05:04.340
+<v Maya>With a hundred rupees you can take a cab home.
+
+81
+00:05:04.390 --> 00:05:07.590
+<v Maya>With five hundred you can also have a meal and a coffee.
+
+82
+00:05:07.640 --> 00:05:09.130
+<v Dev>And in the heart?
+
+83
+00:05:09.180 --> 00:05:13.630
+<v Maya>If the heart rate gets very close to maximum during work, you feel exhausted.
+
+84
+00:05:13.680 --> 00:05:20.860
+<v Maya>If Sumit's resting rate were seventy instead of eighty, the same work leaves him further from exhaustion, because he has a bigger tank.
+
+85
+00:05:20.910 --> 00:05:26.880
+<v Maya>Mathematically, reserve is maximum minus resting, so a lower resting rate widens the reserve.
+
+86
+00:05:26.930 --> 00:05:29.760
+<v Maya>Maximum can't be changed, it depends on age.
+
+87
+00:05:29.810 --> 00:05:33.840
+<v Maya>But resting heart rate can be worked on, because cardio reduces it.
+
+88
+00:05:33.890 --> 00:05:35.370
+<v Dev>Is there a story?
+
+89
+00:05:35.420 --> 00:05:36.740
+<v Maya>The guitar class.
+
+90
+00:05:36.790 --> 00:05:42.160
+<v Maya>Sumit finishes college at four, and his guitar class is at four fifteen, up some stairs.
+
+91
+00:05:42.210 --> 00:05:53.910
+<v Maya>With resting rate eighty, he reaches the building at four twenty five, exhausted, sits on the stairs gasping, arrives in class at four thirty five, recovers by four forty, and a track has already been taught.
+
+92
+00:05:53.960 --> 00:06:05.510
+<v Maya>After three months of cardio, resting rate seventy, he reaches the building around four twenty, climbs without a break, waits briefly on the third floor at four twenty five, and arrives at four twenty eight.
+
+93
+00:06:05.560 --> 00:06:12.940
+<v Maya>After three more months, resting rate sixty, he arrives at four ten, needs no break, and is seated at four fifteen sharp.
+
+94
+00:06:12.990 --> 00:06:15.700
+<v Dev>So cardio shows up in daily life.
+
+95
+00:06:15.750 --> 00:06:16.830
+<v Maya>Exactly.
+
+96
+00:06:16.880 --> 00:06:24.110
+<v Maya>Now for three clients with resting rates eighty, seventy and sixty, call them A, B and C, all with maximum two hundred.
+
+97
+00:06:24.160 --> 00:06:27.590
+<v Maya>If all got one forty to one fifty two, that would be unfair.
+
+98
+00:06:27.640 --> 00:06:31.070
+<v Maya>The notes computed them with the same formula, not in the lecture.
+
+99
+00:06:31.120 --> 00:06:35.560
+<v Maya>Client B, reserve one thirty, range one thirty five to one forty eight.
+
+100
+00:06:35.610 --> 00:06:39.880
+<v Maya>Client C, reserve one forty, range one thirty to one forty four.
+
+101
+00:06:39.930 --> 00:06:42.400
+<v Maya>Customised, valid and accurate.
+
+102
+00:06:42.450 --> 00:06:43.630
+<v Dev>Recap?
+
+103
+00:06:43.680 --> 00:06:45.540
+<v Maya>Range, not a single number.
+
+104
+00:06:45.590 --> 00:06:51.650
+<v Maya>Age predicted, two twenty minus age times intensity, Sumit one hundred to one hundred and twenty.
+
+105
+00:06:51.700 --> 00:06:55.090
+<v Maya>Karvonen, brackets first, one forty to one fifty two.
+
+106
+00:06:55.140 --> 00:06:57.520
+<v Maya>Lower resting rate means bigger reserve.
+
+107
+00:06:57.570 --> 00:07:00.290
+<v Maya>Once Sumit has his range, how does he check it?
+
+108
+00:07:00.340 --> 00:07:03.140
+<v Maya>There are three types of electronic devices.
+
+109
+00:07:03.190 --> 00:07:04.330
+<v Dev>First?
+
+110
+00:07:04.380 --> 00:07:06.880
+<v Maya>The chest strap, known for high accuracy.
+
+111
+00:07:06.930 --> 00:07:12.120
+<v Maya>The main unit sits just above the sternum, closest to the heart, with electrodes behind it.
+
+112
+00:07:12.170 --> 00:07:19.040
+<v Maya>The electrodes receive the heart's electric signals, and the heart rate shows on a phone or watch connected by Bluetooth.
+
+113
+00:07:19.090 --> 00:07:22.080
+<v Maya>Athletes need this almost real time accuracy.
+
+114
+00:07:22.130 --> 00:07:24.600
+<v Maya>Brands, Wahoo, Garmin, Polar.
+
+115
+00:07:24.650 --> 00:07:26.260
+<v Dev>And the smartwatch?
+
+116
+00:07:26.310 --> 00:07:27.890
+<v Maya>Known for convenience.
+
+117
+00:07:27.940 --> 00:07:30.210
+<v Maya>Rings use the same technology.
+
+118
+00:07:30.260 --> 00:07:32.190
+<v Maya>Accuracy varies with price.
+
+119
+00:07:32.240 --> 00:07:35.320
+<v Maya>Basic models give calories, steps and heart rate.
+
+120
+00:07:35.370 --> 00:07:39.980
+<v Maya>Expensive ones add VO₂ max, sleep quality, GPS and more.
+
+121
+00:07:40.030 --> 00:07:42.060
+<v Maya>Mostly used by gym goers.
+
+122
+00:07:42.110 --> 00:07:46.830
+<v Maya>Brands, Apple, Samsung, Fitbit, Garmin, and cheaper ones like Xiaomi.
+
+123
+00:07:46.880 --> 00:07:48.970
+<v Dev>How does it measure heart rate?
+
+124
+00:07:49.020 --> 00:07:51.560
+<v Maya>Photoplethysmography, PPG.
+
+125
+00:07:51.610 --> 00:07:56.390
+<v Maya>On the back of the watch, some circles are LED lights and some are light sensors.
+
+126
+00:07:56.440 --> 00:07:59.350
+<v Maya>The LED lights send light into the body.
+
+127
+00:07:59.400 --> 00:08:03.130
+<v Maya>When the heart beats, blood flow is higher, so more light is absorbed.
+
+128
+00:08:03.180 --> 00:08:08.120
+<v Maya>Between two beats, flow drops, so less is absorbed and more is reflected back.
+
+129
+00:08:08.170 --> 00:08:13.370
+<v Maya>The sensors capture the reflected light, and the watch analyses it and shows the heart rate.
+
+130
+00:08:13.420 --> 00:08:14.770
+<v Dev>And the third?
+
+131
+00:08:14.820 --> 00:08:17.980
+<v Maya>Grip sensors, the built in monitors on gym machines.
+
+132
+00:08:18.030 --> 00:08:20.480
+<v Maya>You put your fingers in holes on the handles.
+
+133
+00:08:20.530 --> 00:08:22.920
+<v Maya>They're not recommended, for three reasons.
+
+134
+00:08:22.970 --> 00:08:27.680
+<v Maya>Weak signals, because each beat creates only weak electric signals on the skin.
+
+135
+00:08:27.730 --> 00:08:32.450
+<v Maya>Motion interference, because contact can't be maintained when jogging or running.
+
+136
+00:08:32.500 --> 00:08:38.480
+<v Maya>And salt accumulation, because sweat salt and sanitiser leave an invisible barrier on the sensor.
+
+137
+00:08:38.530 --> 00:08:42.400
+<v Dev>What do I say to a client who refuses to buy a watch?
+
+138
+00:08:42.450 --> 00:08:47.400
+<v Maya>That even a basic smartwatch is not an overhead expense, it's an investment in themselves.
+
+139
+00:08:47.450 --> 00:08:48.600
+<v Maya>Pause and think.
+
+140
+00:08:48.650 --> 00:08:51.720
+<v Maya>Sumit's resting rate is eighty and age twenty.
+
+141
+00:08:51.770 --> 00:08:54.930
+<v Maya>What is the Karvonen upper limit at sixty percent?
+
+142
+00:08:54.980 --> 00:09:00.920
+<v Dev>Reserve is one twenty, times point six is seventy two, plus eighty is one fifty two.
+
+143
+00:09:00.970 --> 00:09:01.920
+<v Maya>Correct.
+
+144
+00:09:01.970 --> 00:09:03.980
+<v Maya>Here are the five things to remember.
+
+145
+00:09:04.030 --> 00:09:07.810
+<v Maya>One, give a target range, calculated twice, lower and upper.
+
+146
+00:09:07.860 --> 00:09:13.450
+<v Maya>Two, age predicted, two twenty minus age times intensity, ignores resting heart rate.
+
+147
+00:09:13.500 --> 00:09:19.920
+<v Maya>Three, Karvonen, two twenty minus age minus resting, times intensity, plus resting, brackets first.
+
+148
+00:09:19.970 --> 00:09:24.450
+<v Maya>Four, lower resting heart rate means bigger reserve, and cardio lowers it.
+
+149
+00:09:24.500 --> 00:09:29.920
+<v Maya>Five, chest strap most accurate, smartwatch convenient, grip sensors not recommended.
+
+150
+00:09:29.970 --> 00:09:34.810
+<v Dev>Next, estimating intensity without devices, and training methods.
+
+151
+00:09:34.860 --> 00:09:36.140
+<v Maya>See you in part six.
+

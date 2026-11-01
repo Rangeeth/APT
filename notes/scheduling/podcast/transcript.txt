@@ -1,0 +1,861 @@
+SCHEDULING - PODCAST TRANSCRIPT
+Hosts: Maya and Dev
+
+============================================================
+Part 1 - What Is Scheduling and Its Objectives
+============================================================
+
+
+--- Welcome and the roadmap ---
+
+Maya: Hi everyone, and welcome to this study series on Scheduling. I'm Maya.
+
+Dev: And I'm Dev. This is the topic that ties the whole personal training course together, so I'm a bit nervous and a bit excited.
+
+Maya: That is the right mix. The idea of this series is simple. Put your headphones on, and by the end you understand scheduling, not just remember it. I explain, Dev asks the questions you would ask, and we stop to recap often.
+
+Dev: So what's the plan?
+
+Maya: Six parts. Parts one to three cover the first scheduling lecture, which is about collecting the ingredients. Part one is today. What scheduling actually is, and its objectives. Part two is how often a muscle can be trained, the rest day, and macro versus micro programming. Part three is the micro programme of a single session, the seven fundamentals, and the four pillars called F I T T.
+
+Dev: And the other three?
+
+Maya: Parts four to six cover the second lecture, where we finally cook the dish. Part four is the workout splits and the master table. Part five is the research on stimulus per set and stimulus retention, which explains how many sets you need. Part six is hypertrophy and atrophy, the ideal set ranges, the sample programmes, and a rapid fire quiz on everything.
+
+Dev: Cooking again. Is that the analogy?
+
+Maya: Yes, and we will meet it in a second. Let's begin.
+
+
+--- What is scheduling ---
+
+Maya: Picture designing a workout split like cooking a dish. The first thing you need is ingredients. The first lecture is about arranging the ingredients. The second lecture prepares the dish.
+
+Dev: So some ingredients are things we already learned?
+
+Maya: Right. Some come from earlier lectures, and some are new, based on research from trusted institutes. Each new topic is another aisle in the shop where you pick up one more ingredient.
+
+Dev: Okay. So, what is scheduling?
+
+Maya: Good question, because there is no official definition. The class was asked for words that come to mind. Planning, timings, activities, assigning a task, organising things. All correct. The course merges them into one working statement. Scheduling is organising things in a way that the action leads to results.
+
+Dev: And in training terms?
+
+Maya: Scheduling is about what, when and how to train. But that is not all. You must also keep in mind the body's natural rhythm of three things. Progress, recovery and fatigue.
+
+Dev: Is scheduling the same as programming? I hear both.
+
+Maya: In this course, yes. Programming and scheduling mean the same thing.
+
+Dev: But why isn't it just putting exercises in order?
+
+Maya: Because it is also about the things that make the whats, hows and whens successful. Two examples. A student with a study timetable knows how much time every topic gets, and the knowledge stays for a long time. The student with no timetable panics and crams in the last days, and it is gone after the exam.
+
+Dev: And the second one?
+
+Maya: A doctor's prescription. This medicine before breakfast, this one with lunch, this one before bed, with exact doses. Imagine a patient says, why wait, I will take everything at once. The medicines may not work, or they may even be harmful. There was a reason for that schedule.
+
+Dev: So a schedule needs a logic behind every placement.
+
+Maya: Exactly. Not just some time, some day and some activity. And one more point. Take three different clients. None of them progresses the same way. None recovers the same way. None gets fatigued the same way. So a schedule must be personalised.
+
+Dev: Is there a way to link what, when and how to the rest of the course?
+
+Maya: As a study aid, yes, but note the lecture did not draw this line itself. What to train is answered by the pillar called type. When to train is answered by frequency. How to train is answered by intensity and time, plus two finishing touches, sequence and volume. We will meet all of these in part three.
+
+Dev: And one more principle I remember. Why before what and how.
+
+Maya: Yes. That is why we start with the objectives. What is the purpose of a schedule?
+
+Maya: Quick recap. Scheduling and programming mean the same thing. Scheduling is about what, when and how to train, respecting progress, recovery and fatigue. It needs a logic, like a study timetable or a prescription. And it must be personalised.
+
+Dev: What, when, how. Progress, recovery, fatigue. Got it.
+
+
+--- Objectives one and two ---
+
+Maya: There are four objectives. Linear progression, be comprehensive, minimum overlap, and avoid overtraining. Objective one first. Linear progression.
+
+Dev: Linear meaning a straight line?
+
+Maya: A steady, uniform, consistent upward trend. It might be slow, but there is no decline. Imagine a graph. Time runs along the bottom, and performance towards your goal runs up the side. With a schedule, the line climbs steadily, because the schedule respects how the person progresses, recovers and fatigues.
+
+Dev: And without a schedule?
+
+Maya: The lecture tells it as a story about the gym calendar. January, new year, new me, and the graph shoots up. Then February, a breakup, and it drops. Then the playlist changes, the person is back, motivation returns. Then a festival in March ruins the diet, and it falls again. Then a family wedding, so they are back on track. They are driven by the calendar, not by a schedule.
+
+Dev: And friends too, right?
+
+Maya: Yes. A friend says, I feel like doing shoulders today, even though you trained shoulders yesterday. You do it. That is growing fatigue and a deviation from your own plan. The graph becomes a zigzag. That is non linear progression, and it brings inconsistency, fatigue, injury and a plateau.
+
+Dev: What exactly is a plateau?
+
+Maya: A flat line. Think of a hospital film scene where the doctor says the patient has flat lined. Progress stalls. So remember the picture. Linear is a steady staircase going up. Non linear is a zigzag, and it often ends flat.
+
+Dev: Objective two is be comprehensive.
+
+Maya: Comprehensive means a schedule leaves no goal behind. All five components of fitness get equal focus. Can you name them, Dev?
+
+Dev: Cardiorespiratory endurance, muscular endurance, ideal body composition, flexibility and musculoskeletal strength.
+
+Maya: Perfect. A small correction a student once needed. Say cardiorespiratory, not cardiovascular. Cardiovascular is a system, and the component is cardiorespiratory endurance. The word comprehensive also appeared in the cardio lecture. Task specific muscular endurance is specific to a single task. Comprehensive is the complete, three hundred and sixty degree picture.
+
+Dev: Why must every component be included? Can't a strength client just lift?
+
+Maya: Because the components depend on each other. If you ignore stretching, flexibility is underdeveloped. Then you have a limited range of motion and a higher injury chance. With a limited range, you cannot complete the full range in strength training. An incomplete range hurts hypertrophy. Everything is connected.
+
+Dev: A chain reaction. Stretching, flexibility, range of motion, hypertrophy.
+
+Maya: And it is not only the one hour in the gym. It is the other twenty three hours. Pause and think. Besides progressive overload, what are the other two legs of the hypertrophy tripod?
+
+Dev: Nutrition, and rest and recovery.
+
+Maya: Yes. All three legs matter, and clients will blame the trainer if the other twenty three hours are ignored.
+
+
+--- Overlap, overtraining and volume ---
+
+Maya: Objectives three and four sound similar. Minimum overlap and avoid overtraining. Both have the little word over. Dev, what is overlap?
+
+Dev: Maybe one thing on top of another? Like training the same muscle repeatedly.
+
+Maya: Exactly. Overlap means the same muscle is trained again with no recovery period in between. Shoulders on Monday and shoulders again on Tuesday. If you never train shoulders again that week, it is not necessarily overtraining. But there was no room for recovery between the two sessions. That is overlap.
+
+Dev: And overtraining?
+
+Maya: Doing more than what the muscle needs. And it can happen in two ways. Too much volume, which means too many sets and reps. Or too much frequency, which means training the muscle too many times in a week.
+
+Dev: So overlap is about no gap. Overtraining is about too much.
+
+Maya: Yes. Now volume. Volume is sets multiplied by reps. A popular programme writes five by five, five sets of five reps. Written twelve by three means three sets of twelve reps.
+
+Dev: So how many reps should we do?
+
+Maya: The course does not just follow ready made programmes. Earlier you learned stimulating reps. That is the range of four to six R M, which means a weight you can lift only four to six times. Here motor unit recruitment is high, tension is high, type two fibres work and the large motor units are recruited.
+
+Dev: Is that for everybody?
+
+Maya: No. Stimulating reps are for intermediate and advanced trainees. Beginners use fifteen to twenty R M, and the recommended reps are about ten to fifteen, because they are in a learning phase.
+
+Dev: Hmm, but I remember the slides showing different ranges.
+
+Maya: Good catch. The slides show intermediate at ten to fifteen R M and advanced at six to eight R M. The lecture, described as the updated version, teaches four to six. So these notes follow the lecture, but check your course material.
+
+Dev: And how many sets?
+
+Maya: That cannot be answered yet. All ingredients must be collected first. The second lecture gives published data on sets. For now, volume is kept in check by using stimulating reps.
+
+
+--- Closing recap for part one ---
+
+Maya: Let's close with the five things to remember. One, scheduling is about what, when and how to train, respecting progress, recovery and fatigue, and it must be personalised.
+
+Dev: Two, there are four objectives. Linear progression, comprehensive, minimum overlap, avoid overtraining.
+
+Maya: Three, linear is steady and upward. Without a schedule you get a zigzag and a plateau. Four, comprehensive means equal focus on all five components of fitness, because they depend on each other.
+
+Dev: And five, overlap is the same muscle again with no recovery. Overtraining is doing more than needed, through volume or frequency. Volume is sets times reps, with four to six R M for intermediate and advanced.
+
+Maya: Next time, we answer how often a muscle can be trained, using a table of sets and recovery.
+
+============================================================
+Part 2 - Frequency, the Rest Day and Macro and Micro Programming
+============================================================
+
+
+--- Where we are, and the frequency table ---
+
+Maya: Welcome back to part two of our scheduling series. Last time we defined scheduling and met four objectives. Today we make two of them practical. How often can a muscle be trained, and why does a rest day matter. Then we start macro and micro programming.
+
+Dev: So today is numbers, days of the week, and a gym day built step by step.
+
+Maya: Yes. Let's start with a table. It links the number of sets you do for a muscle to the recovery that muscle needs. One to three sets need forty eight hours. Four to five sets need seventy two hours. More than five sets need about one week.
+
+Dev: More sets, more recovery. That is common sense.
+
+Maya: It is, and the table comes from research. Now an important detail. The sets are main sets per muscle, per session. Not per exercise. Say you train the back. Two main sets of lat pulldown plus one main set of a supported row equals three main sets for the latissimus dorsi. Three for the muscle.
+
+Dev: And warm-up sets?
+
+Maya: Not counted. Neither are prep sets. Only main sets.
+
+Dev: Okay. Now the weekly outlook.
+
+Maya: Imagine three people, call them Person A, B and C. Write Monday to Sunday. Person A does one to three sets and needs forty eight hours. Trains Monday. When can they train the muscle next, Dev?
+
+Dev: Forty eight hours is two days, so Wednesday?
+
+Maya: Yes, Wednesday, not Thursday. Tuesday is one full day, and the remaining hours of Monday plus the early hours of Wednesday make another day. Monday at two in the afternoon to Wednesday at two in the afternoon is exactly forty eight hours.
+
+Dev: So Monday, Wednesday, Friday.
+
+Maya: Right. After Friday, forty eight hours runs through Saturday into Sunday, and Sunday is the mandatory rest day. So the next session is Monday. Frequency, three times a week.
+
+Dev: Person B?
+
+Maya: Four to five sets, seventy two hours. Monday, then Thursday. After Thursday, seventy two hours would land on Sunday, which is rest, so the next one is Monday. Twice a week, not more. More would be overtraining.
+
+Dev: And Person C, more than five sets?
+
+Maya: Needs a full week. Monday, and again next Monday. Once a week.
+
+Dev: So the memory hook is three, two, one. One to three sets, three times. Four to five, twice. Over five, once.
+
+Maya: Lovely. And the once a week row matches the bro split, where one body part is trained per day. Back day, chest day, and so on. The course says the later lectures discuss who should use which split, because the industry has stereotypes, like full body being only for beginners.
+
+Dev: Does this apply to everyone? What about people who use enhancing substances?
+
+Maya: Good question. Everything here assumes natural training, no artificial substances. Enhanced people have extra capacity and a different recovery pattern. The studies behind these numbers were all on natural training.
+
+
+--- The rest day ---
+
+Maya: Now, why a rest day. Not giving one is a way of overtraining. There are three recoveries.
+
+Dev: Let me guess. Muscles?
+
+Maya: Musculoskeletal recovery. That means soft tissues, tendons, ligaments, muscles and fascia, and hard tissues, the bones. People focus on the main muscles and forget the joints that are shared across days. Take the shoulder joint. It works on back day, chest day and shoulder day. The same tendons and ligaments work across days.
+
+Dev: But people say, I'll just play a cricket match on Sunday.
+
+Maya: And the course answer is, you cannot leave your femur and humerus at home. You cannot leave your muscles at home. A full rest day is mandatory.
+
+Dev: Second recovery?
+
+Maya: C N S and P N S, the central and peripheral nervous systems. Think of the C N S as the factory where the contraction signals are produced. The P N S are the truck drivers who deliver them. They work twenty four hours a day, even in daily tasks. Both deserve a day off. The slides list only the C N S, but the lecture includes the P N S.
+
+Dev: And the third is immunity.
+
+Maya: Yes. Immunity is a shield, and stress wears it down. Some stress is non controllable, like financial or relationship stress. Some is controllable, and here the rest day helps. A full rest day helps keep cortisol, the stress hormone, in check.
+
+Dev: Factory, truck drivers, shield. I can hold those.
+
+Maya: Recap. Sets are main sets per muscle. One to three sets, forty eight hours, three times a week. Four to five, seventy two hours, twice. More than five, one week, once. Sunday is the rest day for three recoveries.
+
+Maya: Here is a pause and think. If someone does four main sets for their chest on Monday, when is the next chest session, and how often a week?
+
+Dev: Four sets is the seventy two hour row, so Thursday. And only twice a week, because Sunday is rest.
+
+Maya: Correct. Not Wednesday, and not three times.
+
+
+--- Macro versus micro programming ---
+
+Maya: Next aisle. The two major types of exercise programming. Macro and micro.
+
+Dev: Big and small?
+
+Maya: Exactly. Macro is the high level, the bigger picture. Micro is the zoomed in picture, like the microscope. A student said it best. Macro is a forest, micro is a tree in that forest.
+
+Dev: Examples please.
+
+Maya: The certification itself. The macro programme is three modules, each with a unit test. The micro programme is a single lecture, with a recap like a warm-up, the main content like the main sets, and a quiz at the end like a cool-down. Another example is a family wedding. Macro, four functions in one week. Micro, the timings of one day, when the caterer serves, when the DJ starts.
+
+Dev: And for exercise?
+
+Maya: Macro is the client's whole fitness journey, with specific goals and the activities that meet them. It comes first, like a blueprint. If something is missing at macro level, it will be missing at micro level.
+
+Dev: So what's in the macro table?
+
+Maya: Four rows. Cardiorespiratory endurance and muscular endurance together are met by aerobic cross training. A diverse pool of aerobic activities improves cardiorespiratory endurance and builds comprehensive muscular endurance. Musculoskeletal strength is met by weight training, also called strength or resistance training. Ideal body composition is met by the hypertrophy tripod, progressive overload, nutrition, and rest and recovery. The ideal male body fat is under fifteen percent. And flexibility is met by stretching.
+
+Dev: Is the activity an exercise, like squats?
+
+Maya: No. It is the type of activity, not the number of sets or the exercise.
+
+Dev: Strength training, stretching, aerobic cross training, tripod. Four rows, fine.
+
+
+--- The weight training day ---
+
+Maya: Now micro. Imagine a leg day. You walk into the gym. First thing?
+
+Dev: Warm up?
+
+Maya: Step one is the general warm-up, a slow walk of two to three minutes to wake the body and the C N S. Step two is the mobility drill, which is dynamic stretching, done before the workout. It stimulates the C N S, improves blood flow and removes joint stiffness.
+
+Dev: Some people merge those two.
+
+Maya: That is acceptable, but micro programming is detailed, so keep them separate. Then steps three, four and five are the three types of sets. Specific warm-up set, prep sets, and main sets.
+
+Dev: Why is it called specific?
+
+Maya: Specific to that exercise, not just the muscle. If the main set is a squat, the warm-up set is also a squat, with body weight or an empty bar. You check the exact movement pattern is pain free before loading. Warming up squats with leg extensions is not specific.
+
+Dev: And prep sets?
+
+Maya: They gradually increase the weight to prepare soft and hard tissues. For example forty, sixty and eighty percent of one R M. There is no rule of three. It varies. Then the main sets, the final battle, with four to six R M. Step six is static passive stretching, at the end.
+
+Dev: Why at the end?
+
+Maya: A static stretch is held for about twenty five to thirty seconds, enough for the stretch reflex followed by autogenic inhibition. Then the muscle relaxes. If it is relaxed at the start, it cannot produce force in your sets. The slides say thirty seconds, so use thirty. The lecture once also mentioned fifteen seconds as the minimum for the stretch mechanism, so check your material.
+
+Dev: Do beginners use all those sets?
+
+Maya: No. Beginners use only learning sets. Intermediates use a specific warm-up set and main sets, with no prep set. Advanced use all three. And the three minute rest only applies to main sets, so beginners never use it.
+
+Dev: And someone who is in the gym every day, do they need a specific warm-up?
+
+Maya: Yes. They may be overtraining, and overnight the muscle may react differently to that movement. But it is needed for the main compound lifts, not for a biceps curl after pulling exercises, because those muscles already worked.
+
+
+--- Closing recap for part two ---
+
+Maya: Five things to remember. One, main sets per muscle: one to three sets need forty eight hours, four to five need seventy two, more than five need a week.
+
+Dev: Two, that gives three, two and once a week. Sunday is the mandatory rest day.
+
+Maya: Three, the rest day gives musculoskeletal, nervous system, and immune system recovery.
+
+Dev: Four, macro is the forest, the whole journey. Micro is the tree, one session. The macro table pairs each goal with an activity.
+
+Maya: Five, the weight training day is six steps. General warm-up, mobility drill, specific warm-up set, prep sets, main sets, static passive stretching last. Next time, the cardio day and the combined day, and then the fundamentals and the four pillars.
+
+============================================================
+Part 3 - Cardio and Combined Days, the Fundamentals and the Four Pillars
+============================================================
+
+
+--- The cardio day and the combined day ---
+
+Maya: Welcome to part three. Last time we built a weight training day in six steps. Today we finish micro programming with the cardio day and a combined day, then the seven fundamentals and the four pillars.
+
+Dev: Starting with cardio. Do we really need a warm-up when it is just cardio?
+
+Maya: Yes. The central nervous system still needs stimulating and the joints are still used. So steps one and two stay the same, general warm-up and mobility drill. Then steps three, four and five are three phases, which you know from the heart rate graphs in the cardio lecture. Heart rate on the vertical axis, time along the bottom.
+
+Dev: What does the graph look like?
+
+Maya: Phase one is an upward slope. Phase two is the main phase, and it looks different for each method. Phase three is a downward slope. For continuous cardio, phase two is a flat line. For low and moderate intensity intervals it looks like buildings. For H I I T, high intensity interval training, it looks like mountains with sharp peaks.
+
+Dev: And what are the phases called?
+
+Maya: Phase one is the re-warm-up. Re, because you already did a general warm-up. This one has a different purpose, to take the heart rate step by step into the target heart rate zone, about five minutes. Phase two is the main or work phase. Phase three is the cool-down.
+
+Dev: Why cool down? Why not just stop?
+
+Maya: Say it is the twentieth minute and the heart rate is one hundred and fifty to one hundred and sixty. Stopping suddenly can cause dizziness, even a blackout, which is called syncope. So bring it down step by step. And step six is static passive stretching, because the muscles still worked.
+
+Dev: So, what if a client wants weights and cardio on the same day?
+
+Maya: Weight training first, then cardio. If cardio comes first, the muscles are already fatigued and cannot produce force in the main sets. In the weight part do steps one to five and skip the static stretching, because you do not want to relax the muscles before cardio. In the cardio part, skip the general warm-up and mobility drill, since the body is already warm. Keep the re-warm-up, because it is specific to cardio. Then the main phase, then the cool-down, which is mandatory. And do static stretching once, at the very end, never in the middle.
+
+Dev: What about ten minutes of treadmill before lifting, as a warm-up?
+
+Maya: Not recommended. It fatigues the muscles beforehand. The general warm-up is just a slow two to three minute walk.
+
+Maya: Pause and think. On a combined day, which stretching step is skipped after the weights, and why?
+
+Dev: The static stretch, because relaxing the muscles before cardio is not what we want. We do it once at the very end.
+
+Maya: Exactly. And here is an exam hint. A multiple choice question is very likely, asking for the most logical micro programme, with the steps jumbled. Static stretching first, mobility drill last, and so on. If you know the three days, you can answer any version.
+
+
+--- The seven fundamentals ---
+
+Maya: Next aisle. The fundamentals of exercise programming. Seven of them, equally important. Not a ranking. Specificity, adaptation, overload, progression, intensity, duration, reversibility.
+
+Dev: Let's go one by one.
+
+Maya: Specificity. A specific goal needs a specific task. If the goal is lower body strength and the client must avoid back stress, choose a supported lower body exercise. Like an employee who wants a promotion for learning a new tool. They learn that tool. They do not join a dance class.
+
+Dev: Adaptation?
+
+Maya: Add a new movement and the body adapts to it, if you keep doing it. Someone who has never done a push-up manages two or three. If they continue, after a month they may do fifteen.
+
+Dev: Overload.
+
+Maya: If the weight never increases, tension inside the muscle does not increase. The mechanoreceptors, which inform the nervous system about tension, stay quiet. The current myofibrils and sarcomeres are enough, so why should the muscle grow? So after adaptation, you must overload.
+
+Dev: Progression is next.
+
+Maya: Progression is what you see when specificity, adaptation and overload work together. Intensity and duration are taught in detail in the next section. Duration is most relevant for cardio but also varies for weight training.
+
+Dev: Then reversibility.
+
+Maya: Any achievement, fat loss or hypertrophy, goes back if you stop training, cheat the diet, or ignore recovery. And growth is slower than the downfall. In a study example, a hundred people trained for three months and gained muscle. When some stopped training, the muscle came off much faster than it was built. The lecture used hypothetical numbers, so do not quote them as research.
+
+Dev: Is the speed the same for everyone?
+
+Maya: No. It is slower for someone with prior training experience, because the neural pathways and proprioception are already trained. A six year lifter on a six month break loses less quickly than a newbie. And nutrition, especially protein, affects the pace.
+
+Dev: A mnemonic for the seven?
+
+Maya: Say it as a story. A specific task, the body adapts, you overload it, you progress, at the right intensity and duration, and if you stop, it reverses.
+
+
+--- The four pillars, frequency and intensity ---
+
+Maya: Now the four pillars of exercise programming, like the pillars of a house. The lecture calls it the F I T principle. The slides call it F I T T. Same four pillars. Frequency, intensity, time and type. Each is applied to weight training, cardio and stretching.
+
+Dev: And F is frequency, not fitness.
+
+Maya: Right. Let's learn to read a frequency chart, like a client's existing diary. Monday upper body weight training, Tuesday lower body, Wednesday cardio, Thursday upper, Friday lower, Saturday cardio, Sunday rest. Read it in layers.
+
+Dev: Layer one?
+
+Maya: Type of activity. Weight training four times, cardio twice. Layer two, by body region. Upper body twice and lower body twice. Layer three, by single muscle. The latissimus dorsi is trained twice, Monday and Thursday. Not four, because two of the four sessions were leg days.
+
+Dev: And going deeper?
+
+Maya: Parts of the muscle. The lats have horizontal and diagonal fibres. Shoulder extension exercises, like rowing, target the horizontal fibres. Shoulder adduction exercises, like pulldowns, target the diagonal fibres. So you can say how often each is trained.
+
+Dev: What about synergists?
+
+Maya: Important. The triceps work as synergists in the bench press, in overhead pressing and in chest work. If you only look for a triceps exercise on the chart, you miss them and end up overtraining.
+
+Dev: And cardio and stretching?
+
+Maya: Cardio is classified by joint stress. An outdoor run is W B I B, weight bearing impact based. Indoors you may choose W B I B on a treadmill, W B N I B, weight bearing non impact based, on an elliptical, or N W B N I B, non weight bearing non impact based, on a bike, rowing machine or swimming. For stretching, the example has six sessions a week. Mobility drill six, static six, for example four S P S and two P N F. P N F, proprioceptive neuromuscular facilitation, is high intensity, so at most twice a week. Stretching does not follow the forty eight hour rule.
+
+Dev: Intensity?
+
+Maya: Weight training uses the R M method. The lower the R M, the higher the intensity. Also R I R, reps in reserve. Fewer in reserve, higher intensity. Zero or one in reserve is close to failure. Four or five in reserve is low intensity.
+
+Dev: And cardio?
+
+Maya: Heart rate during cardio as a percentage of maximum heart rate, with the target worked out by the Karvonen formula. When heart rate cannot be used, for patients or pregnant women, use R P E, the Borg rating of perceived exertion from zero to ten, where nine is really, really hard and ten is maximum, or the talk test. Stretching, static passive is lower intensity, and P N F and isometric stretching are high.
+
+
+--- Pause and think, then time and type ---
+
+Maya: Pause and think. A client's plan has one triceps exercise a week, but also a bench press and overhead press on other days. Is triceps frequency one?
+
+Dev: No. The triceps work as synergists, so it is more than one.
+
+Maya: Exactly. Now time. For weight training, beginners have no three minute rest because they have no main sets, but ten to fifteen reps, so the session is still long. Intermediate and advanced have rests but only four to six reps. Cardio is continuous, aerobic, for more than three minutes, even hours. Or interval, short and anaerobic. Static stretching is time based, thirty seconds. Dynamic is repetition based, ten to twelve reps per drill. The slides instead say mobility drills for five to ten minutes in total, and both can be true.
+
+Dev: Is there a calculation?
+
+Maya: A H I I T session. Five minutes re-warm-up. Three sprints of fifteen seconds is forty five seconds. Two active recoveries of one and a half minutes is three minutes. So the work phase is three minutes forty five seconds. Add five minutes cool-down. Five plus three forty five plus five is thirteen minutes forty five seconds. The recording once mentioned four sprints, but the calculation used three, so check your course material.
+
+Dev: And type?
+
+Maya: Weight training. Compound versus isolation, multiple joints versus one. Supported versus unsupported. Then bilateral, both sides same object. Isolateral, both sides different objects. Unilateral, one side at a time. A structural lift is bilateral, compound, unsupported, with axial loading, involving both knee and hip. Cardio is W B I B, W B N I B, N W B N I B, and continuous or interval, like L I I T, M I I T, H I I T and Fartlek. Stretching is dynamic or static, where static includes S P S, isometric, P N F and fascial line stretching.
+
+Dev: And S and V?
+
+Maya: The finishing touches, like interior decoration. S is sequence. Unsupported compound, supported compound, isolation, then unilateral. V is volume, sets times reps. Reps are four to six R M. Sets come next lecture. The slides add guidelines. Stretching six times a week, cardio three to five, weight training three to four. Cardio twenty to sixty minutes, weight training twenty to ninety.
+
+
+--- Closing recap for part three ---
+
+Maya: Five things to remember. One, a cardio day has a general warm-up, mobility drill, re-warm-up, main phase, cool-down and static stretching.
+
+Dev: Two, on a combined day, weights first. Skip the static stretch in the middle and skip the general warm-up before cardio. One static stretch at the end.
+
+Maya: Three, the seven fundamentals. Specificity, adaptation, overload, progression, intensity, duration, reversibility, and growth is slower than the downfall.
+
+Dev: Four, the four pillars. Frequency, intensity, time, type, read in layers, including synergists. And the H I I T session lasts thirteen minutes forty five seconds.
+
+Maya: Five, sequence and volume are the finishing touches. Now we are ready to cook in the next lecture.
+
+============================================================
+Part 4 - Workout Splits and the Master Table
+============================================================
+
+
+--- Where we are, and the master table ---
+
+Maya: Welcome to part four, the first part of the second scheduling lecture. In lecture one we collected the ingredients. Now we cook. The aim is to learn how to analyse or design a workout split.
+
+Dev: And the big question left open was how many sets.
+
+Maya: Yes. Picture the board split in two. The left side holds the master table. The right side holds the research studies, which supply the factors to consider while choosing a split, just like the factors for prescribing cardio intensity in the cardio lecture. So we answer it with a master table and a set of research factors. The table lists, in order, seven columns. Number of main sets per muscle. Recovery period. Weekly outlook. Training frequency. Split types. Training level. And ideal set range. The last two are conclusions, so we fill them in at the end.
+
+Dev: Is this about weight training only?
+
+Maya: Yes. A day with no weight training is not a rest day. It is free room that can be used for cardio. Exactly one day a week, Sunday, is the mandatory rest day.
+
+Dev: Let me check I remember the first four columns.
+
+Maya: Go on.
+
+Dev: One to three sets, forty eight hours, Monday, Wednesday, Friday, thrice a week. Four to five sets, seventy two hours, Monday and Thursday, twice a week. More than five sets, one week, Monday and next Monday, once a week.
+
+Maya: Perfect. Remember that sets means main sets per muscle, not warm-up sets and not the total for all exercises. The same muscle can get its sets from one exercise or several, and it is the muscle's total that counts.
+
+
+--- What is a workout split ---
+
+Maya: Now the fifth column. A workout split is how your weight training sessions are arranged across the week, following some logic. Different splits follow different logic.
+
+Dev: Starting with full body?
+
+Maya: Full body workout, shortened to F B W. Every session trains the whole body. Next, upper lower. Upper days train only upper body muscles, back, chest, shoulders and arms. Lower days train only lower body muscles. Upper muscles are not trained on a lower day.
+
+Dev: Push, pull, legs?
+
+Maya: That one groups muscles by movement pattern. A pull day has the pulling movements, rows, lat pulldowns, and biceps curls, which is why back and biceps are trained together. A push day has the pushing movements, bench press for the chest, vertical push for the front of the shoulder, and triceps, which is why chest, shoulders and triceps go together. The remaining day is legs.
+
+Dev: And the bro split?
+
+Maya: Also called the body part split. One body part per day. Back on Monday, chest on Tuesday, a gap, then legs, shoulders, arms and a cardio day. Shoulders and arms are kept away from back and chest days, so the same joint is not used on back to back days.
+
+Dev: So which split goes with which row of the table?
+
+Maya: Think of it as lining up by frequency. One to three sets, forty eight hours, thrice a week fits full body. Monday, Wednesday and Friday full body, with non weight training days between and rest on Sunday. Each muscle is trained every other day.
+
+Dev: Four to five sets?
+
+Maya: Upper lower. Monday upper, Tuesday lower, Wednesday a non weight training day, Thursday upper, Friday lower, Saturday cardio, Sunday rest. Upper muscles are trained Monday and Thursday, lower muscles Tuesday and Friday, each with seventy two hours in between.
+
+Dev: And more than five sets, once a week?
+
+Maya: Push pull legs and the bro split. In the push pull legs example, Monday push, Wednesday pull, Friday legs, Saturday cardio, Sunday rest. In the bro split, each body part gets one day.
+
+Dev: Here's something I got wrong. Upper lower has four weight training days. So the frequency is four?
+
+Maya: That is the trap. Frequency is per muscle, not per weight training day. Ask how often the legs are trained. Twice. Upper muscles Monday and Thursday, lower muscles Tuesday and Friday. This is why frequency was taught first. In push pull legs, the latissimus dorsi is trained once, on pull day. In the bro split, the lats on back day, the pectoralis major on chest day, and the shoulders are each trained once. Because the frequency is the same, everything we learn applies to both.
+
+Dev: But many people do push pull legs twice, six days a week. Is that wrong?
+
+Maya: That is the question a student asked. In that version you do six weight training sessions. You may be overtraining, and the weekly stimulus may not justify six days. The board drew push pull legs once a week, but note this is an inference. By the lecture's own rule, a six day version trains each muscle twice, which would put it in the twice a week category. The lecture did not resolve it, so check your course material.
+
+
+--- Pause and think, and the myth ---
+
+Maya: Pause and think. If a lifter trains upper lower, how many times is the quadriceps trained a week?
+
+Dev: Twice, because lower days are Tuesday and Friday. Even though there are four weight training days.
+
+Maya: Yes. Now, the aim of this lecture. It is not to criticise any split. It is to break a myth, the belief that full body is only for beginners, so why would an advanced lifter do it. The point to prove is that any training level can pick a split from any of the three scenarios, as long as they do the ideal number of sets. Not under, not over.
+
+Dev: But then why is full body usually given to beginners?
+
+Maya: Because for beginners there is a logical best choice. Two pillars of the F I T T principle are linked. Frequency is proportional to one divided by intensity. In words, when intensity goes up, frequency goes down, and when intensity goes down, frequency can go up.
+
+Dev: Why does that matter for beginners?
+
+Maya: Beginners train with low intensity, fifteen to twenty R M, light weight, high reps, learning sets. Because intensity is low, the muscles do not reach major fatigue. So high frequency is not a problem for them. If intensity were high, high frequency would pile on fatigue.
+
+Dev: But why should frequency be high? Why not just rest?
+
+Maya: Because beginners have a lot to learn. First, neural pathways. The gap between two motor neurons is a synapse. A new movement has a weak pathway, which becomes stronger the more it is repeated. The lecture compared it to crossing a bridge between two mountains. The first crossing is the hardest, and every later crossing is more confident.
+
+Dev: What else is there to learn?
+
+Maya: The kinetic chain, for example the arch of the body in the bench press while pressing into the floor. Proprioception, the proprioceptors working efficiently for each exercise. Grip and tightness. And the Valsalva manoeuvre and breathing, when to inhale and exhale in each movement.
+
+Dev: So if the chest is trained only once a week, the bench press is practised once a week.
+
+Maya: Exactly. Neural pathways, the kinetic chain and technique take much longer to form. With full body, three days a week, Monday, Wednesday and Friday, a beginner practises each movement often with light weights. The usual two to three month beginner phase is then used productively.
+
+Dev: So the best choice for beginners is full body, three days a week.
+
+Maya: Yes. And because beginners were taught this way, the industry created a stereotype. The next parts show intermediate and advanced trainees can also make the most of full body, if they follow the set range.
+
+
+--- Training level, and what comes next ---
+
+Maya: Now the sixth column, training level. The lecture ended early. The remainder will be covered in the next lecture, so the final split selection conclusion is still to come. The final level column was not formally completed.
+
+Dev: So what do we know meanwhile?
+
+Maya: Beginner, full body, as we just reasoned. For intermediate and advanced, the lecture's logic points to a split from any of the three scenarios, provided they stay inside the ideal set range for that scenario. The slides show a fuller picture.
+
+Dev: What do the slides show?
+
+Maya: Beginner, fifteen to twenty R M, no failure, full body, no split. Monday, Wednesday and Friday full body, Tuesday, Thursday and Saturday cardio and abs, Sunday rest. Intermediate, ten to fifteen R M, a double split, upper body and lower body, alternating across two weeks. Advanced, six to eight R M, a triple split, push, pull and lower body, with four day and six day splits for higher levels.
+
+Dev: Wait, six to eight and ten to fifteen. That differs from four to six.
+
+Maya: Yes, the same difference we flagged in lecture one. The lecture says four to six R M for stimulating reps, the slides say these other ranges. Check your course material.
+
+
+--- Closing recap for part four ---
+
+Maya: Five things to remember. One, the master table links main sets per muscle, recovery, weekly outlook and frequency, then split and level.
+
+Dev: Two, one to three sets, forty eight hours, thrice a week, full body. Four to five, seventy two hours, twice, upper lower. More than five, one week, once, push pull legs or bro.
+
+Maya: Three, frequency is per muscle, not per weight training day. Upper lower has four days but each muscle twice.
+
+Dev: Four, frequency is proportional to one over intensity. Beginners use low intensity, so high frequency suits them, to build neural pathways, kinetic chain, proprioception, grip and Valsalva breathing.
+
+Maya: Five, full body only for beginners is a myth. Any level can use any split with the ideal sets. Next part, the research on why.
+
+============================================================
+Part 5 - Stimulus per Set, Retention and Sets Versus Frequency
+============================================================
+
+
+--- Where we are, and stimulus per set ---
+
+Maya: Welcome to part five. Last time we met the master table and the splits. Today is the heart of the lecture, the research that explains the set numbers. Each study gives a takeaway, and each takeaway is a factor. Factor one is stimulus per set.
+
+Dev: Stimulus meaning what?
+
+Maya: The hypertrophy stimulus, from the word stimulation, meaning a change. The question is, if you do one set for a muscle, how much growth stimulus does it get? The researchers measured it in arbitrary units, not kilograms. To make it relatable, the lecture showed one unit as one rupee. That is only an analogy, not a real measurement.
+
+Dev: So one set equals one rupee.
+
+Maya: Yes. Now the table, as net stimulus, the total after that many sets. One set, one point zero zero. Two sets, one point three nine. Three sets, one point six one. Four sets, one point seven seven. Five sets, one point nine zero. Six sets, two point zero zero.
+
+Dev: Hold on. If one set gives one, shouldn't two sets give two?
+
+Maya: That is exactly the surprise. Two sets give only one point three nine, and three sets give one point six one, not three. It takes six sets to double what the first set gave. Five more sets to earn one more unit.
+
+Dev: And the third column, stimulus per set?
+
+Maya: That is what each set added. It is the difference between consecutive totals. Set two, one point three nine minus one equals zero point three nine. Set three, one point six one minus one point three nine, equals zero point two two. Set four, one point seven seven minus one point six one, is zero point one six. Set five, one point nine zero minus one point seven seven, zero point one three. Set six, two minus one point nine zero, zero point one zero.
+
+Dev: A common mistake would be subtracting from one every time.
+
+Maya: Yes, and the lecture warns about it. For set three it is minus one point three nine, not minus one. Now a neat check. Add sets two to six. Zero point three nine, plus zero point two two, plus zero point one six, plus zero point one three, plus zero point one zero equals one point zero zero. So five sets together add the same as the first set alone.
+
+Dev: The lecture said roughly one point zero two, didn't it?
+
+Maya: It did, but the exact sum is one point zero zero. Rounding in the published numbers could explain it. Beyond six sets, seven sets about two point zero nine, eight about two point one six, nine about two point two three. Each extra set adds less. The seventh adds about zero point zero nine and the eighth about zero point zero seven.
+
+Dev: So the total keeps rising, but each set is worth less.
+
+Maya: That is the law of diminishing returns, an idea from economics. The more the merrier is not always true.
+
+
+--- The curve and muscle damage ---
+
+Maya: Picture the graph. Number of sets along the bottom, stimulus up the side. If doubling held, two sets would reach two, and the line would shoot up steeply. Instead the curve rises quickly at first, then flattens like a hill levelling off.
+
+Dev: And it never goes down?
+
+Maya: Eventually it takes a U turn. More sets means more muscle damage. Draw damage as a second curve. It stays near zero for the first few sets, then rises. When damage matters, it pulls the net stimulus down. So the net stimulus becomes an inverted U, a hill with a peak and then a descent.
+
+Dev: Is the damage the same for every muscle?
+
+Maya: No. Some muscles are more easily damaged and others less. In the published graph, a more easily damaged muscle reaches about one point seven seven at four sets, rises a little to about two at five and six sets, then falls back to about one point seven seven by nine sets. The extra five sets added nothing, so four were enough for that muscle.
+
+Dev: And the less damaged one?
+
+Maya: Rises to about two at six sets and is still about two at nine. The extra three sets are unnecessary, so stopping at six was enough.
+
+Dev: So that is why we have upper limits.
+
+Maya: Exactly. Max three, max five, max ten in the set range column. In the third scenario more than five sets could mean twenty or twenty five sets, so five is the minimum and a cap is needed.
+
+Maya: Recap. One set gives one. Totals are one, one point three nine, one point six one, one point seven seven, one point nine, two. Each set adds the difference. Six sets are needed to double one set. Too many sets bring damage, giving an inverted U.
+
+Maya: Pause and think. What does the third set add, and which total do you subtract from?
+
+Dev: One point six one minus one point three nine, which is zero point two two. Not minus one.
+
+Maya: Exactly. On to factor two.
+
+
+--- Factor two, stimulus retention ---
+
+Maya: Once you earn a stimulus, how long does the muscle keep it? It is not a fixed deposit, like money in a bank locker. If the muscle is not trained again in time, atrophy sets in and the stimulus falls to zero. This is stimulus retention per set.
+
+Dev: How many days?
+
+Maya: Take the training day as day one. One set, one point zero zero, reaches zero on day five. Two sets, day six. Three sets, day seven. Four sets, day eight. Five sets, day nine. Six sets, day ten.
+
+Dev: There's a pattern. Sets plus four.
+
+Maya: Yes. Add four to the number of sets, and that is the day the stimulus reaches zero if you do not train again. Each extra set buys about one more day. These are not fixed numbers. Some studies say four days for one set and others five, so the lecture picked the middle.
+
+Dev: Does it depend on beginner, intermediate or advanced?
+
+Maya: No. It applies to every level. Reps are already set around stimulating reps. A four to six R M weight differs from person to person, but the stimulus each earns stays for the same number of days.
+
+
+--- Linking sets and frequency ---
+
+Maya: Now combine the factors, using the latissimus dorsi, though it applies to every muscle. Full body, one to three sets, lats three times. Upper lower, Monday and Thursday. Push pull legs, once, Monday and next Monday.
+
+Dev: What goes wrong with once a week and only one or two sets?
+
+Maya: One set reaches zero on day five. Two sets, on day six. Next Monday is day eight. Everything earned has gone to zero, so the muscle starts from scratch every week, with nothing carried forward. You gain, lose and start again. You do not have to carry all of one point seven seven forward, but you must carry something. That is how muscle size builds.
+
+Dev: And the person on full body with two sets?
+
+Maya: One point three nine would take until day six to reach zero. But the muscle is trained again on Wednesday and Friday, long before zero. They push it up before it falls. That person cannot do two sets once a week.
+
+Maya: Pause and think. Why can a thrice a week lifter use two sets, but a once a week lifter cannot?
+
+Dev: Because the thrice a week lifter trains again before the stimulus reaches zero, and the once a week lifter with two sets reaches zero on day six, before the next session.
+
+Maya: Yes.
+
+Dev: So the once a week person needs about six sets.
+
+Maya: Yes. Six sets, two point zero, last until day ten. Next session is day eight, before zero. The lecture's example said about zero point four was still left, an illustrative figure from the board. That balance is carried into the new session. So the rule is, lower frequency, more sets. Higher frequency, fewer sets. And do not choose the high number of sets at high frequency either, the person would just get tired.
+
+Dev: Doesn't the full body person lose out with just two sets?
+
+Maya: Compare the same six sets a week. Full body, two sets three times. One point three nine, three times, is one point three nine plus one point three nine plus one point three nine equals four point one seven. Upper lower, three sets twice. One point six one plus one point six one equals three point two two. Once a week, six sets, two point zero zero.
+
+Dev: So three times a week wins, by a lot.
+
+Maya: Yes. Four point one seven, three point two two, two point zero zero. Full body is not underrated for no reason. But this does not make push pull legs or bro split bad. Professional bodybuilders must focus on every muscle. A full body session of ten to twelve exercises has no room for niche exercises like reverse shrugs for the lower trapezius. A dedicated day gives that room. The lecture ranks nothing, it only shows how to understand the three categories.
+
+
+--- Closing recap for part five ---
+
+Maya: Five things to remember. One, stimulus per set: totals one, one point three nine, one point six one, one point seven seven, one point nine, two. Each set adds less.
+
+Dev: Two, six sets double one set, and damage turns the curve into an inverted U, which is why there are upper limits.
+
+Maya: Three, a stimulus reaches zero on day sets plus four, counting the training day as day one.
+
+Dev: Four, lower frequency means more sets, higher frequency can use fewer.
+
+Maya: Five, net weekly stimulus for six sets: four point one seven for three times a week, three point two two for twice, two point zero zero for once. Next time, hypertrophy and atrophy, the ideal ranges, and sample programmes.
+
+============================================================
+Part 6 - Hypertrophy, Atrophy, Set Ranges, Samples and Quiz
+============================================================
+
+
+--- Where we are, and factor three ---
+
+Maya: Welcome to part six, the final part. We have two factors so far. Stimulus per set, and stimulus retention. Today, factor three, the determinants of frequency, then the ideal set ranges, the studies, the sample programmes, and a rapid fire quiz.
+
+Dev: Let's go.
+
+Maya: There are two determinants. Hypertrophy is growth in the cell size of the muscle. Atrophy is reduction in the cell size. Two abbreviations. G A S is general adaptation syndrome, how the body adapts in general. And MyoPS is myofibrillar protein synthesis. Myo means muscle, specifically the myofibril, an element inside the muscle. Inside it are sarcomeres with the proteins myosin and actin. Hypertrophy here is the building of these contractile proteins.
+
+Dev: So when does it build?
+
+Maya: After you train a muscle, whether with one set or six, hypertrophy, the MyoPS elevation, continues for the first forty eight hours. After forty eight hours, atrophy begins.
+
+Dev: Is there a picture for that?
+
+Maya: The ball analogy. Imagine a big rubber ball shot upward by a gun. It rises, curves and starts to fall. The goal is to never let the ball, the hypertrophy curve, touch the ground. Before it falls, shoot it up again. The ball rises for forty eight hours, then falls. For any programme, do you shoot again at the last minute, a little earlier, or at the exact moment the fall starts?
+
+
+--- Three scenarios over two weeks ---
+
+Maya: Compare three people, each doing six sets a week for the muscle. Six sets once a week, push pull legs type. Three plus three sets twice a week, upper lower type. And two sets three times a week, full body type. Day one is a Monday.
+
+Dev: Start with once a week.
+
+Maya: Six sets, two point zero zero. It is not in the pocket straight after the gym. It builds over forty eight hours, then the ball falls. With no more training it reaches zero on day ten, six plus four. He trains again on day eight, next Monday. So he avoided some atrophy but still faced a lot. The curve then goes higher than two, because he carries a bank balance from the previous week. That is how muscle is built.
+
+Dev: Twice a week?
+
+Maya: Three sets, one point six one each. Peak at forty eight hours, Wednesday. Zero would be on day seven, three plus four. But he trains again on Thursday, day four, so he faces less atrophy. The new session starts from the carried balance and rises again for forty eight hours, to Saturday, then drops over the weekend. Overall his curve stays higher than the once a week curve.
+
+Dev: And three times a week?
+
+Maya: Two sets, one point three nine each. Forty eight hours after Monday is Wednesday, the next training day. Atrophy was supposed to start, but he shoots the ball up again at that exact moment. After Wednesday the window ends Friday, a training day, and after Friday it ends Sunday. So the blessing in disguise of full body is that the day atrophy would begin is the day of the next session. Only the weekend rest day brings some drop.
+
+Dev: How would I compare them at a glance?
+
+Maya: Count atrophy days in the figure. Five days a week for once a week, three days for twice, and just one day, the weekend, for three times. Each panel has its own scale, so compare the shapes. That is why the full body lifter, even with two sets, always stays near the top.
+
+Maya: Pause and think. On which day does the once a week lifter with six sets hit zero, and what day does he train again?
+
+Dev: Day ten, sets plus four. And day eight, so before zero.
+
+Maya: Correct. Recap. Hypertrophy lasts forty eight hours, then atrophy starts. Full body retrains exactly when atrophy would begin.
+
+Dev: Now the final column?
+
+Maya: Yes. The ideal main sets per muscle per session, with an upper limit to avoid damage and fatigue. Three times a week, full body, one to two sets, maximum three. Twice a week, upper lower, two to three sets, maximum five. Once a week, push pull legs or bro, six to eight sets, do not cross ten.
+
+Dev: Hook?
+
+Maya: One, two, three. Frequency three, sets one to two. Frequency two, sets two to three. Frequency one, sets six to eight. And if frequency is high, stay at the low end.
+
+
+--- The studies behind the factors ---
+
+Maya: A quick tour of the published studies, redrawn in your notes from the charts, so treat values as approximate. First, recovery against number of sets. For several studies, the day strength returned to baseline after a workout of six to fifteen R M, taken to failure at least once. The relationship is roughly linear, more sets, more time. The chart's conclusions are the three rows of the master table. Probably recover from three sets within forty eight hours, four to five sets within seventy two hours, and ten to twelve sets within a week.
+
+Dev: Where does the stimulus table come from?
+
+Maya: A meta-analysis of resistance training volume and muscle growth. It found that to double the hypertrophy of one set per workout you need about six sets. The inverted U shapes may be caused by muscle damage, which is deducted differently for easily and less easily damaged muscles.
+
+Dev: Which muscles are easily damaged?
+
+Maya: A study with young untrained males did nine eccentric exercises. Strength dropped most for the pectoralis major, biceps and triceps, and those recovered slowest. The drop was smallest for the quadriceps and calves. So the best frequency may differ between muscle groups.
+
+Dev: And retention?
+
+Maya: Maintenance research shows three sets once a week gives no gains and no losses. The stimulus of one point six one disappears over the five days after the forty eight hour period, so about zero point three two is lost per day, one point six one divided by five. One set once a week is expected to be insufficient. The conclusion, frequency matters.
+
+
+--- The sample programmes ---
+
+Maya: The samples are only samples. Do not copy them. Real programmes come from knowing the client, their goals, strengths, weaknesses, likes, time, preferred frequency and medical concerns. No programme is best unless built for that client. The samples show main sets only, with one or two warm-up sets before.
+
+Dev: Sample one?
+
+Maya: Full body, Monday, Wednesday, Friday, with Monday and Wednesday exercises alternating. Monday has squats two, leg curl two, calf one, supported row three, flat chest press three, lateral raise two, biceps curl two. Wednesday has leg extension two, stiff leg deadlift two, calf one, lat pulldown three, incline press three, shoulder press two, triceps extension two. Friday repeats Monday, and the next Monday repeats Wednesday. That is an assumption, since the notes show only two columns.
+
+Dev: What do I learn from it?
+
+Maya: Count synergists. Triceps have no direct exercise on Monday, but work in the presses. The biceps work as synergists in the pulldown. Frequency counts every exercise where the muscle works.
+
+Dev: Sample two?
+
+Maya: Upper lower. Monday upper, Tuesday lower, Wednesday off or cardio, Thursday upper, Friday lower, Saturday off or cardio, Sunday off. Upper has eleven exercises. Flat press one, incline press one, pec deck one, shoulder press one, supported row two, wide grip pulldown two, high row one, shrugs one, lateral raise two, preacher curl two, triceps extension two. Lower has eight. Squats one, deadlifts one, lunges one, leg extension two, hip thrusts two, calf raises three, leg curl three, toe raises two.
+
+Dev: What does a dedicated upper day give?
+
+Maya: Room. You can train all heads of the pectoralis major on one day, flat for the sternocostal and abdominal heads, incline for the clavicular, and add isolation. The deltoid gets shoulder press, high row and lateral raise, one plus one plus two, so four sets. Biceps and triceps also work in rows, presses and pulldowns. The lower day has room for the tibialis anterior with toe raises.
+
+
+--- Closing recap and rapid fire quiz ---
+
+Maya: Five things to remember. One, hypertrophy lasts forty eight hours after training, then atrophy starts, so retrain before the ball hits the ground.
+
+Dev: Two, full body retrains exactly when atrophy would begin, so even two sets keep you near the top.
+
+Maya: Three, ideal sets: one to two at three times a week, two to three at twice, six to eight at once a week.
+
+Dev: Four, upper limits come from muscle damage, and muscles differ.
+
+Maya: Five, frequency is per muscle, and real programmes depend on the client. Time for a rapid fire quiz of twelve.
+
+Dev: Ready. Question one, what does number of sets mean?
+
+Maya: Main sets per muscle per session, not warm-up sets.
+
+Dev: Two, what do three, two and once a week match?
+
+Maya: Thrice a week, twice a week and once a week. With forty eight hours, seventy two hours and one week of recovery, for one to three, four to five and more than five sets.
+
+Maya: Question three. Which four are the objectives of scheduling?
+
+Dev: Linear progression, comprehensive, minimum overlap, avoid overtraining.
+
+Maya: Question four. What do the three rest day recoveries cover?
+
+Dev: Musculoskeletal, nervous system, immune system.
+
+Maya: Question five. Name the weight training day steps.
+
+Dev: General warm-up, mobility drill, specific warm-up set, prep sets, main sets, static passive stretching.
+
+Maya: Question six. On a combined day, which goes first?
+
+Dev: Weights, then cardio, with one static stretch at the very end.
+
+Maya: Question seven. What is the relationship between frequency and intensity?
+
+Dev: Frequency is proportional to one over intensity. High intensity, low frequency.
+
+Maya: Question eight. The net stimulus after two sets, and the set three addition?
+
+Dev: One point three nine, and zero point two two.
+
+Maya: Question nine. How many sets double the stimulus of one?
+
+Dev: Six sets, giving two point zero zero.
+
+Maya: Question ten. When does stimulus reach zero?
+
+Dev: Day equals sets plus four, with the training day as day one.
+
+Maya: Question eleven. Net weekly stimulus for the three splits?
+
+Dev: Four point one seven, three point two two, and two point zero zero.
+
+Maya: Question twelve. How long does MyoPS stay raised, and what follows?
+
+Dev: About forty eight hours, then atrophy begins.
+
+Maya: That is a wrap. Well done for listening all the way through. Review your notes, check the differences with your course material, and good luck.
+

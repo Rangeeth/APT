@@ -1,0 +1,1132 @@
+FITNESS TESTING - PODCAST TRANSCRIPT
+Hosts: Maya and Dev
+
+============================================================
+Part 1 - Why We Test and Health Screening
+============================================================
+
+
+--- Welcome and the roadmap ---
+
+Maya: Hi everyone, and welcome to the Fitness Testing series. I'm Maya.
+
+Dev: And I'm Dev. This series is for anyone doing a personal training course who wants to really understand fitness testing, just by listening.
+
+Maya: That's the idea. Put the notes away, and by the end you should be able to explain every test, every number and every reason behind the order. Not just memorise it.
+
+Dev: Good, because tables of norms are exactly what I forget the next morning.
+
+Maya: We'll avoid that. We explain, Dev asks the questions a student would ask, and we stop for recaps. There are eight parts. Four cover the first lecture, Fitness Testing One, and four cover the second lecture, Fitness Testing Two.
+
+Dev: So what's in the first four?
+
+Maya: Part one, today: why we test at all, the objectives of testing, and health screening with the P A R Q and the informed consent form. Part two: the correct order of the tests, and the first test, blood pressure. Part three: body composition, starting with the body measurements, waist circumference, waist to hip ratio and B M I. Part four: skinfold calipers, the B I A machine and the Bod Pod, and a comparison of everything so far.
+
+Dev: And lecture two?
+
+Maya: Part five: underwater weighing, the D E X A scan, and how we choose the best of the eight body composition tests. Part six: the heart and lung tests, the Rockport walk and the Y M C A step test. Part seven: the strength tests and the muscular endurance tests. Part eight: the flexibility tests, a full summary, and a twelve question quiz on the whole topic.
+
+Dev: That's the whole journey. Okay, let's start.
+
+
+--- Why we test and the objectives of testing ---
+
+Maya: Let's start with a simple question, Dev. Fitness testing is taught in two parts. What do you think these tests have in common?
+
+Dev: They all measure how fit someone is?
+
+Maya: Yes, and one more thing. They are standardised. That means they are conducted the same way all over the world, with the same guidelines, procedures, methods and test norms.
+
+Dev: Test norms. What are those?
+
+Maya: A test norm is a reference sheet. After a test you get a number or a score, and you check it against the norm sheet. The sheet shows where that person stands for the fitness component you tested.
+
+Dev: So the number alone means nothing. The sheet tells you if it's good or bad.
+
+Maya: Exactly. And fitness has five components. Cardiorespiratory endurance, muscular strength, muscular endurance, flexibility and body composition. So you cannot call someone fit from one or two tests. You must test all the components.
+
+Dev: And who made up these tests? The course?
+
+Maya: No. They were developed through research by international bodies in fitness science, and they are accepted and used worldwide.
+
+Dev: Why do we test at all, though? Can't a trainer just look at a client?
+
+Maya: Testing just means evaluating something to check its performance, quality or efficacy. Doctors test to diagnose disease. Companies test a product before launch. Software gets tested heavily. Exams test knowledge. Fitness testing is the same idea, evaluating a person's fitness with defined objectives.
+
+Maya: The objectives come from two perspectives. The global perspective and the client perspective. Global first. There are two objectives, standardisation and performance benchmarking.
+
+Dev: Standardisation I get. Same test everywhere.
+
+Maya: Right. Muscular strength is not tested with a lat pull down in one country, a shoulder press in another and a bench press in a third. One of the worldwide strength tests is the bench press, and nobody may invent a different method. That is what allows comparison. Athletes or bodybuilders of one country can be compared with those of another on the same measure.
+
+Dev: And benchmarking?
+
+Maya: Imagine a country's athletes are going to a global tournament. If they don't know where the competition stands, they have no milestone to aim for. Benchmarking shows how far a team lags, or how far ahead it is.
+
+Dev: Why would being ahead matter?
+
+Maya: Because then you know the standard must be maintained. So globally, fitness testing is about performance benchmarking, made possible by standardised methods.
+
+Dev: Okay, now the client side.
+
+Maya: Four objectives. The lecture links them to a simple business truth. If testing helps the client, it helps the trainer. A happy client stays, renews, and tells others. That is a brand advocate.
+
+Dev: So, four objectives. Go.
+
+Maya: One, baseline results. The first test. The trainer knows nothing about a new client, so testing all five components shows where the client stands today. Two, progress tracking. After, say, three months, a re-test shows how far the client has come. You can say, this is where you started and this is where we have brought you. Numbers speak louder than words.
+
+Dev: And it shows the trainer isn't just promising magic.
+
+Maya: Yes. The notes say a trainer who is number driven and goal oriented, not someone saying, give me one year, I will do magic. Three, goal setting. Baseline and re-test results together let you set short term, mid term and long term goals, with real milestones, for example at three months and six months. After a re-test you can tweak the goals if the plan is or isn't working.
+
+Dev: And four?
+
+Maya: Strengths and areas to work on. The baseline shows what the client is good at and what needs work, so you can design a customised workout plan.
+
+Dev: Why not just say weaknesses?
+
+Maya: Fitness is a service industry. A client meeting you for the first time may react badly to a list of weaknesses. So we say strengths and areas to work on. Also, strength here is the ordinary English word. It can come from any of the five components, not only muscular strength.
+
+Dev: Is there a way to picture that?
+
+Maya: The lecture uses a school debate. A girl takes part, and her teacher gives feedback. The weaknesses are pronunciation and grammar. The strength is excellent voice modulation. Strengths can lie in any field.
+
+Maya: So how do you use them? A client with very good cardiorespiratory endurance can be helped to maximise that, even build a career from it. A client with very good upper body strength gets more advanced upper body exercises.
+
+Dev: And the areas to work on?
+
+Maya: Two examples. A client with poor flexibility gets a plan where not a single day passes without stretching. Mobility drills as well as static stretching. And a client with a contraindication.
+
+Dev: Contra what?
+
+Maya: A contraindication is any movement that causes discomfort or pain. Physiotherapists use the word a lot. It might be in the upper limb, lower limb or back. For example, raising the hand with the elbow bent. If a machine or exercise bothers the client, you choose an alternative, and you avoid injury risk.
+
+Dev: Let me recap. Globally, standardisation and benchmarking. For the client, baseline, progress tracking, goal setting, and strengths and areas to work on.
+
+Maya: Perfect. That's the whole objectives tree. Pause and think. Why does a trainer need baseline results before setting goals?
+
+Dev: Because without a starting point the goals would be random, and you could never show progress.
+
+Maya: Exactly right.
+
+
+--- Health screening, the P A R Q and informed consent ---
+
+Maya: Now, before any test, there is a pre-step. Health screening. Dev, if I say screening, what comes to mind?
+
+Dev: Airport baggage scanners.
+
+Maya: That is the best way to think of it. At airports, metro stations and hotels, security scans luggage so people in a public place are safe. Health screening makes sure the person you are about to test is safe and sound, and nothing goes wrong during the test.
+
+Dev: Is there a formal definition?
+
+Maya: The course slides say, a procedure performed on asymptomatic populations to assess the likelihood of a particular disease. Asymptomatic means without symptoms.
+
+Dev: Do I need a doctor at the gym for this?
+
+Maya: No. Health screening uses two simple forms. The trainer reads the form to the client, or the client reads it, fills it in and signs it. The two forms are the P A R Q and the informed consent form. They are also a requirement of the international registration body, so you must know them.
+
+Maya: P A R Q stands for Physical Activity Readiness Questionnaire. About ten questions on the client's medical background. Heart conditions, joint problems, neurological conditions like epilepsy. The sample in the slides has ten questions.
+
+Dev: What kind of questions?
+
+Maya: Close ended. Only yes or no. No essays. For example, has your doctor ever said you have a heart condition? Is there heart disease in your family? Do you feel chest pain during activity, or in the past month when not active? Do you lose balance because of dizziness or lose consciousness? Do you have a bone or joint problem that could get worse? Do you have asthma, diabetes, epilepsy or high blood pressure? Any other medical condition, any current injury, or any other reason you should not exercise?
+
+Dev: And what counts as passing?
+
+Maya: The P A R Q is cleared only when all answers are no. A single yes is a signal to stop and ask. To be sure the client is eligible, they must bring a N O C from their doctor. That is a no objection certificate, the doctor's written clearance.
+
+Dev: Why so strict about forms?
+
+Maya: Documentation. Today a client can blame a trainer and threaten legal action very quickly. If everything is documented and signed before the journey starts, nobody can hold you responsible later.
+
+Dev: And the informed consent?
+
+Maya: Informed means there is a script that tells the client about the machines that will be used, the exercises, such as strength training, cardio and stretching, and the possible risks. It covers the whole fitness journey, not only the test. Then the consent part is the closing statement, where the client says they are fully aware and willingly agree, followed by a signature.
+
+Dev: So a win-win. The client is aware, the trainer is protected.
+
+Maya: Yes. The sample also says it is the client's responsibility to tell the trainer about health problems, injuries or pregnancy, to get medical clearance if needed, and to stop and inform the trainer if unusual symptoms occur.
+
+Dev: What if my gym already has its own forms?
+
+Maya: Follow them. Don't go against the system. If the gym has none, introduce one, and it will be seen as a positive step.
+
+Maya: Pause and think. A client answers yes to the question about chest pain during activity. What do you do?
+
+Dev: Stop, ask about it, and don't test until they bring a no objection certificate from their doctor.
+
+Maya: Spot on.
+
+
+--- Recap and five things to remember ---
+
+Maya: Let's close part one. We covered what testing is, the objectives, and the pre-step of screening.
+
+Dev: Here's my version. Fitness testing is standardised and compared against test norms. Globally it gives standardisation and benchmarking. For the client it gives baseline, progress tracking, goals, and strengths and areas to work on. Before testing, screen with the P A R Q and informed consent.
+
+Maya: Now the five things to remember. One, tests are standardised, and a test norm is a reference sheet. Two, there are six objectives, two global and four client. Three, say areas to work on, not weaknesses. Four, the P A R Q is cleared only by all no answers, otherwise you need a doctor's N O C. Five, the informed consent script covers machines, exercises and risks, and ends with a signature.
+
+Dev: Next time, the order of testing, and blood pressure.
+
+Maya: See you then.
+
+============================================================
+Part 2 - The Order of Tests and Blood Pressure
+============================================================
+
+
+--- Where we are ---
+
+Maya: Welcome back to part two of the Fitness Testing series. Last time we covered why we test, the objectives, and health screening with the P A R Q and informed consent.
+
+Dev: So the client is screened and signed. Now we can finally test.
+
+Maya: Almost. Today we answer two questions. In what order do we run the tests, and why? And then we do the very first test, blood pressure.
+
+
+--- The correct order of fitness testing ---
+
+Maya: There are five components of fitness, and several tests for each. Which should come first and which last? The order matters because it decides whether your results are valid and reliable.
+
+Dev: Give me the list.
+
+Maya: After the screening pre-step, it goes like this. Step one, blood pressure. Step two, body composition. Step three, cardiorespiratory endurance. Step four, muscular strength. Step five, muscular endurance. Step six, flexibility.
+
+Dev: Is that a ranking? Is blood pressure most important?
+
+Maya: No. Steps two to six are the five components, and step one is an extra health marker. The numbers are an order, not a rank. All components are equally important. The order just gives the most accurate result for every test.
+
+Dev: Fine. Why is blood pressure first?
+
+Maya: The P A R Q and consent describe the client's history over the last three or six months. But you also need the client's condition on the day of testing, especially at the first test, when you know nothing about them. If blood pressure is already high and the client never mentioned it, physical activity could push it higher and things could go out of control. So it must be normal at the start.
+
+Dev: And if it's high?
+
+Maya: Four steps. One, sit the client down in a calm, relaxed place and offer water. Two, check again after some time. If it is back to normal, begin. Three, if it stays high, skip the test that day and try again on the second and third day. Four, if it is high on all three days, it can indicate a high blood pressure condition, and the client should see a doctor if they haven't already.
+
+Dev: Why three days?
+
+Maya: One high reading may be due to a stressful day or activity before coming to the gym. You want to be sure the testing day is a normal day.
+
+Dev: Next one, body composition. Why second?
+
+Maya: Body composition is the ratio of body fat and lean body mass. Body weight splits into lean body mass, which is muscles, organs, bones, fluids and essential fat, and body fat, which is visceral fat and subcutaneous fat. A memory aid for lean mass is M, O, B, F and E F.
+
+Dev: And why test it early?
+
+Maya: Body weight changes before and after a workout. Sweating causes fluid loss and salt depletion. To get an accurate reading, the body must be neutral, nothing changed. That is why the popular B I A machine is done first thing in the morning before eating or drinking.
+
+Dev: Third, cardio. Why before strength?
+
+Maya: In cardio, the key measure is heart rate. Imagine a client does ten squats, ten push-ups and ten minutes of jogging, and then you find the heart rate is, hypothetically, 132. How much came from the jogging? You can't say. The rise should be solely the contribution of the cardio task. Strength tests, endurance tests and even stretching raise heart rate. So cardio goes before all of them.
+
+
+--- Strength before endurance, and flexibility last ---
+
+Maya: Here's the one most people get wrong. Strength or endurance first, Dev?
+
+Dev: Endurance. Warm up the muscles first?
+
+Maya: Many people say that. The correct answer is strength first. Let me define them. Muscular strength is the ability of the working skeletal muscles to generate maximum force in one single effort. Muscular endurance is the ability to contract submaximally for a long time without getting fatigued.
+
+Dev: So why strength first?
+
+Maya: Two reasons. Reason one, fatigue. A bench press tests strength and push-ups test endurance, both using the pectoralis major. If you do push-ups first, the muscle is fatigued, and then you expect maximum force. That is unfair. The muscle must be fresh.
+
+Dev: And reason two?
+
+Maya: The priming or relativity effect. Think about a car going at 100 kilometres per hour. Feels fast. Now sit in a very fast car at 200, then come back to 100. It no longer feels that fast. A muscle that has done a one repetition maximum test, the 200, finds the push-up test, the 100, less challenging. So the client may do more push-ups than they would have done first.
+
+Dev: So strength first helps both tests.
+
+Maya: Yes. Last is flexibility. Flexibility is the ability of soft tissues to lengthen passively. And tissue temperature matters, warmer tissues extend better. If you test flexibility early, the tissues are cold. After steps three, four and five, they are warm, so you get the best result.
+
+Dev: Is there an analogy for the importance of order?
+
+Maya: Making tea. If you put ginger and cardamom in first, then tea, and add water and milk only at the end, the tea won't turn out right. Even a routine activity needs the correct order.
+
+Dev: A student asked, do we test mobility too?
+
+Maya: Mobility is the ability of joints to move freely and actively through a full range of motion without discomfort. It goes hand in hand with flexibility, and some flexibility tests check range of motion at a joint, so mobility is tested side by side. It is not listed separately because there is no component named mobility.
+
+Maya: Quick recap. Order is blood pressure, body composition, cardio, strength, endurance, flexibility. Reasons: health marker, neutral body, heart rate purity, fresh muscles, priming effect, warm tissues.
+
+Dev: Pause and think, then. Why is it wrong to put the push-up test before the bench press test?
+
+Maya: Go on, Dev.
+
+Dev: Fatigue. The chest would be tired, so the maximum force would be underestimated.
+
+Maya: Correct.
+
+
+--- Test one: blood pressure ---
+
+Maya: Now blood pressure itself. A reading looks like one hundred and fifteen over seventy five millimetres of mercury. People call them the upper one and the lower one. The professional terms are systolic and diastolic.
+
+Dev: Which is which?
+
+Maya: Systolic is the upper, larger number. When the heart beats and the left ventricle pumps blood into the vessels, pressure is highest. Diastolic is the lower number. In the gap between two heartbeats, pressure falls to its lowest.
+
+Dev: What's normal?
+
+Maya: Systolic ninety to one hundred and twenty, diastolic sixty to eighty. The unit, m m H g, is millimetres of mercury, and Hg is the chemical symbol for mercury. A reading of one fifteen over seventy five is inside both ranges, so it's normal.
+
+Dev: What's the equipment?
+
+Maya: Older manual equipment has a balloon, a cuff, a column of mercury called a sphygmomanometer, and a stethoscope. You don't need that. You use a simple automatic digital monitor. The tube from the cuff is plugged in, the cuff goes on the upper arm, you press start and the machine does everything. The display shows S Y S for systolic, D I A for diastolic and the pulse rate.
+
+Dev: The cuff procedure sounds fiddly.
+
+Maya: Seven steps. One, plug the tube into the device. Two, tie the cuff on the upper arm with both the tube and the palm facing up. Three, put the cuff edge two to three centimetres above the elbow, so it doesn't cover the joint. Four, snug but not too tight, two fingers should fit under it. Five, the tube passes along the medial side of the arm. Six, the cuff is at the same height as the heart, so use a table or armrest. Seven, posture: legs not crossed, feet flat, back supported, and no talking or stress, from client or tester.
+
+Dev: Medial means the inner side, towards the body.
+
+Maya: Yes. Now classification. Low blood pressure, called hypotension, is systolic below ninety or diastolic below sixty. Either one is enough. Normal is ninety to one twenty and sixty to eighty. Elevated is one twenty to one twenty nine, and diastolic below eighty. Hypertension stage one is one thirty to one thirty nine, or eighty to eighty nine. Stage two is one forty or higher, or ninety or higher. A hypertensive crisis is systolic one eighty or higher, or diastolic higher than one twenty, or both, and needs a doctor immediately.
+
+Dev: Hypo and hyper?
+
+Maya: Hypo means less, hyper means excessive. And the safety link: if a client already had stage one and activity pushed them to stage two or a crisis, it would be very risky. That's why blood pressure is checked first.
+
+Dev: So I don't need every cell, just the pattern. Low is under ninety or sixty, normal ninety to twenty, sixty to eighty, then it climbs.
+
+Maya: One note for your course: the slide boundaries overlap slightly, for example one twenty appears in normal and elevated, so follow your slide chart.
+
+
+--- Recap and five things to remember ---
+
+Maya: Let's close. We learned the order and the reasons, and the blood pressure test.
+
+Dev: The order is blood pressure, body composition, cardio, strength, endurance, flexibility. And blood pressure is systolic upper, diastolic lower, with a seven step cuff routine.
+
+Maya: Five things to remember. One, the order is not a rank, it protects accuracy. Two, if blood pressure is high, rest, re-check, and try for up to three days, then refer to a doctor. Three, strength before endurance because of fatigue and the priming effect. Four, normal blood pressure is systolic ninety to one twenty and diastolic sixty to eighty. Five, the cuff goes two to three centimetres above the elbow, snug with two fingers, at heart height.
+
+Dev: Next, body composition.
+
+Maya: See you in part three.
+
+============================================================
+Part 3 - Body Composition and Body Measurements
+============================================================
+
+
+--- Where we are ---
+
+Maya: Welcome to part three. So far we covered the objectives, screening, the order of tests and blood pressure. Today we start the longest component, body composition.
+
+Dev: Longest, why?
+
+Maya: Because body composition has eight tests, grouped into three categories. Today we do the first category, anthropometric data, which has three tests, waist circumference, waist to hip ratio and B M I.
+
+
+--- Body composition: the eight tests ---
+
+Maya: Here are the three categories. Category two point one is anthropometric data, with waist circumference, waist to hip ratio and B M I. No machine needed. Category two point two is skinfold measurement, with the skinfold caliper. Category two point three is the use of machines, with B I A, hydrostatic or underwater weighing, the Bod Pod, and D E X A.
+
+Dev: That's three plus one plus four, eight tests.
+
+Maya: Yes. The number two stands for the second type of fitness test, body composition. Then two point one is the first category, two point one point one to two point one point three are its tests, and so on. It helps you remember which test belongs where. And the goal for now is to be aware of all eight, not to conduct all eight.
+
+Dev: And for each test we follow a pattern?
+
+Maya: Objective, procedure, norms or results, then advantages and disadvantages.
+
+
+--- Anthropometric data: waist circumference and waist to hip ratio ---
+
+Maya: Anthropo means the human body, metric means measurement. Anthropometry is the scientific study of the measurements and proportions of the human body. Three key measurements. Height, with a stadiometer. Weight, with a weighing scale. And circumference, the length of the boundary of something, with a tape, like a tailor's tape.
+
+Dev: How do I measure height properly?
+
+Maya: Bare feet, standing tall and straight, shoulders relaxed, hands at the sides. Heels, buttocks and shoulder blades touch the board. Lower the headboard until it touches the crown of the head. Record to the nearest quarter inch or centimetre. For weight, shoes off, stand in the centre of the scale, still, weight even on both feet.
+
+Dev: What does each test tell you?
+
+Maya: Waist circumference tells you whether there's a health risk because of visceral fat, also called central obesity. Waist to hip ratio tells you the overall health risk. B M I places you in a category, underweight, normal, overweight or obese.
+
+Dev: Visceral fat is the deep fat?
+
+Maya: Yes, the deep fat towards the centre, which is why it's called central obesity. Subcutaneous fat lies towards the skin. Important point: waist circumference only says whether risk is high or low. It does not give a visceral fat percentage.
+
+Dev: Where does the tape go for waist circumference?
+
+Maya: Across the iliac crest, which is the highest point of the hip bone, which you can feel if you stand and touch it. The tape also passes through the belly button. That is the widest part of the waist.
+
+Dev: And with a client, do I say iliac crest?
+
+Maya: No. They will say, where? Say the widest part of your waist, which automatically falls across the iliac crest. Also, because it involves touch, ask permission, whatever the gender. If the client isn't comfortable, show the position on your own body and let them place the tape, and you note the reading.
+
+Dev: And the norms?
+
+Maya: For Indians, applicable to Asians overall, low health risk is below thirty five and a half inches, which is ninety centimetres, for males, and below thirty one and a half inches, which is eighty centimetres, for females. The tape has inches on one side and centimetres on the other.
+
+Dev: Those aren't invented by the course?
+
+Maya: No, they were suggested by research and international bodies. A note for your course: the E-book uses higher cut offs, above one hundred and two centimetres for men and eighty eight for women. Use ninety and eighty for Asians as the course teaches.
+
+Maya: Now waist to hip ratio. The formula is waist circumference divided by hip circumference. Both must be in the same unit, inches with inches or centimetres with centimetres.
+
+Dev: Same waist as before?
+
+Maya: Careful. The waist site here is different. For this test, use the narrowest part of the waist, the midpoint between the last rib and the iliac crest. The hip is the widest part of the hips. Plain wording for clients: narrow part of the waist, widest part of the hips.
+
+Dev: Norms?
+
+Maya: Low risk is below zero point nine five for males and below zero point eight six for females. Worked case. A male client has a waist of thirty six inches and hips of forty inches. Thirty six divided by forty equals zero point nine zero. The male limit is zero point nine five, so zero point nine zero is below it, low overall health risk.
+
+Dev: What if it's a woman with the same numbers?
+
+Maya: The female limit is zero point eight six, and zero point nine zero is bigger than that, so high overall risk. Same number, different result by sex. That is why the limits differ.
+
+Maya: Quick recap. Waist circumference is visceral fat risk, tape at the widest part of the waist, below ninety centimetres for men and eighty for women. Waist to hip ratio is overall risk, waist divided by hip, narrowest waist, widest hips, below zero point nine five for men, zero point eight six for women.
+
+Dev: Pause and think. A woman has a waist of thirty inches and hips of thirty six inches. Her ratio?
+
+Maya: You tell me.
+
+Dev: Thirty divided by thirty six is zero point eight three. The limit is zero point eight six, so low risk.
+
+Maya: Exactly.
+
+
+--- B M I and its shortcomings ---
+
+Maya: B M I uses weight and height. Body mass index equals body weight in kilograms divided by height in metres, squared. The unit is kilograms per square metre. Squaring means multiplying the number by itself once.
+
+Dev: Height usually comes in feet and inches though.
+
+Maya: So convert. Say five feet eight inches. One foot is twelve inches, so five feet is sixty inches, plus eight is sixty eight inches. Then multiply by zero point zero two five four to get metres. Sixty eight times zero point zero two five four is one point seven two seven two metres.
+
+Dev: And the lecture example?
+
+Maya: The lecture has a client of ninety kilograms and five feet eight. The board rounded the height to one point seven metres. One point seven times one point seven is two point eight nine, written as two point nine. Ninety divided by two point nine is thirty one point zero three. With the exact height, one point seven two seven two, the answer is about thirty point one seven. The slides use one point seven two metres and get thirty point five. All obese, so the method matters, not the rounding. Check your course material for which version your exam uses.
+
+Dev: What are the categories?
+
+Maya: The course uses the proposed Asian criteria. Underweight is below eighteen point five. Normal is eighteen point five to twenty two point nine. Overweight is twenty three to twenty four point nine. Obese is twenty five and above. The E-book uses overweight twenty five to twenty nine point nine and obese thirty and above, so remember which one the course teaches.
+
+Dev: Another quick one. Sixty three kilograms, one point seven five metres.
+
+Maya: One point seven five times one point seven five is three point zero six two five. Sixty three divided by that is twenty point six, which is normal.
+
+Dev: Now the shortcomings.
+
+Maya: Two big ones. One, B M I does not differentiate body fat from lean body mass. Picture a client's details of ninety kilograms and five feet eight arriving before the first meeting. You calculate, conclude obese, then he walks in and he's very muscular. Awkward. A bodybuilder and an obese person of the same height and weight get the same B M I, because weight is lean mass plus fat.
+
+Dev: And two?
+
+Maya: Skinny fat. A B M I of twenty one is normal, but the arms and legs are lean while there's fat in the belly. B M I only looks at weight and height, so it calls that person normal.
+
+Dev: So none of these three give a body fat percentage.
+
+Maya: Right. Ideal body fat is below fifteen percent for males and below twenty percent for females, so you need a percentage to judge composition. These tests are not thrown away. Use them as short term or mid term goals, for example, you are two inches above the normal waist value, so your short term goal is to get below it.
+
+Dev: Let me check I understand the trap. If a client says they are normal on B M I, that doesn't prove they are healthy.
+
+Maya: Exactly. And if they are obese on B M I, it doesn't prove they carry too much fat. B M I is a quick screening number, not a body composition test.
+
+Dev: So where do these three fit in a real plan?
+
+Maya: As simple, no machine, no cost starting points. Waist circumference gives a visceral fat risk, waist to hip ratio gives the overall risk, B M I gives a category. Then the next tests go looking for the actual percentage.
+
+
+--- Recap and five things to remember ---
+
+Maya: Let's wrap up. Body composition has eight tests in three categories. Today, anthropometry.
+
+Dev: Waist circumference, waist to hip ratio, and B M I. None gives a percentage.
+
+Maya: Five things to remember. One, eight tests, three categories: anthropometry, skinfold, machines. Two, waist circumference at the widest part, below ninety centimetres men and eighty centimetres women. Three, waist to hip ratio is waist divided by hip, narrowest waist, below zero point nine five men, zero point eight six women. Four, B M I is kilograms divided by metres squared, Asian obese at twenty five and above. Five, B M I cannot separate fat from muscle and misses skinny fat.
+
+Dev: Next, calipers, B I A and Bod Pod.
+
+Maya: See you in part four.
+
+============================================================
+Part 4 - Skinfold, B I A and the Bod Pod
+============================================================
+
+
+--- Where we are ---
+
+Maya: Welcome to part four, the last part on the first lecture. We have done the order of testing, blood pressure and the three body measurement tests, which gave us no body fat percentage. Today we go hunting for the percentage, with the skinfold caliper, the B I A machine and the Bod Pod.
+
+Dev: And at the end, a comparison of everything so far.
+
+Maya: Yes. And a reminder of the pattern for every test: objective, procedure, then advantages and disadvantages.
+
+
+--- The skinfold caliper test ---
+
+Maya: There is only one test in this category. The skinfold test, using a skinfold caliper. Dev, have you seen the compass used to draw circles in school?
+
+Dev: Yes, two arms, a pointed end on each.
+
+Maya: The caliper looks like that. You pinch and hold the skin to make a skin fold, and the caliper measures the thickness of that fold. A pinch of skin and fat measures subcutaneous fat, not the deep internal fat. The principle is simple. The higher the subcutaneous fat, the higher the body fat percentage.
+
+Dev: Where do you pinch?
+
+Maya: Three sites for each sex. Women: the triceps fold, the suprailiac fold, and the mid thigh. Supra means above and iliac refers to the iliac crest, so the suprailiac is the fold just above the iliac crest on the waistline. Men: the chest, midway between the top of the armpit and the nipple, the abdomen, one inch from the belly button, and the mid thigh. Mid thigh is the one site common to both.
+
+Dev: Why is it useful?
+
+Maya: Portable, it fits in a bag or jacket pocket. Easy to use once you know the three sites. Time saving, only a few seconds. Disadvantages: it measures only subcutaneous fat, so it can't be relied on alone. It has a high standard error of plus or minus three percent. It is not suitable for the very obese or the very lean. And some people dislike being pinched.
+
+Dev: Explain standard error.
+
+Maya: Accuracy is compared with the gold standard. If the gold standard says twenty percent body fat, a caliper result could be anywhere from seventeen to twenty three percent. Calipers cost from about three hundred to five thousand rupees. Spending more doesn't remove the error, because accuracy comes from the type of test, not the price.
+
+Dev: And why not the very lean or very obese?
+
+Maya: A very lean person may have so little fat that you can't pinch a fold. A very obese person may have more fat than the caliper arms can open to.
+
+Maya: One note for your course: the lecture doesn't name the reference, the slide says compared with underwater weighing. And the E-book has slightly different abdomen and chest sites. Follow the lecture and slides.
+
+Maya: So, recap: skinfold gives a percentage, only subcutaneous fat, plus or minus three percent.
+
+
+--- The B I A test ---
+
+Maya: Next, the machine in most gyms that looks like a weighing scale with handles. People call it the B M I machine. That's wrong. The correct name is B I A, Bioelectrical Impedance Analysis. Bio is life, electric is electric current, impedance is resistance, analysis is study.
+
+Dev: So it measures how much a current is resisted.
+
+Maya: Yes. You stand barefoot on metal plates, which are electrodes, and a very mild current enters your body, felt as at most a mild vibration. The machine measures how much difficulty the current faces. The scientific principle is that water is a good conductor of electricity.
+
+Dev: And what does that have to do with fat?
+
+Maya: A muscle cell is seventy five percent water, plus twenty percent protein, four percent intramuscular triglyceride and one percent glycogen. A fat cell is only ten percent water and ninety percent triglyceride. So a muscular person has more water, and the current passes smoothly. A person with more fat has less water per cell, so the current is restricted. From the resistance, the machine reports fat and muscle.
+
+Dev: So it sees visceral fat too?
+
+Maya: Yes, it considers both visceral and subcutaneous fat, and gives a percentage. That's better than the earlier tests.
+
+Dev: Types of machine?
+
+Maya: Foot to foot looks like a weighing scale, analyses the lower body, and estimates the whole body. Hand to hand looks like a game controller, analyses the upper body, and estimates. Hand to foot, the latest, has electrodes in hands and feet, so there's no estimation. Prices run from about ten thousand rupees to forty five lakh. High end ones give segmental analysis for arms, chest, abdomen, thighs and pelvis, and also intracellular and extracellular water.
+
+Dev: What happens in the test?
+
+Maya: Step on barefoot, the machine weighs you, the height is entered manually after you've measured it with the stadiometer, you hold the hand electrodes with thumbs on the metal at chest level, arms still. It gives body fat percentage, muscle mass and B M I.
+
+Dev: What are the prerequisites?
+
+Maya: The goal is neutral hydration. Well rested. Empty stomach, no food, no water, and no coffee, even black, because coffee comes with water. No alcohol, with a gap of forty eight hours. No exercise, with a gap of twelve hours, because sweating dehydrates you. No metal objects, like jewellery, watches, phones and belts, because metal conducts. And women should not test during periods, because of fluid loss.
+
+Dev: How long since food?
+
+Maya: Do it first thing in the morning, so there's automatically at least about six hours since dinner. The E-book says no eating or drinking for four hours, also emptying the bladder and avoiding diuretics. If in doubt, follow the stricter rule.
+
+Dev: Pros and cons?
+
+Maya: Advantages: hardly a minute, easy enough that even front desk staff can run it, and it only needs a socket. Disadvantages: some models show standard error, so it's not as accurate as the gold standard, though better than the earlier tests. And hydration changes the result, so a more hydrated person will show more muscle, which can't be relied on.
+
+Dev: So pause and think. Why does drinking water before a B I A test make the reading wrong?
+
+Maya: You tell me.
+
+Dev: Water conducts, so the machine counts the extra water as more lean mass.
+
+Maya: Right.
+
+Maya: Recap. B I A passes a mild current, water conducts, muscle is seventy five percent water and fat ten, and hydration is the weakness.
+
+
+--- The Bod Pod test ---
+
+Maya: Last machine today. Bod is body, pod is a sealed chamber. It's a big egg shaped chamber. It's also called the air displacement method, and it belongs to the densitometry methods, which use body density to find body fat percentage.
+
+Dev: Body density?
+
+Maya: Body density equals body mass divided by body volume. The machine then applies the Siri equation, body fat percentage equals four point nine five divided by body density, minus four point five zero, all times one hundred. You don't need to memorise it. The computer does everything.
+
+Dev: How does it get volume?
+
+Maya: Air displacement. The seat is in the test chamber, with a reference chamber behind it holding the scale for body weight. A diaphragm measures air volume. First it measures the volume of air in the empty chamber and stores it. The person sits in, displacing some air, and it measures again. The difference between the two is the volume of the person. Body mass comes from the scale, so density, then body fat.
+
+Dev: Doesn't opening the door change things?
+
+Maya: The machine analyses air volume and pressure and compares with the stored values. The person also breathes out into a tube, so it measures the air in the lungs and removes it. That improves accuracy. And the person wears a swimsuit or spandex, and a tight swimming cap, because clothes carry air and hair has gaps that hold air.
+
+Dev: Example of results?
+
+Maya: In the video, total weight was ninety seven kilograms: eighty two kilograms of fat free mass and fifteen kilograms of fat mass. Fat free mass is the same as lean body mass. Fifteen divided by ninety seven is about fifteen point five percent. That percentage was calculated for the notes, the recording did not state it.
+
+Dev: Advantages and disadvantages?
+
+Maya: Accurate, comparable to the gold standard, though not the gold standard itself. Time saving. No technical expertise needed. Suitable for all ages, patients, obese people, children, the very elderly and hydrophobic people, meaning those afraid of water. Disadvantages: expensive, and not available in India, as written on the board.
+
+Dev: Hydrophobic?
+
+Maya: The next test, in part five, puts the person underwater. Someone afraid of water can't manage that, but can sit in the Bod Pod.
+
+Maya: Quick recap. Bod Pod is air displacement, density, then Siri.
+
+
+--- Comparing the tests, and five things to remember ---
+
+Maya: Compare. Waist circumference, waist to hip ratio and B M I: no percentage, risk or category only. Skinfold: percentage, subcutaneous only, plus or minus three. B I A: percentage, visceral and subcutaneous, hydration sensitive. Bod Pod: percentage, accurate, but expensive and hard to find.
+
+Dev: And when we choose the best test, accuracy isn't the only factor.
+
+Maya: Right, affordability and availability matter too. That is where part five picks up.
+
+Dev: Five things to remember?
+
+Maya: One, skinfold measures subcutaneous fat with a plus or minus three percent error. Two, B I A works because water conducts, and muscle is seventy five percent water, fat ten. Three, B I A needs an empty stomach, no exercise for twelve hours, no alcohol for forty eight hours, no metal. Four, Bod Pod finds volume by air displacement, then density, then the Siri equation. Five, Bod Pod is accurate and suits everyone, but is expensive and not available in India.
+
+Dev: Next, lecture two, with underwater weighing and D E X A.
+
+Maya: See you in part five.
+
+============================================================
+Part 5 - Underwater Weighing, D E X A and the Best Test
+============================================================
+
+
+--- Where we are ---
+
+Maya: Welcome to part five, the first part of the second lecture. In lecture one we covered screening, the order of tests, blood pressure, and six body composition tests. Two machines remain, underwater weighing and the D E X A scan. Then we will pick the best of all eight.
+
+Dev: So the numbering continues. Underwater weighing is two point three point three, and D E X A is two point three point four.
+
+Maya: Exactly.
+
+
+--- Hydrostatic or underwater weighing ---
+
+Maya: This test has three names. Hydrostatic test, hydro means water and static means still. Underwater weighing test, because the person's weight is measured underwater. And water displacement method, because water is displaced when the person goes in. All the same test.
+
+Dev: And it's a densitometry method, like the Bod Pod?
+
+Maya: Yes. Body density equals weight divided by volume. Here the weight is checked underwater, with a special apparatus, and the volume comes from the water displaced. Then body density goes into the Siri equation to give body fat percentage.
+
+Dev: Where does Archimedes come in?
+
+Maya: The method rests on his principle. Picture a tub filled to the brim and a box lowered in. Water spills out. Part one: the volume of the object underwater equals the volume of water displaced. That is how we get a person's volume. Part two: an upward force acts on the object, the buoyant force, the push you feel in a swimming pool. The water displaced is equivalent to the buoyant force. So more volume, more water displaced, a higher buoyant force.
+
+Dev: Now the fat versus muscle bit. Which takes more space, one kilogram of fat or one kilogram of muscle?
+
+Maya: Fat. Same weight, more volume. So four points. One, fat has more volume, muscle less. Two, fat displaces more water, muscle less, from Archimedes part one. Three, fat has higher buoyant force, muscle lower, from part two. Four, fat is lighter than water, muscle is heavier, denser than water. That fourth point is a property of the tissues, not Archimedes. So fat tends to float and muscle tends to sink.
+
+Dev: A real person has both though.
+
+Maya: Right. So nobody fully floats or fully sinks. It's a visual indicator. More tendency to float suggests more fat and less muscle. The slides show the same for two people. Low body fat percentage means less volume, less water displaced, less buoyant, heavier, and weighs more in water. High body fat percentage means more volume, more displacement, more buoyant, and weighs less in water.
+
+Dev: Give me a memory hook.
+
+Maya: Fat is fluffy and floats. Muscle is muscly and sinks.
+
+Maya: This level of detail is why hydrostatic weighing is called the gold standard of body composition tests. It has the highest accuracy, and other tests are compared against it. Remember the skinfold with its plus or minus three percent. The gold standard is far more reliable.
+
+Dev: Quick check. Which two parts of Archimedes, in my words? Volume underwater equals water displaced, and water displaced equals the upward buoyant force.
+
+Maya: Perfect.
+
+
+--- How the test is done, and its drawbacks ---
+
+Maya: In the demonstration video from a university laboratory, two measurements are needed. Body mass, easy on a scale, and body volume, which is the whole point of the tank. A scale is connected by a rod to a seat. The client sits on the seat, the water level is at the neck, and she goes underwater.
+
+Dev: Why does she have to blow out air?
+
+Maya: Two things make a person float, fat and air. The air in the lungs would distort the reading. So the client blows out all the air underwater, then a little more, and stays as still as possible, because movement makes the needle hard to read. The tester watches the bubbles. When they stop, the air is gone and the reading is taken.
+
+Dev: And one try is enough?
+
+Maya: No, several trials, so the reading is the same each time. A single trial may be wrong if the client moved or didn't exhale properly.
+
+Dev: That sounds hard.
+
+Maya: It is. Staying underwater without breathing is hard, and exhaling underwater is unnatural, because instinctively we hold our breath. Someone afraid of water can't do it. That's why the Bod Pod suits more people.
+
+Dev: Pros and cons?
+
+Maya: One advantage, accuracy. Disadvantages: it needs technical expertise, the operator must be qualified. It's expensive, the skilled operator plus the whole set up. And it isn't available to the general public, or in India, as the board says.
+
+Dev: And you wouldn't call it the best test if the client has to travel abroad.
+
+Maya: Exactly, affordability and availability matter.
+
+Dev: A student asked about the accuracy of the Siri equation.
+
+Maya: The answer: accuracy is judged in how accurately body density is measured. The gold standard measures density very accurately, and the Siri equation is well tested. Some small error always exists. Pause and think: why is accuracy about what goes into the equation? Because a good formula can't fix a bad measurement. Right?
+
+Dev: Right. Garbage in, garbage out.
+
+
+--- The D E X A scan ---
+
+Maya: Now D E X A, Dual Energy X-ray Absorptiometry. Dual means two, and the two are a low energy beam and a high energy beam. Spelling trap: it is absorptiometry, not absorption. The final n of absorption is missing, and exams can use that as a trap.
+
+Dev: And the principle?
+
+Maya: Density decides absorption. Bone is high density, muscle moderate, fat low. The higher the density, the more radiation absorbed. Bone absorbs very well, so little passes through. Fat absorbs poorly, so most passes through. Muscle sits between. The machine analyses how much was absorbed and how much passed through, and works out how much of each tissue there is. That is also how the colour coded body image is made, like a weather map.
+
+Dev: Fit this into the two categories we learned.
+
+Maya: Earlier we split body weight into lean body mass and body fat. Bod Pod and underwater weighing also gave only two, fat mass and fat free mass. D E X A goes one level further, with three. Fat free mass is muscle, organs and fluid. Fat mass is subcutaneous, visceral and essential fat. And bone and mineral mass, which gets a category of its own.
+
+Dev: So is fat free mass the same as lean body mass?
+
+Maya: Not exactly here. In the two category view, lean mass includes bone and essential fat. In D E X A, bone is separate and essential fat is counted as fat, so fat free mass is narrower. So the two lectures use these terms a little differently, and your course material is the final word.
+
+Dev: Where did D E X A come from?
+
+Maya: Originally orthopaedics. Doctors used it to check bone density. Now it's used for body composition because it separates fat, fat free mass and bone so neatly.
+
+Dev: Advantages?
+
+Maya: Low radiation risk, no special preparation, no fasting like B I A, no special clothing like the Bod Pod. Good accuracy, compared with the gold standard. Quick. No technical expertise needed for the user, lab technicians run it. Suitable for all. Available in India. In depth analysis. One disadvantage: it might be expensive for some.
+
+Dev: How expensive?
+
+Maya: About three thousand to four thousand at a public facility, and twelve thousand to fifteen thousand at a premium private hospital. The currency wasn't stated, taken as rupees. Explain it to a client as an investment, not an overhead. It's not a monthly cost, you can repeat it after about six months.
+
+Dev: What about the gym's entry level B I A machine?
+
+Maya: The practical plan from the lecture: get a D E X A, compare it with the B I A reading, and if they differ by about plus or minus five percent, you know the margin. Then repeat the D E X A after six months. For your course note the sources word D E X A accuracy differently: the slide says as accurate as hydrostatic weighing, the E-book says more valid than a two component model.
+
+
+--- Choosing the best of the eight, and five things to remember ---
+
+Maya: Now the big question. Which of the eight is the best? The first filter is validity. A test is valid for body composition only if it gives a body fat percentage.
+
+Dev: So walk me through.
+
+Maya: Step one, anthropometry. Waist circumference, waist to hip ratio and B M I give no percentage. Not valid. Step two, skinfold gives a percentage, so valid, but not reliable, because it covers only subcutaneous fat. Step three, of the machines, underwater weighing and Bod Pod are not available in India, so they are out. Step four, B I A against D E X A. D E X A wins, with in depth analysis and accuracy compared against the gold standard.
+
+Dev: So D E X A is the most recommended.
+
+Maya: Yes, considering all factors.
+
+Maya: Recap. Underwater weighing is gold standard but hard to get. D E X A uses two beams, three categories, and is available.
+
+Dev: Pause and think. Why isn't underwater weighing chosen, even though it's the gold standard?
+
+Maya: What's your answer?
+
+Dev: Because it needs experts, it's expensive, and it's not available in India.
+
+Maya: Correct.
+
+Maya: Here are the five. One, Archimedes: volume equals water displaced, and displaced water equals buoyant force. Two, fat is lighter than water and floats, muscle is denser and sinks. Three, underwater weighing is the gold standard, but needs expertise and isn't available. Four, D E X A uses two beams, the denser the tissue the more it absorbs, and reports fat free mass, fat mass and bone mass. Five, anthropometry is not valid, skinfold not reliable, underwater weighing and Bod Pod not available, so D E X A is the choice.
+
+Dev: Next, the heart and lung tests.
+
+Maya: See you in part six.
+
+============================================================
+Part 6 - Cardio Tests: Rockport Walk and Step Test
+============================================================
+
+
+--- Where we are ---
+
+Maya: Welcome to part six. We have finished body composition, and D E X A came out as the most recommended. Today is test three in the order, the cardiorespiratory fitness tests, also called cardiorespiratory endurance tests.
+
+Dev: Two types, right?
+
+Maya: Yes. The V O 2 max test and the heart rate recovery test. The slides define V O 2 max as an individual's aerobic capacity, the maximal oxygen uptake during incremental exercise. Heart rate recovery is the ability of the heart to return towards normal heart rate within a specific time after activity.
+
+
+--- V O 2 max, maximal and sub-maximal ---
+
+Maya: Recall the cardio lecture. In an incremental activity, brisk walk, then jog, then run, then sprint, heart rate rises with intensity, and so does V O 2, the volume of oxygen consumed to make energy. At the point where heart rate cannot rise any more, near maximum heart rate, the oxygen consumed is the V O 2 max, the maximum aerobic capacity.
+
+Dev: So higher V O 2 max means better cardio fitness.
+
+Maya: Yes. The test has two sub categories. Maximal, for athletes. The person is taken all the way to their peak, above eighty five percent, the sprinting zone. Sub-maximal, for general lifestyle clients, because not every client can or should be taken to maximum effort. Most clients are business people, homemakers, students and office workers, and they deserve to know their V O 2 max too.
+
+Dev: What does the maximal test look like?
+
+Maya: In a laboratory, an athlete does an incremental activity, for example a treadmill whose incline increases every minute, aiming for a peak in about ten minutes. They are connected by tubes to a system that measures breathing, oxygen consumed and carbon dioxide produced, in real time, every second. The screen shows a split graph, heart rate rising and V O 2 rising, in millilitres per kilogram. The video also said it estimates the lactate threshold so training zones can be set, and it is best used to see change over time.
+
+Dev: So that's for athletes in a lab. What do I use with a normal client?
+
+Maya: The Rockport one mile walking fitness test. Walk one mile, which is one point six kilometres, as fast as possible, non-stop. You can measure it with a vehicle trip meter. And it has to be as fast as possible, even though it is sub-maximal, because it still estimates V O 2 max. Not a relaxed post dinner stroll.
+
+Dev: How do we turn a walk into a V O 2 max?
+
+Maya: A formula with four inputs. Time in minutes. Pulse. Age. And weight in pounds, not kilograms. Multiply kilograms by two point two. Sixty kilograms times two point two is one hundred and thirty two pounds.
+
+Dev: How do you take the pulse?
+
+Maya: Immediately at the end, for ten seconds, then multiply by six. Say you count eighteen beats in ten seconds. Eighteen times six is one hundred and eight beats per minute. Why not a full minute? Because the heart rate would recover during that minute, and this test needs the peak. The first ten seconds are the highest.
+
+Dev: But V O 2 max is always a one minute volume. Why accept an aggregate?
+
+Maya: In the lab, the machine measures oxygen live, so it gives a per minute figure. Here you finish the activity first and note the pulse after, so there's no live measurement. Ten seconds times six stands in for the minute.
+
+Maya: The formulas. For women, V O 2 max equals one hundred thirty two point eight five, minus zero point three eight eight times age, minus zero point zero seven seven times weight in pounds, minus three point two six five times time, minus zero point one five six times pulse. For men, the same, but starting at one hundred thirty nine point one six eight. Only that first number differs. You don't have to memorise them, online calculators ask for the same four inputs. The result is in millilitres of oxygen per kilogram of body weight per minute.
+
+
+--- Rockport worked cases ---
+
+Maya: Case one, male. Age fifty, weight sixty kilograms, time fifteen minutes, pulse one hundred and eight. Weight is one hundred and thirty two pounds. Now each term. Zero point three eight eight times fifty is nineteen point four. Zero point zero seven seven times one thirty two is ten point one six four. Three point two six five times fifteen is forty eight point nine seven five. Zero point one five six times one hundred and eight is sixteen point eight four eight.
+
+Dev: Let me add them. Nineteen point four plus ten point one six four is twenty nine point five six four. Plus forty eight point nine seven five is seventy eight point five three nine. Plus sixteen point eight four eight is ninety five point three eight seven.
+
+Maya: Correct. Subtract from one thirty nine point one six eight. That gives forty three point seven eight one. The slide prints forty three point seven nine, so check your slide. Same category either way.
+
+Dev: Which is?
+
+Maya: Go to the chart. It is looked up by gender, age and the result. For males at age fifty, Superior is fifty and above, Excellent is forty nine to forty five, Very good is forty four to forty, Good is thirty nine to thirty five. Forty three point seven nine falls in Very good.
+
+Dev: How do I read the chart in general?
+
+Maya: Row is gender and age, the columns are the fitness levels from Superior down to Very poor, and higher is better. The chart lists ages in steps of five, so it doesn't say what to do for ages in between. Check your course material.
+
+Maya: Case two, the female case from the slide, which wasn't discussed in the lecture. Age thirty eight, weight one hundred and forty pounds, time twenty one minutes, pulse one hundred and forty six. Zero point three eight eight times thirty eight is fourteen point seven four four. Zero point zero seven seven times one forty is ten point seven eight. Three point two six five times twenty one is sixty eight point five six five. Zero point one five six times one forty six is twenty two point seven seven six. These add up to one hundred sixteen point eight six five. One thirty two point eight five minus that is fifteen point nine eight five. Very poor.
+
+Dev: That's a very slow walk and high pulse.
+
+Maya: Yes. Pause and think. Why does a client's weight need to be in pounds for this formula?
+
+Dev: Because the formula asks for pounds. If I put in kilograms, the answer comes out wrong.
+
+Maya: Exactly.
+
+Maya: Recap. Rockport: one mile as fast as possible, four inputs, pulse ten seconds times six, V O 2 max looked up in a chart by gender and age. For your course note that the E-book says brisk pace, almost as fast as possible without jogging.
+
+
+--- The Y M C A three minute step test ---
+
+Maya: Now heart rate recovery. The client does an activity, heart rate rises, and we check how well and how soon it recovers. Dev, who has better cardio fitness, the person whose heart takes more time to recover, or less?
+
+Dev: Less time.
+
+Maya: Yes, a faster recovery means a healthy and fit heart. The test is the Y M C A, the Young Men's Christian Association, a well known international body, three minute step test. For three minutes, non-stop, the client steps up and down on a step board.
+
+Dev: Why are the details so fixed?
+
+Maya: Standardisation. Every step must be done in exactly the same way, otherwise results are not comparable and can't be looked up. A modified test gives a number that isn't worth looking up. So the Y M C A presets two conditions. Board height, twelve inches, one foot. And speed, ninety six beats per minute, set with a metronome.
+
+Dev: Metronome?
+
+Maya: A small device, used by drummers, that ticks at set beats per minute. Thirty would be too slow, two hundred would make clients fall, so after testing, ninety six was set. One step is up, up, down, down. A single tick for a single move. Tick one up, tick two up, tick three down, tick four down. The client just follows the beat.
+
+Dev: Procedure?
+
+Maya: Set the board and metronome. Step for three minutes. When time is over, the client sits down immediately. Then count the pulse for one complete minute. That is the recovery heart rate. Then look it up in the chart for gender and age.
+
+Dev: Why a full minute here, but ten seconds times six in Rockport?
+
+Maya: Here the purpose is recovery, so you need the heart time to recover, and you count the whole minute. In Rockport you needed the peak. Recovery needs the full minute, peak needs the first ten seconds.
+
+Dev: What does the trainer do?
+
+Maya: Gives rhythm cues, up, up, down, down, motivates, corrects the foot, whole foot on the board, calls out only thirty seconds remaining, counts down from ten. Then notes the pulse while watching the clock. It takes presence of mind.
+
+Dev: Case study?
+
+Maya: A female, thirty years, pulse eighty five after the test. Use the women's chart, twenty six to thirty five column. Excellent is below eighty eight. Eighty five is below eighty eight, so excellent. Lower is better here. The women's chart goes on to good at eighty eight to ninety nine, and very poor above one thirty eight.
+
+Dev: Men and women have separate charts.
+
+Maya: Yes. Quick table: Rockport needs peak heart rate, pulse ten seconds times six, no metronome. Step test needs recovery, full minute, metronome ninety six.
+
+
+--- Recap and five things to remember ---
+
+Maya: Five things. One, V O 2 max is maximum oxygen consumption, maximal tests for athletes, sub-maximal for general clients. Two, Rockport is one mile as fast as possible, with time, pulse, age and weight in pounds. Three, pulse is ten seconds times six in Rockport, but a full minute in the step test. Four, the male example comes to forty three point seven eight one, Very good. Five, the Y M C A test uses a twelve inch board, ninety six beats per minute, three minutes, and a faster recovery is better.
+
+Dev: Next, strength and endurance tests.
+
+Maya: See you in part seven.
+
+============================================================
+Part 7 - Strength and Muscular Endurance Tests
+============================================================
+
+
+--- Where we are ---
+
+Maya: Welcome to part seven. So far in lecture two we covered underwater weighing, D E X A, and the cardio tests, the Rockport walk and the Y M C A step test. Today we do test four, muscular strength, and test five, muscular endurance.
+
+Dev: Strength first, endurance second, as the order says.
+
+Maya: And remember why. Strength needs fresh muscles, and then endurance feels easier because of the priming effect.
+
+
+--- Muscular strength: relative strength ---
+
+Maya: Muscular strength is the ability of the working skeletal muscles to generate force in one maximum effort. So the load must be the weight with which the person can do only one repetition, the one rep max. There are two tests, bench press for the upper body and leg press for the lower body.
+
+Dev: And the score is the weight lifted?
+
+Maya: Not quite. The test measures relative strength, not absolute strength. Absolute strength is just the total weight lifted. Relative strength is the weight lifted in relation to the person's own body weight, a ratio. Relative strength equals weight lifted divided by body weight. It's also called the strength ratio.
+
+Dev: Why does that matter?
+
+Maya: A heavy person may lift more simply because they are bigger. The ratio makes comparison fair. It comes out as a decimal. Then, using the client's gender, age and the ratio, you read the category from a chart. The charts are percentile based, and there is a separate table for the leg press.
+
+Dev: Why the leg press, and not the squat?
+
+Maya: The squat is unsupported, and it also engages the core. Imagine two people tested with a squat. One has a strong core, one a weak core. The weak core person may have good leg strength but cannot show it. The leg press is supported, like the bench press, so everyone gets a fair, supported test that doesn't depend on the core.
+
+Dev: Walk me through a case.
+
+Maya: The slide states the ratio directly, but to understand it, suppose, hypothetically, a man lifts one hundred and twenty four kilograms and weighs one hundred. One twenty four divided by one hundred is one point two four. He is thirty years old. In the bench press chart for men, thirty to thirty nine years, one point two four is the ninetieth percentile, which is well above average.
+
+Dev: How do I read that chart?
+
+Maya: Rows are percentiles from ninety down to ten, grouped into five categories. Ninety and eighty are well above average, seventy and sixty above average, fifty average, forty and thirty below average, twenty and ten well below average. Columns are age groups. As age goes up the numbers go down, and women's numbers are lower than men's. For men thirty to thirty nine, the fiftieth percentile is zero point nine three, the average.
+
+Dev: And the leg press case?
+
+Maya: A thirty year old man presses twice his body weight. Hypothetically, two hundred divided by one hundred is two point zero zero. Remember it's a ratio of two to one, which is the number two, not one to two. In the leg press chart for men thirty to thirty nine, the eightieth percentile is one point nine three, and the ninetieth is two point zero seven. Two lies between them, so well above average.
+
+Dev: Pause and think. Is relative strength the weight lifted divided by body weight, or body weight divided by weight lifted?
+
+Maya: Which one, Dev?
+
+Dev: Weight lifted divided by body weight.
+
+Maya: Yes.
+
+Maya: Beginners. Will this test be conducted for beginners? No. A beginner has no neural pathways formed yet, no form or technique, no kinetic chain, no Valsalva manoeuvre and no proprioception. So in the first test, skip it and do everything else. In the retest, test number two, treat it as the first time muscular strength is tested. From the third test, you can track progress.
+
+Dev: One note, the question in the recording said muscular endurance, but the explanation was about strength.
+
+Maya: Right, and the E-book agrees that strength testing isn't prescribed for those starting out. Whether the rule also applies to endurance isn't stated.
+
+Maya: Recap. Strength is one rep max, ratio equals lifted divided by body weight, bench press and leg press, leg press instead of squat because it's supported, beginners skip at test one.
+
+
+--- Muscular endurance: the push-up test ---
+
+Maya: Test five. Muscular endurance is the ability of the working skeletal muscles to contract for a long period without getting fatigued. Two tests, push-up for the upper body, curl-up for the abdominal region.
+
+Dev: Do we give a target number of reps?
+
+Maya: No. Both are done till failure. Endurance is tested by counting how many repetitions the client can do. The client is told the correct form and full range of motion, and the count is checked against the chart for that gender and age.
+
+Dev: What counts as a proper push-up?
+
+Maya: Full range of motion, as per the test makers. At the bottom, in the eccentric phase, the chin touches the floor. On the way up, the arms are fully extended. No half repetitions are counted. Tell the client before the test.
+
+Dev: And men and women do it differently?
+
+Maya: Yes. Males on the toes, palms and toes. Females on the knees, palms and knees. That isn't gender bias. The chart values were built keeping in mind genetic differences, and you must compare apples with apples. Even on the knees, the chin must touch the floor. A woman who can do the male version is top tier, but for the test the standard version must be followed.
+
+Dev: Cases?
+
+Maya: A thirty year old male doing thirty push-ups is excellent, because thirty or more is excellent for ages thirty to thirty nine. A thirty year old female doing twenty seven is also excellent, because twenty seven or more is excellent for her. The female numbers are lower for the same category.
+
+Dev: So the pattern is, the older, the lower the numbers, and the female thresholds are lower than male.
+
+Maya: Exactly. Your course notes flag a small printing oddity in the female sixty to sixty nine column, so check the printed table for that age group.
+
+
+--- The curl-up test ---
+
+Maya: The curl-up is a forward crunch. Spine flexion, the function of the rectus abdominis. In the crunch exercise, hands were interlocked behind the head. In the test, hands are not behind the head. The client lies supine, palms flat on the mat.
+
+Dev: Why palms on the mat?
+
+Maya: As the spine flexes, the palms travel to and fro along the mat. The distance the palm travels sets the range of motion for everyone, so results are comparable. Two pieces of tape are placed on the mat. Tape A is the starting position, and a second tape marks how far the fingertips must go. The fingertips touch the far tape and come back to tape A.
+
+Dev: How far apart?
+
+Maya: It depends on age, not gender. Younger than forty five, twelve centimetres. Older than forty five, eight centimetres. The distance is measured from the inside edge of one tape to the inside edge of the other. Each tape is two centimetres wide. For the younger client, a third tape goes four centimetres further than the eight, making twelve.
+
+Dev: So a seventeen year old uses twelve and a forty seven year old uses eight.
+
+Maya: Correct. Your notes say the age of exactly forty five isn't assigned, and the video once said younger than forty, so check your course material.
+
+Dev: What about cheating?
+
+Maya: Some people lift the palm to reach the tape. That repetition does not count. The whole hand stays grounded, going forward and back.
+
+Dev: And the speed?
+
+Maya: A metronome at forty beats per minute. Not ninety six, that would be too fast. And unlike the step test, here one beat is one phase. One beat for the concentric phase, one for the eccentric phase, so two beats make one repetition. Tick one, from tape A to the far tape, tick two, back to A.
+
+Dev: Cases?
+
+Maya: Male, thirty years, twenty five curl-ups. In the men's thirty to thirty nine column, the fortieth percentile is twenty six and the thirtieth is nineteen. Twenty five is just under twenty six, so below average. Female, thirty years, twenty five curl-ups. In the women's thirty to thirty nine column, the fiftieth percentile is twenty one and the sixtieth is twenty eight. Twenty five falls between, so average. Same number, better result for the female.
+
+Dev: Pause and think. How many beats for ten curl-ups?
+
+Maya: Twenty. Two beats each.
+
+Dev: That follows. Two times ten.
+
+Maya: One last note. The E-book describes a different partial curl-up test, with tapes ten centimetres apart, fifty beats per minute, one minute, and a maximum of twenty five. The lecture version is what we've taught here.
+
+
+--- Recap and five things to remember ---
+
+Maya: Five things. One, strength is tested with one rep max, as a ratio of weight lifted to body weight. Two, bench press for the upper body, leg press for the lower body, because it's supported. Three, beginners skip strength at the first test, the second is their first strength test, and tracking begins at the third. Four, push-ups are done till failure, males on toes, females on knees, chin to the floor and arms fully extended. Five, curl-ups use tapes twelve centimetres under forty five and eight over, forty beats per minute, two beats per repetition, palms stay on the mat.
+
+Dev: Next, flexibility and the final quiz.
+
+Maya: See you in part eight.
+
+============================================================
+Part 8 - Flexibility Tests, Summary and Quiz
+============================================================
+
+
+--- Where we are ---
+
+Maya: Welcome to part eight, the final part. We have covered screening, the order of tests, blood pressure, body composition, cardio, strength and endurance. The last test is test six, flexibility. Then a full summary, and a twelve question quiz.
+
+Dev: Let's go.
+
+
+--- Flexibility: the goniometer and visual assessment ---
+
+Maya: There are three categories of flexibility test, just as body composition had three. Use of a goniometer, visual assessment, and sit and reach tests.
+
+Dev: What's a goniometer?
+
+Maya: It measures range of motion at the joints, the angle. It looks like the protractor from a school geometry set. It has a stationary arm, a moving arm, and a central point. As the moving arm moves, the angle number changes. Trainers don't use it, because it needs technical expertise. Only a physiotherapist or an orthopaedic doctor uses it correctly. The central point must sit exactly over the joint and the arms along the bones, otherwise the angle is wrong.
+
+Dev: So what do trainers do?
+
+Maya: Visual assessment. No device. Four regions: quadriceps, hamstrings, hip flexors, which are the iliacus and psoas, and the shoulder. The first three are pass or fail. The shoulder is graded good, average or poor. Each side is checked separately.
+
+Dev: How is flexibility defined here?
+
+Maya: The ability of the muscles to lengthen passively, meaning with outside help. The trainer is the outside force and assists the client. If the client still has a huge gap or discomfort despite help, they fail. And a pass on the right doesn't guarantee a pass on the left.
+
+Dev: Is there a common logic?
+
+Maya: Yes. Flexibility is lengthening, so you do the opposite of the muscle's own action. Quadriceps extend the knee, so you test knee flexion. Hip flexors flex the hip, so you test hip extension. Hamstrings are tested with hip flexion with a locked knee.
+
+Dev: Quadriceps first.
+
+Maya: Client lies prone on the mat, face down. The trainer helps the heel toward the buttock. Pass if the heel touches the buttock, each side. A huge gap despite help is a fail.
+
+Dev: Hamstrings?
+
+Maya: Client lies supine, one leg at a time, the other leg stays on the floor. The knee stays locked and the trainer lifts the leg, like a leg raise. The criterion is above seventy degrees, with ninety being vertical. Different legs can have different angles. If one leg reaches eighty and the other stays at sixty despite help, that leg fails and needs stretching. There is no upper limit, more is simply better.
+
+Dev: And I read that the slides say seventy to eighty.
+
+Maya: Yes. The slide says seventy to eighty degrees, the E-book says eighty to eighty five. The lecture and board say above seventy. Check your course material.
+
+Dev: Hip flexors?
+
+Maya: Client lies on a table of decent height, hips at the edge. One knee is hugged to the chest. The other leg is suspended over the edge. The suspended leg is tested. The pass is when the knee of the hanging leg goes below hip level. If it stays higher, the hip flexor is stiff or tight.
+
+Dev: A student asked, which leg is tested, the hugged or the suspended one. Why the suspended?
+
+Maya: The hugged leg already has the hip flexed, with the hip flexors contracted. You want to see how much the muscle can lengthen, so you test the suspended leg, which is moving toward hip extension. The E-book describes a different hip flexor test, lying supine and pulling one knee to the chest, so keep that in mind.
+
+Dev: Shoulder?
+
+Maya: Standing or sitting. One hand goes up and behind the head, the other comes from behind and under the opposite shoulder. Try to touch fingers. Good, the fingertips touch or hands clasp. Average, a small gap. Poor, a large gap. Check both sides, by switching hands.
+
+Maya: Pause and think. In the hip flexor test, the knee must be above or below the hip for a pass?
+
+Dev: Below hip level, or at it.
+
+Maya: Yes.
+
+
+--- Sit and reach tests ---
+
+Maya: The sit and reach test measures hamstring and lumbar flexibility, the posterior chain. The client sits and reaches forward, and the farther the reach, the better. Two methods.
+
+Dev: Method one?
+
+Maya: The sit and reach box. A custom made box. Soles of the feet against the inside wall of the box. Knees locked. Bend forward with hands one above the other and push the marker on the top surface as far as possible. Read the distance in inches on the scale, and look it up for age and gender.
+
+Dev: And without a box?
+
+Maya: The Y M C A sit and reach test. You need a mat, brown tape and a measuring tape. The client sits with knees straight. A brown tape, one foot long, goes heel to heel. The measuring tape is laid out starting somewhere between the knees, so that the fifteen inch mark lies exactly where it crosses the brown tape. That fifteen inch point is the zero point. The client reaches forward, hands one on the other.
+
+Dev: Why fifteen?
+
+Maya: Everybody should reach at least fifteen inches by default, so the real test is how far beyond fifteen. And a stiff client who reaches only seven inches still gets a number, because the tape starts between the knees. With a number, you can set a mid term goal, like reaching the brown tape next time.
+
+Dev: Case?
+
+Maya: A male, thirty five years, reaches two inches beyond. Fifteen plus two is seventeen inches. In the men's twenty six to thirty five column, seventeen falls in the good category, the seventieth and sixtieth percentile pair.
+
+Dev: Anything to note?
+
+Maya: The E-book adds details, heel spacing, a hold of no more than two seconds, and the best of two trials. Check your course material.
+
+Maya: Recap. Goniometer for specialists, visual assessment for four regions, sit and reach for the posterior chain.
+
+
+--- Summary of the whole topic ---
+
+Maya: Let's walk the order once more. Pre-step: P A R Q and informed consent. One, blood pressure, with the seven step cuff routine. Two, body composition, eight tests: waist circumference, waist to hip ratio, B M I, skinfold, B I A, Bod Pod, underwater weighing and D E X A, and D E X A is the most recommended. Three, cardio: Rockport and Y M C A step test. Four, strength: bench press and leg press as relative strength. Five, endurance: push-up and curl-up, till failure. Six, flexibility.
+
+Dev: And every chart is read the same way.
+
+Maya: Yes, by gender, age and the result. And only a standardised test can be compared to the chart. The charts come from well accepted research from the United States and other places including parts of Europe, and are accepted globally.
+
+Dev: Good. Let me check a trap. In the Rockport walk, what's the metronome speed?
+
+Maya: There isn't one. The metronome belongs to the step test, ninety six, and the curl-up, forty. And no tape is used on the step board. Tape belongs to the curl-up on the mat.
+
+Dev: Five things from this part then?
+
+Maya: One, flexibility is the ability to lengthen passively, so the trainer helps and both sides are tested. Two, quadriceps pass when the heel touches the buttock, hamstrings above seventy degrees, hip flexors with the knee below hip level in the suspended leg. Three, sit and reach tests hamstring and lumbar flexibility. Four, the Y M C A version sets fifteen inches at the brown tape. Five, check the rules where sources differ, and use the course version.
+
+
+--- Rapid fire quiz ---
+
+Maya: Now the quiz. Twelve questions. Answer in your head, and we give the answer straight after.
+
+Dev: Ready. Question one, what is a test norm?
+
+Maya: A reference sheet that shows where a test score stands for that component.
+
+Dev: Question two, what must the P A R Q show, and what if there's one yes?
+
+Maya: All no. With a yes, stop, ask, and get a doctor's N O C.
+
+Maya: Question three, what's the correct order of the six tests?
+
+Dev: Blood pressure, body composition, cardio, strength, endurance, flexibility.
+
+Maya: Question four, what is the waist to hip ratio for a waist of thirty six and hips of forty, and is it low risk for a man?
+
+Dev: Zero point nine zero, and yes, low risk for a man, because the limit is zero point nine five.
+
+Maya: Question five, B M I for sixty three kilograms and one point seven five metres?
+
+Dev: Twenty point six, normal.
+
+Maya: Question six, why is B M I limited?
+
+Dev: It can't tell fat from muscle, and it misses skinny fat.
+
+Maya: Question seven, what does B I A rely on, and which is higher in water, muscle or fat?
+
+Dev: Water conducts electricity, and muscle is seventy five percent water against ten percent for fat.
+
+Maya: Question eight, state the two parts of Archimedes' principle.
+
+Dev: Volume underwater equals water displaced, and water displaced equals the buoyant force.
+
+Maya: Question nine, the three categories D E X A reports?
+
+Dev: Fat free mass, fat mass, bone and mineral mass.
+
+Maya: Question ten, the Rockport male case, age fifty, sixty kilograms, fifteen minutes, pulse one hundred and eight?
+
+Dev: Forty three point seven eight one, very good.
+
+Maya: Question eleven, how is pulse counted in Rockport versus the step test?
+
+Dev: Ten seconds times six immediately in Rockport, a full minute after the step test.
+
+Maya: Question twelve, which curl-up tape distance for a forty seven year old, and how many beats per repetition?
+
+Dev: Eight centimetres, two beats.
+
+Maya: That's it. You've covered the whole of fitness testing. Standardise, screen, order, and read the chart.
+
+Dev: Thanks for listening, everyone. Good luck with your studies.
+
+Maya: Good luck, and keep testing.
+
