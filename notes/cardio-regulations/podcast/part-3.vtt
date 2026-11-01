@@ -29,47 +29,47 @@ WEBVTT
 <v Maya>Start simple.
 
 8
-00:00:27.500 --> 00:00:31.370
+00:00:27.500 --> 00:00:31.380
 <v Maya>Heart rate, HR, is the number of times the heart beats in a minute.
 
 9
-00:00:31.420 --> 00:00:35.950
+00:00:31.430 --> 00:00:35.960
 <v Maya>Resting heart rate, RHR, is the same thing measured in a resting state.
 
 10
-00:00:36.000 --> 00:00:37.880
+00:00:36.010 --> 00:00:37.890
 <v Dev>What counts as resting?
 
 11
-00:00:37.930 --> 00:00:39.960
+00:00:37.940 --> 00:00:39.970
 <v Maya>Imagine waking up in the morning.
 
 12
-00:00:40.010 --> 00:00:41.870
+00:00:40.020 --> 00:00:41.880
 <v Maya>You've made no physical effort.
 
 13
-00:00:41.920 --> 00:00:44.610
+00:00:41.930 --> 00:00:44.620
 <v Maya>Only involuntary functions are going on.
 
 14
-00:00:44.660 --> 00:00:51.740
+00:00:44.670 --> 00:00:51.740
 <v Maya>The heart beats, the brain works, the liver and kidneys work, body temperature and glucose are maintained, digestion carries on.
 
 15
-00:00:51.790 --> 00:00:57.700
+00:00:51.790 --> 00:00:57.710
 <v Maya>The normal range of resting heart rate is sixty to eighty beats per minute, and the average is seventy two.
 
 16
-00:00:57.750 --> 00:01:01.210
+00:00:57.760 --> 00:01:01.220
 <v Dev>So if someone says the average is sixty, they're wrong?
 
 17
-00:01:01.260 --> 00:01:08.510
+00:01:01.270 --> 00:01:08.520
 <v Maya>That was a class answer, and the correction was that sixty to eighty is the range, and the average is a different number, seventy two.
 
 18
-00:01:08.560 --> 00:01:18.300
+00:01:08.570 --> 00:01:18.300
 <v Maya>One thing to check, the E-book gives different values, sixty as good, forty as exceptionally good, and forty to a hundred as the general range, so check your course material.
 
 19
@@ -97,31 +97,31 @@ WEBVTT
 <v Maya>We'll explain the logic behind that in lecture two.
 
 25
-00:01:40.830 --> 00:01:44.900
+00:01:40.830 --> 00:01:44.890
 <v Dev>Okay, so reserve is the gap between resting and maximum.
 
 26
-00:01:44.950 --> 00:01:46.040
+00:01:44.940 --> 00:01:46.030
 <v Maya>Exactly.
 
 27
-00:01:46.090 --> 00:01:48.080
+00:01:46.080 --> 00:01:48.070
 <v Maya>Now stroke volume, SV.
 
 28
-00:01:48.130 --> 00:01:51.900
+00:01:48.120 --> 00:01:51.900
 <v Maya>It's the amount of blood pumped by the left ventricle in one beat.
 
 29
-00:01:51.950 --> 00:01:53.520
+00:01:51.950 --> 00:01:53.510
 <v Maya>Picture a spray bottle.
 
 30
-00:01:53.570 --> 00:01:56.650
+00:01:53.560 --> 00:01:56.640
 <v Maya>One push of the pump, one stroke, sends out some liquid.
 
 31
-00:01:56.700 --> 00:01:58.830
+00:01:56.690 --> 00:01:58.830
 <v Maya>That amount is the stroke volume.
 
 32
@@ -129,11 +129,11 @@ WEBVTT
 <v Maya>The bottle is the left ventricle.
 
 33
-00:02:01.120 --> 00:02:05.140
+00:02:01.120 --> 00:02:05.130
 <v Maya>The average resting stroke volume is seventy millilitres per beat.
 
 34
-00:02:05.190 --> 00:02:07.070
+00:02:05.180 --> 00:02:07.070
 <v Dev>And watch the unit, right?
 
 35
@@ -157,494 +157,494 @@ WEBVTT
 <v Dev>Then cardiac output.
 
 40
-00:02:22.120 --> 00:02:27.110
+00:02:22.120 --> 00:02:27.100
 <v Maya>Cardiac output, Q, is the amount of blood pumped by the left ventricle in one minute.
 
 41
-00:02:27.160 --> 00:02:30.800
+00:02:27.150 --> 00:02:30.790
 <v Maya>The formula is Q equals stroke volume times heart rate.
 
 42
-00:02:30.850 --> 00:02:33.410
+00:02:30.840 --> 00:02:33.400
 <v Maya>It isn't a special formula, it's logic.
 
 43
-00:02:33.460 --> 00:02:37.010
+00:02:33.450 --> 00:02:36.980
 <v Maya>Blood per beat, times beats per minute, gives blood per minute.
 
 44
-00:02:37.060 --> 00:02:38.690
+00:02:37.030 --> 00:02:38.660
 <v Dev>Do the rest value.
 
 45
-00:02:38.740 --> 00:02:42.940
+00:02:38.710 --> 00:02:42.900
 <v Maya>At rest, stroke volume is seventy, resting heart rate is seventy two.
 
 46
-00:02:42.990 --> 00:02:50.280
+00:02:42.950 --> 00:02:50.240
 <v Maya>Seventy times seventy two is five thousand and forty millilitres, close to five thousand, so about five litres per minute.
 
 47
-00:02:50.330 --> 00:02:52.000
+00:02:50.290 --> 00:02:51.960
 <v Dev>And during cardio?
 
 48
-00:02:52.050 --> 00:02:55.730
+00:02:52.010 --> 00:02:55.690
 <v Maya>That's the acute response, the immediate effect of doing cardio.
 
 49
-00:02:55.780 --> 00:02:59.010
+00:02:55.740 --> 00:02:58.980
 <v Maya>Heart rate increases, and cardiac output increases.
 
 50
-00:02:59.060 --> 00:03:03.620
+00:02:59.030 --> 00:03:03.570
 <v Maya>One student said Q stays the same, but it can't, because there's physical effort now.
 
 51
-00:03:03.670 --> 00:03:10.810
+00:03:03.620 --> 00:03:10.770
 <v Maya>The lecture says the resting five litres is speeded up five times, so five times five is twenty five litres per minute.
 
 52
-00:03:10.860 --> 00:03:16.250
+00:03:10.820 --> 00:03:16.210
 <v Maya>The slide says a sportsman reaches thirty to thirty two litres during maximal exercise.
 
 53
-00:03:16.300 --> 00:03:23.410
+00:03:16.260 --> 00:03:23.370
 <v Maya>Those are different cases, an average person versus a sportsman at maximal effort, so check which one your course wants.
 
 54
-00:03:23.460 --> 00:03:24.820
+00:03:23.420 --> 00:03:24.770
 <v Dev>Quick recap?
 
 55
-00:03:24.870 --> 00:03:26.730
+00:03:24.820 --> 00:03:26.680
 <v Maya>Heart rate, beats per minute.
 
 56
-00:03:26.780 --> 00:03:29.940
+00:03:26.730 --> 00:03:29.890
 <v Maya>Resting rate, sixty to eighty, average seventy two.
 
 57
-00:03:29.990 --> 00:03:32.310
+00:03:29.940 --> 00:03:32.270
 <v Maya>Maximum, two twenty minus age.
 
 58
-00:03:32.360 --> 00:03:34.700
+00:03:32.320 --> 00:03:34.660
 <v Maya>Reserve, maximum minus resting.
 
 59
-00:03:34.750 --> 00:03:37.730
+00:03:34.710 --> 00:03:37.680
 <v Maya>Stroke volume, about seventy millilitres per beat.
 
 60
-00:03:37.780 --> 00:03:44.280
+00:03:37.730 --> 00:03:44.240
 <v Maya>Cardiac output, stroke volume times heart rate, about five litres at rest, about twenty five in the acute response.
 
 61
-00:03:44.330 --> 00:03:45.600
+00:03:44.290 --> 00:03:45.550
 <v Maya>Now VO₂.
 
 62
-00:03:45.650 --> 00:03:50.190
+00:03:45.600 --> 00:03:50.150
 <v Maya>The V stands for volume, the actual volume of oxygen, not the ventricle.
 
 63
-00:03:50.240 --> 00:03:51.860
+00:03:50.200 --> 00:03:51.820
 <v Maya>O2 is oxygen.
 
 64
-00:03:51.910 --> 00:03:57.930
+00:03:51.870 --> 00:03:57.890
 <v Maya>So VO₂ is the volume of oxygen the body consumes to produce energy, ATP.
 
 65
-00:03:57.980 --> 00:03:59.790
+00:03:57.940 --> 00:03:59.750
 <v Dev>And VO₂ rest?
 
 66
-00:03:59.840 --> 00:04:01.370
+00:03:59.800 --> 00:04:01.330
 <v Maya>The same thing at rest.
 
 67
-00:04:01.420 --> 00:04:06.390
+00:04:01.380 --> 00:04:06.350
 <v Maya>Even sitting still, your involuntary functions need energy, so they need some oxygen.
 
 68
-00:04:06.440 --> 00:04:08.160
+00:04:06.400 --> 00:04:08.120
 <v Maya>It depends on body weight.
 
 69
-00:04:08.210 --> 00:04:14.310
+00:04:08.170 --> 00:04:14.260
 <v Maya>VO₂ rest is three point five millilitres of oxygen per kilogram of body weight per minute.
 
 70
-00:04:14.360 --> 00:04:17.230
+00:04:14.310 --> 00:04:17.190
 <v Maya>This value is also called one MET.
 
 71
-00:04:17.280 --> 00:04:18.750
+00:04:17.240 --> 00:04:18.700
 <v Dev>Do an example.
 
 72
-00:04:18.800 --> 00:04:21.050
+00:04:18.750 --> 00:04:21.000
 <v Maya>A person weighing eighty kilograms.
 
 73
-00:04:21.100 --> 00:04:27.590
+00:04:21.050 --> 00:04:27.550
 <v Maya>Three point five times eighty is two hundred and eighty millilitres of oxygen per minute, just to stay alive.
 
 74
-00:04:27.640 --> 00:04:33.310
+00:04:27.600 --> 00:04:33.260
 <v Maya>Quick note, the board photo can look like thirty eight, but the slide and E-book say three point five.
 
 75
-00:04:33.360 --> 00:04:35.430
+00:04:33.310 --> 00:04:35.380
 <v Dev>What does MET mean?
 
 76
-00:04:35.480 --> 00:04:37.590
+00:04:35.430 --> 00:04:37.540
 <v Maya>Metabolic equivalent of task.
 
 77
-00:04:37.640 --> 00:04:41.700
+00:04:37.590 --> 00:04:41.650
 <v Maya>Think of it as an energy currency, the amount you spend to buy oxygen.
 
 78
-00:04:41.750 --> 00:04:43.680
+00:04:41.700 --> 00:04:43.630
 <v Maya>At rest it's one MET.
 
 79
-00:04:43.730 --> 00:04:46.450
+00:04:43.680 --> 00:04:46.400
 <v Maya>As activity rises, the number rises.
 
 80
-00:04:46.500 --> 00:04:52.180
+00:04:46.450 --> 00:04:52.140
 <v Maya>The lecture gave illustrations, three or four for jogging and running, and nine or ten for a sprint.
 
 81
-00:04:52.230 --> 00:04:55.520
+00:04:52.190 --> 00:04:55.480
 <v Maya>These were only illustrations, not slide values.
 
 82
-00:04:55.570 --> 00:04:57.390
+00:04:55.530 --> 00:04:57.350
 <v Dev>And VO₂ max?
 
 83
-00:04:57.440 --> 00:05:02.530
+00:04:57.400 --> 00:05:02.490
 <v Maya>Imagine a graph, heart rate on the vertical axis, oxygen volume on the horizontal.
 
 84
-00:05:02.580 --> 00:05:04.580
+00:05:02.540 --> 00:05:04.540
 <v Maya>A brisk walk sits low on both.
 
 85
-00:05:04.630 --> 00:05:05.970
+00:05:04.590 --> 00:05:05.930
 <v Maya>A jog is higher.
 
 86
-00:05:06.020 --> 00:05:07.520
+00:05:05.980 --> 00:05:07.480
 <v Maya>A run is higher still.
 
 87
-00:05:07.570 --> 00:05:14.490
+00:05:07.530 --> 00:05:14.450
 <v Maya>A sprint takes someone close to their maximum heart rate, and the oxygen consumed at that maximum is VO₂ max.
 
 88
-00:05:14.540 --> 00:05:19.080
+00:05:14.500 --> 00:05:19.050
 <v Maya>It's the person's aerobic capacity, their maximum aerobic capacity.
 
 89
-00:05:19.130 --> 00:05:22.370
+00:05:19.100 --> 00:05:22.340
 <v Maya>How it's tested comes in the fitness testing lectures.
 
 90
-00:05:22.420 --> 00:05:23.940
+00:05:22.390 --> 00:05:23.910
 <v Dev>Workload next.
 
 91
-00:05:23.990 --> 00:05:26.320
+00:05:23.960 --> 00:05:26.290
 <v Maya>Workload is the amount of work done.
 
 92
-00:05:26.370 --> 00:05:32.000
+00:05:26.340 --> 00:05:31.960
 <v Maya>In weight training four factors tell it, range of motion, poundage, speed and number of reps.
 
 93
-00:05:32.050 --> 00:05:36.330
+00:05:32.010 --> 00:05:36.290
 <v Maya>In cardio, three factors, distance covered, speed and time taken.
 
 94
-00:05:36.380 --> 00:05:39.670
+00:05:36.340 --> 00:05:39.630
 <v Maya>Changing just one is enough to raise the workload.
 
 95
-00:05:39.720 --> 00:05:41.070
+00:05:39.680 --> 00:05:41.030
 <v Dev>Examples.
 
 96
-00:05:41.120 --> 00:05:45.380
+00:05:41.080 --> 00:05:45.340
 <v Maya>Distance, a person who jogs two kilometres is told to do two and a half.
 
 97
-00:05:45.430 --> 00:05:49.310
+00:05:45.390 --> 00:05:49.270
 <v Maya>Speed, treadmill from seven to seven and a half kilometres per hour.
 
 98
-00:05:49.360 --> 00:05:55.020
+00:05:49.320 --> 00:05:54.980
 <v Maya>Time, a person used to ten minutes of cycling adds ten minutes of running and ten minutes of swimming.
 
 99
-00:05:55.070 --> 00:05:58.210
+00:05:55.030 --> 00:05:58.160
 <v Maya>That raises time and also uses cross training.
 
 100
-00:05:58.260 --> 00:05:59.750
+00:05:58.210 --> 00:05:59.710
 <v Dev>And the case study?
 
 101
-00:05:59.800 --> 00:06:01.780
+00:05:59.760 --> 00:06:01.740
 <v Maya>Goal, don't change the distance.
 
 102
-00:06:01.830 --> 00:06:03.930
+00:06:01.790 --> 00:06:03.880
 <v Maya>The client covers two kilometres.
 
 103
-00:06:03.980 --> 00:06:05.850
+00:06:03.930 --> 00:06:05.810
 <v Maya>Old time was fifteen minutes.
 
 104
-00:06:05.900 --> 00:06:07.950
+00:06:05.860 --> 00:06:07.900
 <v Maya>New time must be twelve minutes.
 
 105
-00:06:08.000 --> 00:06:12.030
+00:06:07.950 --> 00:06:11.990
 <v Maya>The workload has gone up, because the same distance in less time is harder.
 
 106
-00:06:12.080 --> 00:06:14.020
+00:06:12.040 --> 00:06:13.980
 <v Maya>So speed has to increase.
 
 107
-00:06:14.070 --> 00:06:17.280
+00:06:14.030 --> 00:06:17.240
 <v Dev>Speed equals distance divided by time.
 
 108
-00:06:17.330 --> 00:06:23.120
+00:06:17.290 --> 00:06:23.080
 <v Maya>Yes, and the unit is kilometres per hour, so minutes must become hours, by dividing by sixty.
 
 109
-00:06:23.170 --> 00:06:27.100
+00:06:23.130 --> 00:06:27.060
 <v Maya>Old, fifteen minutes is a quarter of an hour, zero point two five.
 
 110
-00:06:27.150 --> 00:06:31.450
+00:06:27.110 --> 00:06:31.410
 <v Maya>Two divided by zero point two five is eight kilometres per hour.
 
 111
-00:06:31.500 --> 00:06:35.700
+00:06:31.460 --> 00:06:35.660
 <v Maya>New, twelve minutes divided by sixty is zero point two hours.
 
 112
-00:06:35.750 --> 00:06:39.520
+00:06:35.710 --> 00:06:39.480
 <v Maya>Two divided by zero point two is ten kilometres per hour.
 
 113
-00:06:39.570 --> 00:06:41.840
+00:06:39.530 --> 00:06:41.810
 <v Maya>So speed rose from eight to ten.
 
 114
-00:06:41.890 --> 00:06:43.960
+00:06:41.860 --> 00:06:43.920
 <v Dev>All three factors together.
 
 115
-00:06:44.010 --> 00:06:44.830
+00:06:43.970 --> 00:06:44.800
 <v Maya>Exactly.
 
 116
-00:06:44.880 --> 00:06:48.670
+00:06:44.850 --> 00:06:48.630
 <v Maya>Chronic means long term and adaptations means benefits.
 
 117
-00:06:48.720 --> 00:06:51.260
+00:06:48.680 --> 00:06:51.230
 <v Maya>Cardiovascular adaptations first.
 
 118
-00:06:51.310 --> 00:06:56.110
+00:06:51.280 --> 00:06:56.080
 <v Maya>Better contractility of the myocardium, the heart muscle, meaning better pumping.
 
 119
-00:06:56.160 --> 00:07:00.840
+00:06:56.130 --> 00:07:00.810
 <v Maya>That leads to increased stroke volume and increased exercise cardiac output.
 
 120
-00:07:00.890 --> 00:07:02.840
+00:07:00.860 --> 00:07:02.810
 <v Maya>Decreased resting heart rate.
 
 121
-00:07:02.890 --> 00:07:07.950
+00:07:02.860 --> 00:07:07.910
 <v Maya>Increased red blood cell count, the transport agents carrying oxygen and nutrients.
 
 122
-00:07:08.000 --> 00:07:10.870
+00:07:07.960 --> 00:07:10.780
 <v Maya>Neocapillarization, more new capillaries.
 
 123
-00:07:10.920 --> 00:07:16.160
+00:07:10.830 --> 00:07:16.070
 <v Maya>Increased elasticity of blood vessels, so they regain their shape and blood flows smoothly.
 
 124
-00:07:16.210 --> 00:07:20.090
+00:07:16.120 --> 00:07:20.000
 <v Maya>Increased mitochondrial density, more energy production per cell.
 
 125
-00:07:20.140 --> 00:07:24.850
+00:07:20.050 --> 00:07:24.760
 <v Maya>Then increased resistance to fatigue, you tire later, and increased endurance.
 
 126
-00:07:24.900 --> 00:07:26.880
+00:07:24.810 --> 00:07:26.800
 <v Dev>Is there a way to group them?
 
 127
-00:07:26.930 --> 00:07:27.780
+00:07:26.850 --> 00:07:27.690
 <v Maya>Yes.
 
 128
-00:07:27.830 --> 00:07:32.630
+00:07:27.740 --> 00:07:32.540
 <v Maya>More capillaries, more red blood cells and more mitochondria are about quantity.
 
 129
-00:07:32.680 --> 00:07:36.050
+00:07:32.590 --> 00:07:35.950
 <v Maya>Tiring later and higher endurance are about quality.
 
 130
-00:07:36.100 --> 00:07:37.650
+00:07:36.000 --> 00:07:37.550
 <v Dev>And respiratory?
 
 131
-00:07:37.700 --> 00:07:42.350
+00:07:37.600 --> 00:07:42.260
 <v Maya>Respiratory muscles get stronger, the diaphragm and intercostal muscles.
 
 132
-00:07:42.400 --> 00:07:44.930
+00:07:42.310 --> 00:07:44.840
 <v Maya>Lung volume and capacity increase.
 
 133
-00:07:44.980 --> 00:07:47.730
+00:07:44.890 --> 00:07:47.640
 <v Maya>Blood flow to the lobes of the lungs improves.
 
 134
-00:07:47.780 --> 00:07:50.300
+00:07:47.690 --> 00:07:50.210
 <v Maya>The alveoli are used more efficiently.
 
 135
-00:07:50.350 --> 00:07:52.290
+00:07:50.260 --> 00:07:52.210
 <v Maya>Gaseous exchange increases.
 
 136
-00:07:52.340 --> 00:07:56.880
+00:07:52.260 --> 00:07:56.800
 <v Maya>And recovery from exercise improves, so you get back to normal faster.
 
 137
-00:07:56.930 --> 00:07:58.800
+00:07:56.850 --> 00:07:58.730
 <v Dev>Now the class questions.
 
 138
-00:07:58.850 --> 00:08:03.150
+00:07:58.780 --> 00:08:03.070
 <v Maya>First, some people say cardio isn't necessary, only strength training.
 
 139
-00:08:03.200 --> 00:08:06.980
+00:08:03.120 --> 00:08:06.900
 <v Maya>The answer is that all components of fitness are interdependent.
 
 140
-00:08:07.030 --> 00:08:10.120
+00:08:06.950 --> 00:08:10.040
 <v Maya>You don't leave your heart and lungs at home on a strength day.
 
 141
-00:08:10.170 --> 00:08:17.540
+00:08:10.090 --> 00:08:17.460
 <v Maya>Oxygenated blood is needed, and that's partly why rest intervals between sets matter, for cardiorespiratory recovery.
 
 142
-00:08:17.590 --> 00:08:22.160
+00:08:17.510 --> 00:08:22.080
 <v Maya>How much cardio depends on the goal, for a marathon more, for bodybuilding less.
 
 143
-00:08:22.210 --> 00:08:25.520
+00:08:22.130 --> 00:08:25.440
 <v Maya>But in general cardio is important for everyone.
 
 144
-00:08:25.570 --> 00:08:28.110
+00:08:25.490 --> 00:08:28.030
 <v Dev>And cardio first or weights first?
 
 145
-00:08:28.160 --> 00:08:31.380
+00:08:28.080 --> 00:08:31.300
 <v Maya>That's a scheduling question, answered in the scheduling lectures.
 
 146
-00:08:31.430 --> 00:08:32.590
+00:08:31.350 --> 00:08:32.510
 <v Maya>Pause and think.
 
 147
-00:08:32.640 --> 00:08:34.880
+00:08:32.560 --> 00:08:34.800
 <v Maya>A person weighs sixty kilograms.
 
 148
-00:08:34.930 --> 00:08:37.810
+00:08:34.850 --> 00:08:37.730
 <v Maya>How much oxygen per minute do they need at rest?
 
 149
-00:08:37.860 --> 00:08:39.970
+00:08:37.780 --> 00:08:39.890
 <v Dev>Three point five times sixty.
 
 150
-00:08:40.020 --> 00:08:42.900
+00:08:39.940 --> 00:08:42.820
 <v Dev>That's two hundred and ten millilitres per minute.
 
 151
-00:08:42.950 --> 00:08:43.900
+00:08:42.870 --> 00:08:43.810
 <v Maya>Correct.
 
 152
-00:08:43.950 --> 00:08:47.010
+00:08:43.860 --> 00:08:46.930
 <v Maya>And two kilometres in ten minutes, what's the speed?
 
 153
-00:08:47.060 --> 00:08:53.560
+00:08:46.980 --> 00:08:53.480
 <v Dev>Ten minutes is one sixth of an hour, so two divided by one sixth is twelve kilometres per hour.
 
 154
-00:08:53.610 --> 00:08:54.460
+00:08:53.530 --> 00:08:54.380
 <v Maya>Right.
 
 155
-00:08:54.510 --> 00:08:56.520
+00:08:54.430 --> 00:08:56.440
 <v Maya>Here are the five things to remember.
 
 156
-00:08:56.570 --> 00:09:02.530
+00:08:56.490 --> 00:09:02.450
 <v Maya>One, resting heart rate sixty to eighty, average seventy two, maximum is two twenty minus age.
 
 157
-00:09:02.580 --> 00:09:10.970
+00:09:02.500 --> 00:09:10.890
 <v Maya>Two, stroke volume is about seventy millilitres per beat, and cardiac output is stroke volume times heart rate, about five litres at rest.
 
 158
-00:09:11.020 --> 00:09:16.750
+00:09:10.940 --> 00:09:16.660
 <v Maya>Three, VO₂ rest is three point five millilitres per kilogram per minute, one MET.
 
 159
-00:09:16.800 --> 00:09:22.090
+00:09:16.710 --> 00:09:22.000
 <v Maya>Four, cardio workload is distance, speed and time, and speed is distance over time.
 
 160
-00:09:22.140 --> 00:09:28.000
+00:09:22.050 --> 00:09:27.910
 <v Maya>Five, chronic adaptations improve both quantity and quality, in the heart, vessels and lungs.
 
 161
-00:09:28.050 --> 00:09:30.320
+00:09:27.960 --> 00:09:30.230
 <v Dev>Next lecture, intensity.
 
 162
-00:09:30.370 --> 00:09:31.620
+00:09:30.280 --> 00:09:31.520
 <v Maya>See you in part four.
 

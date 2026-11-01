@@ -645,7 +645,13 @@ Fartlek comes from Sweden. In the Swedish language **fartlek means "speed play"*
 - How it is run: the trainer and athlete are connected by a walkie-talkie device. The athlete wears a **chest strap**, the heart rate data comes into the trainer's phone in real time, and on that basis the trainer instructs "now jog, run, jog, sprint, jog, run", changing the pace as needed.
 - It is covered so that students are aware of it.
 
-## 7.7 The three graphs compared
+![Fartlek: effort chart and track route](diagrams/18-fartlek.png)
+
+## 7.7 The training methods compared
+
+The four main phases side by side (the three graphs from the lecture, plus Fartlek). Only the main phase differs; the re-warm-up and cool down are the same.
+
+![The four training methods side by side](diagrams/19-methods-profiles.png)
 
 ![Training methods compared](diagrams/15-methods-summary.png)
 

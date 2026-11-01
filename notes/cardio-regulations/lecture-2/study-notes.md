@@ -153,6 +153,8 @@
 
 ![Why the cool down matters](diagrams/16-syncope-flow.png)
 
+![The four training methods side by side](diagrams/19-methods-profiles.png)
+
 | | Continuous | LIIT / MIIT | HIIT |
 |---|---|---|---|
 | Main phase shape | Flat line | Buildings | Mountains |
@@ -164,8 +166,14 @@
 ![Training methods compared](diagrams/15-methods-summary.png)
 
 - **LIIT/MIIT**: beginner jog (moderate) and walk (low), four jog bouts and three walk bouts. Intermediate: run (moderate) and jog (low).
+
+![LIIT / MIIT graph](diagrams/13-liit-miit.png)
 - **HIIT**: sprints (S1 to S4, above 85%, 10 to 30 seconds, adrenaline) with **active rest** (AR1 to AR3) at moderate intensity, such as jogging (not walking, not running). Sprint to rest ratio **1:2 or 1:3**. **Not for beginners**, **not more than twice a week**.
+
+![HIIT graph](diagrams/14-hiit.png)
 - **Fartlek** ("speed play", Sweden): random changes in speed and direction, used for sports. The trainer calls the pace using a chest strap reading.
+
+![Fartlek: effort chart and track route](diagrams/18-fartlek.png)
 - **Six ways to progress:** speed, distance, duration, angle, resistance level, gradient.
 
 ![Six ways to progress](diagrams/17-progression-ways.png)
