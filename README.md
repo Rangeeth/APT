@@ -10,10 +10,10 @@ Study notes only. Muscle and exercise data is based on the Body Part slide decks
 
 ## Lecture notes and podcasts
 
-`notes/` holds the lecture notes for each topic (detailed notes and short study notes, each as a web page, PDF and Markdown) and a revision podcast per topic with a built-in player (subtitles, clickable transcript, speed control, resume).
+`notes/` holds the lecture notes for each topic (detailed notes and short study notes, each as a web page and Markdown) and a revision podcast per topic with a built-in player (subtitles, clickable transcript, speed control, resume).
 
 ```
-notes/<topic>/<lecture>/   detailed-notes.* and study-notes.* (.html .pdf .md), diagrams/, board/
+notes/<topic>/<lecture>/   detailed-notes.* and study-notes.* (.html .md), diagrams/, board/
 notes/<topic>/podcast/     index.html, part-N.mp3, part-N.vtt (captions), podcast.json, transcript.txt
 ```
 

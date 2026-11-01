@@ -6,13 +6,13 @@ Usage (from the repo root):
   python3 tools/build_notes.py --build-only                               # only regenerate the HTML pages
 
 Source layout (the Notes folder):
-  <NN - Lecture name>/<Lecture name> - Detailed Notes.md|.pdf, ... - Study Notes.md|.pdf, diagrams/, board/
+  <NN - Lecture name>/<Lecture name> - Detailed Notes.md, ... - Study Notes.md, diagrams/, board/
   Podcast/<Topic>/<Topic> Podcast - Part N - <title>.mp3 and "... - Transcript.txt"
 
 Site layout produced:
   notes/index.html                              all topics
   notes/<topic>/index.html                      topic page (lectures + podcast)
-  notes/<topic>/<lecture>/detailed-notes.(md|pdf|html), study-notes.(md|pdf|html), diagrams/, board/
+  notes/<topic>/<lecture>/detailed-notes.(md|html), study-notes.(md|html), diagrams/, board/
   notes/<topic>/podcast/index.html + part-N.mp3 + part-N.vtt + podcast.json + transcript.txt
 
 To add a topic or lecture, add it to TOPICS below and re-run. Pandoc and ffmpeg must be installed.
@@ -157,15 +157,19 @@ def render_notes(md_path):
     heads = []
     for hm in re.finditer(r'<h([1-3]) id="([^"]+)">(.*?)</h\1>', h, re.S):
         heads.append((int(hm.group(1)), hm.group(2), strip_tags(hm.group(3))))
-    levels = sorted({l for l, _, _ in heads})
-    top = levels[0] if levels else 1
-    sub = levels[1] if len(levels) > 1 else None
+    # Detailed notes use one h1 per Part (sub-items are the h2s). Study notes have only a couple of
+    # h1s, so there the h1s and h2s are the main items and the h3s sit underneath.
+    n_h1 = sum(1 for l, _, _ in heads if l == 1)
+    if n_h1 >= 4:
+        tops, sub = {1}, 2
+    else:
+        tops, sub = {1, 2}, 3
     items, curr = [], None
     for l, i, t in heads:
-        if l == top:
+        if l in tops:
             curr = dict(id=i, t=t, kids=[])
             items.append(curr)
-        elif sub is not None and l == sub and curr is not None:
+        elif l == sub and curr is not None:
             curr['kids'].append((i, t))
     toc = ['<ul class="toc">']
     for it in items:
@@ -202,7 +206,6 @@ def tabs(depth_up, active, lec, topic):
         return '<a class="tab%s" href="%s"%s>%s</a>' % (' on' if active == key else '', href, ' aria-current="page"' if active == key else '', label)
     return ('<nav class="tabs" aria-label="This lecture">' +
             tab('d', 'Detailed notes', d + '.html') + tab('s', 'Study notes', s + '.html') +
-            '<a class="tab dl" href="%s.pdf" download>PDF</a>' % (d if active == 'd' else s) +
             '<a class="tab dl" href="%s.md">Markdown</a>' % (d if active == 'd' else s) +
             '<a class="tab pod" href="../podcast/index.html">Podcast</a></nav>')
 
@@ -339,8 +342,7 @@ def build_podcast_page(topic):
 def lecture_links(lec):
     return ('<a class="chipl" href="%s/detailed-notes.html">Detailed notes</a>'
             '<a class="chipl" href="%s/study-notes.html">Study notes</a>'
-            '<a class="chipl dl" href="%s/detailed-notes.pdf" download>PDF detailed</a>'
-            '<a class="chipl dl" href="%s/study-notes.pdf" download>PDF study</a>') % ((lec['slug'],) * 4)
+            ) % ((lec['slug'],) * 2)
 
 def build_topic_page(topic):
     pod = load_podcast(topic)
@@ -389,7 +391,7 @@ def build_index():
     have = sum(1 for i in COURSE if len(i) == 3)
     body = f'''<main class="home">
 <div class="dochead"><div class="eyebrow">Personal training &middot; Revision</div><h1>Lecture notes</h1>
-<p class="lead">Detailed notes, short study notes (each also as PDF) and a revision podcast with subtitles for each topic. Use the search box above to search every note and podcast. More topics will be added.</p>
+<p class="lead">Detailed notes, short study notes and a revision podcast with subtitles for each topic. Use the search box above to search every note and podcast. More topics will be added.</p>
 <div class="note" role="note">{DISCLAIMER}</div></div>
 <h2 class="sec">Available now</h2>
 <div class="cards">{''.join(cards)}</div>
@@ -406,7 +408,7 @@ def copy_sources(src):
             d = os.path.join(NOTES, t['slug'], lec['slug'])
             os.makedirs(d, exist_ok=True)
             for kind, long in (('Detailed Notes', 'detailed-notes'), ('Study Notes', 'study-notes')):
-                for ext in ('md', 'pdf'):
+                for ext in ('md',):
                     f = os.path.join(s, '%s - %s.%s' % (lec['prefix'], kind, ext))
                     if os.path.exists(f):
                         shutil.copy2(f, os.path.join(d, '%s.%s' % (long, ext)))
